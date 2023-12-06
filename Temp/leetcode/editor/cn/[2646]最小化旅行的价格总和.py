@@ -26,7 +26,7 @@ class Solution:
                 for son in g[node]:
                     if son not in path:
                         q.append((son, path + [son]))
-            print(cnt)
+
             return 0
 # leetcode submit region end(Prohibit modification and deletion)
 
