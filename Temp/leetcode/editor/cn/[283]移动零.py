@@ -89,4 +89,3 @@ class Solution:
 # leetcode submit region end(Prohibit modification and deletion)
 s = Solution()
 s.moveZeroes([0, 1, 0, 3, 12])
-s.moveZeroes([0, 0, 1])

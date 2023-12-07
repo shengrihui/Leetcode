@@ -136,4 +136,3 @@ examples = [
 ]
 for e, a in examples:
     print(a, e)
-    print(s.checkIfPrerequisite(*e))

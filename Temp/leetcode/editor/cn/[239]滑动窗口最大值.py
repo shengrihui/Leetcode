@@ -91,4 +91,3 @@ class Solution:
             q.append(i)
             ans.append(nums[q[0]])
         return ans
-# leetcode submit region end(Prohibit modification and deletion)

@@ -58,5 +58,3 @@ class Solution:
                 # print(i, f[i - 1], f[i])
                 return False
         return True
-
-# leetcode submit region end(Prohibit modification and deletion)

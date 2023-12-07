@@ -49,17 +49,3 @@ class Solution:
 [-401451,-177656,-2147483646,-473874,-814645,-2147483646,-852036,-457533,-401451,-473874,-401451,-216555,-917279,-457533,-852036,-457533,-177656,-2147483646,-177656,-917279,-473874,-852036,-917279,-216555,-814645,2147483645,-2147483648,2147483645,-814645,2147483645,-216555]
 
 """
-# 原码
-# class Solution:
-#     def singleNumber(self, nums: List[int]) -> int:
-#         nums_bins = []
-#         for x in nums:
-#             sig = x < 0
-#             nums_bins.append([sig] + list(map(int, bin(x)[2 + sig:].rjust(32, "0"))))
-#         ans_bin = reduce(lambda x, y: [(a + b) % 3 for a, b in zip(x, y)], nums_bins)
-#         ans = 0
-#         k = 1
-#         for i in range(1, 33):
-#             ans += ans_bin[-i] * k
-#             k *= 2
-#         return -ans if ans_bin[0] else ans

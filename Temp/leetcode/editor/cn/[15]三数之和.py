@@ -81,5 +81,3 @@ class Solution:
             while k < n and nums[k] == a:
                 k += 1
         return ans
-
-# leetcode submit region end(Prohibit modification and deletion)

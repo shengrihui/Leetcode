@@ -47,4 +47,3 @@ class Solution:
         for s in strs:
             d["".join(sorted(list(s)))].append(s)
         return list(d.values())
-# leetcode submit region end(Prohibit modification and deletion)
