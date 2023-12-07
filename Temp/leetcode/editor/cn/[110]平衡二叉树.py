@@ -1,9 +1,6 @@
 # 110 平衡二叉树
-from typing import List, Optional
-from collections import *
-from itertools import *
-from functools import *
-from math import *
+from typing import Optional
+
 import heapq
 
 
@@ -16,24 +13,20 @@ import heapq
 #         self.right = right
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        if not root:
-            return True
-        q = deque()
-        q.append((root, 0))
-        depth = 0
-        while q:
-            size = 0
-            while q and q[0][1] == depth:
-                node, d = q.popleft()
-                size += 1
-                if node.left:
-                    q.append((node.left, d + 1))
-                if node.right:
-                    q.append((node.right, d + 1))
-            if pow(2, depth) > size and q:
-                return False
-            depth += 1
-        return True
+        def get_height(node: Optional[TreeNode]) -> int:
+            # 是平衡二叉树，返回高度
+            # 不是平衡二叉树，返回-1
+            if not node:
+                return 0
+            left_height = get_height(node.left)
+            if left_height == -1:
+                return -1
+            right_height = get_height(node.right)
+            if right_height == -1 or abs(left_height - right_height) > 1:
+                return -1
+            return max(left_height, right_height) + 1
+
+        return get_height(root) != -1
 # leetcode submit region end(Prohibit modification and deletion)
 
 
