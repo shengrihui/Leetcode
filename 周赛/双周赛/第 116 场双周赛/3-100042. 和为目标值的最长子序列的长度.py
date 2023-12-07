@@ -1,7 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from math import *
 
 
 # 题目：100042. 和为目标值的最长子序列的长度
@@ -35,6 +32,7 @@ class Solution:
                 if dp[i] >= 0 and dp[i] + 1 > dp[i + x]:
                     dp[i + x] = dp[i] + 1
         return dp[target]
+
 
 s = Solution()
 examples = [

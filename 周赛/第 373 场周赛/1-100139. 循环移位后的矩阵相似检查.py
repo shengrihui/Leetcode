@@ -1,8 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
 
 
 # 题目：100139. 循环移位后的矩阵相似检查

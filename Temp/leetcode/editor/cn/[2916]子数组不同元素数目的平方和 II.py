@@ -1,10 +1,5 @@
 # 2916 子数组不同元素数目的平方和 II
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 # leetcode submit region begin(Prohibit modification and deletion)
 """

@@ -6,7 +6,6 @@ Created on Wed Sep  8 14:32:35 2021
 """
 
 import heapq
-from heapq import *
 
 
 def findMaximizedCapital(k, w, profits, capital):

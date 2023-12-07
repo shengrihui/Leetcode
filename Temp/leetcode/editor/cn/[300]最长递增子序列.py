@@ -1,9 +1,6 @@
 # 300 最长递增子序列
 import bisect
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 class Solution:

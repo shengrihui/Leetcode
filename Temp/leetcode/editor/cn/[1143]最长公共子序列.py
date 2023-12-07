@@ -1,8 +1,4 @@
 # 1143 最长公共子序列
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

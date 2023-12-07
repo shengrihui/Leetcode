@@ -1,10 +1,4 @@
 # 901 股票价格跨度
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

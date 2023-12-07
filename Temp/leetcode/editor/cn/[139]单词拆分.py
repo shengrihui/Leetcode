@@ -1,8 +1,5 @@
 # 139 单词拆分
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

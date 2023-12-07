@@ -1,10 +1,5 @@
 # 421 数组中两个数的最大异或值
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # class Solution:

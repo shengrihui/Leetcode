@@ -1,9 +1,6 @@
 # 188 买卖股票的最佳时机 IV
 import heapq
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -36,8 +36,6 @@
 #  Related Topics 深度优先搜索 广度优先搜索 数组 矩阵 模拟 👍 8 👎 0
 
 from typing import *
-from collections import *
-from itertools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

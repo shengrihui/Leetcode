@@ -1,7 +1,4 @@
 # 70 爬楼梯
-from typing import *
-from collections import *
-from itertools import *
 from functools import *
 
 

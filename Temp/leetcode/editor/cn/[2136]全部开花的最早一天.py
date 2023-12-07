@@ -1,8 +1,5 @@
 # 2136 全部开花的最早一天
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

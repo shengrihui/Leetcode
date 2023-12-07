@@ -1,10 +1,6 @@
 # 2316 统计无向图中无法互相到达点对数
-from typing import *
 from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
+from typing import *
 
 
 # class Solution:

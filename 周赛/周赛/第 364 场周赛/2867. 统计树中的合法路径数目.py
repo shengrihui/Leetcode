@@ -1,7 +1,4 @@
-from math import isqrt
 from typing import List
-from collections import *
-from itertools import *
 
 # 题目：# 2867. 统计树中的合法路径数目
 # 题目链接：

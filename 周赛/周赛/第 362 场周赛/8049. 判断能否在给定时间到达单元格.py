@@ -1,6 +1,3 @@
-from typing import List
-
-
 # 题目：# 8049. 判断能否在给定时间到达单元格
 # 题目链接：
 class Solution:

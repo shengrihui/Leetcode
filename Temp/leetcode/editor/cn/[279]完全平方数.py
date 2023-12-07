@@ -1,7 +1,5 @@
 # 279 完全平方数
-from typing import *
 from collections import *
-from itertools import *
 from functools import *
 from math import *
 

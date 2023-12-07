@@ -1,10 +1,7 @@
 # 318 最大单词长度乘积
-from typing import *
 from collections import *
-from itertools import *
 from functools import *
-from math import *
-import heapq
+from typing import *
 
 
 # class Solution:

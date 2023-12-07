@@ -1,7 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-
 # 题目：# 5契合匹配
 # 题目链接：https://www.lanqiao.cn/problems/5132/learning/?contest_id=144
 def build_partial_match_table(pattern):
@@ -19,6 +15,7 @@ def build_partial_match_table(pattern):
                 table[i] = 0
     return table
 
+
 def kmp_search(text, pattern):
     partial_match_table = build_partial_match_table(pattern)
     i, j = 0, 0
@@ -35,6 +32,8 @@ def kmp_search(text, pattern):
         return i - j
     else:
         return -1
+
+
 n = int(input())
 A = input()
 B = list(input())
@@ -45,7 +44,7 @@ for i, b in enumerate(B):
         B[i] = chr(ord(b) - 32)
 B = "".join(B)
 AA = A + A
-i = kmp_search(AA,B)
+i = kmp_search(AA, B)
 if i == -1:
     print("No")
 else:

@@ -51,8 +51,6 @@
 
 
 from typing import *
-from collections import *
-from itertools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

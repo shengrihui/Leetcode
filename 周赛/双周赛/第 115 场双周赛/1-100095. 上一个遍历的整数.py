@@ -1,6 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
 
 
 # 题目：100095. 上一个遍历的整数

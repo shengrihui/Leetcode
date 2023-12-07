@@ -1,8 +1,5 @@
 # LCP 06 拿硬币
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,8 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-
-
 # 题目：100084. 最短且字典序最小的美丽子字符串
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-367/problems/shortest-and-lexicographically-smallest-beautiful-string/

@@ -1,10 +1,6 @@
 # 124 二叉树中的最大路径和
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
 from math import *
-import heapq
+from typing import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

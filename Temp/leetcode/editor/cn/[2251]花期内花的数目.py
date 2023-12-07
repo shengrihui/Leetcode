@@ -1,9 +1,8 @@
 # 2251 花期内花的数目
 import bisect
-from typing import *
 from collections import *
 from itertools import *
-from functools import *
+from typing import *
 
 
 class Solution:

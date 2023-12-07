@@ -1,17 +1,10 @@
 # 2336 无限集中的最小数字
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
-
-
-
 
 # leetcode submit region begin(Prohibit modification and deletion)
 # from sortedcontainers import SortedList
 from sortedcontainers import SortedSet
+
+
 class SmallestInfiniteSet:
 
     def __init__(self):

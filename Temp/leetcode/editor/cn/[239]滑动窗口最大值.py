@@ -41,9 +41,8 @@
 #  Related Topics 队列 数组 滑动窗口 单调队列 堆（优先队列） 👍 2507 👎 0
 
 
-from typing import *
 from collections import *
-from itertools import *
+from typing import *
 
 # 暴力
 """

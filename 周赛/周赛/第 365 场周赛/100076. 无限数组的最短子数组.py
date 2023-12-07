@@ -1,6 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
 
 
 # 题目：# 100076. 无限数组的最短子数组

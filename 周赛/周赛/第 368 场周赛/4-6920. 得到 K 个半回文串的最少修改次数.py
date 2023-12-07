@@ -1,7 +1,3 @@
-from functools import cache
-from typing import List
-from collections import *
-from itertools import *
 from math import *
 
 # 题目：6920. 得到 K 个半回文串的最少修改次数

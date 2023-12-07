@@ -1,7 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-
 # 题目：# 3
 # 题目链接：https://www.lanqiao.cn/problems/6278/learning/?contest_id=146
 
@@ -14,7 +10,7 @@ for _ in range(T):
     s1, s2 = input().split()
     s1 = "".join(sorted(list(set(s1)), key=lambda c: d[c]))
     s2 = "".join(sorted(list(set(s2)), key=lambda c: d[c]))
-    print(s1,s2)
+    print(s1, s2)
     if s1 == "MF" or len(s1) == 1:
         print(s)
         continue

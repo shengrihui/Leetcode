@@ -5,10 +5,11 @@ Created on Sun Aug 15 12:15:09 2021
 @author: 11200
 """
 
-import numpy
-import scipy.signal
-import numpy as np
 from collections import defaultdict
+
+import numpy
+import numpy as np
+import scipy.signal
 
 
 def findPaths(m, n, maxMove, startRow, startColumn):

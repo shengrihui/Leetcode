@@ -1,7 +1,5 @@
 from functools import cache
 from typing import List
-from collections import *
-from itertools import *
 
 
 # 题目：100077. 最长相邻不相等子序列 II
@@ -59,7 +57,7 @@ s = Solution()
 examples = [
     (dict(n=3, words=["bab", "dab", "cab"], groups=[1, 2, 2]), ["bab", "cab"]),
     (dict(n=3, words=["bdb", "aaa", "ada"], groups=[2, 1, 3]), ["aaa", "ada"]),
-    (dict(n=3, words=["aab","ca","cbd"], groups=[3, 3, 2]),["cbd"]),
+    (dict(n=3, words=["aab", "ca", "cbd"], groups=[3, 3, 2]), ["cbd"]),
     (dict(n=4, words=["a", "b", "c", "d"], groups=[1, 2, 3, 4]), ["a", "b", "c", "d"]),
     (dict(n=9, words=["bad", "dc", "bc", "ccd", "dd", "da", "cad", "dba", "aba"], groups=[9, 7, 1, 2, 6, 8, 3, 7, 2]),
      ["dc", "dd", "da"]),

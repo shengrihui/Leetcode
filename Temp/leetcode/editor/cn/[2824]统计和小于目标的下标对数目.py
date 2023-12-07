@@ -1,10 +1,5 @@
 # 2824 统计和小于目标的下标对数目
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # class Solution:

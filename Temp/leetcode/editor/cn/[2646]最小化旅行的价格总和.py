@@ -1,10 +1,5 @@
 # 2646 最小化旅行的价格总和
-from typing import List, Optional
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
+from typing import List
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

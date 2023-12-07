@@ -36,9 +36,8 @@
 #  Related Topics 数组 哈希表 字符串 排序 👍 1622 👎 0
 
 
-from typing import *
 from collections import *
-from itertools import *
+from typing import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

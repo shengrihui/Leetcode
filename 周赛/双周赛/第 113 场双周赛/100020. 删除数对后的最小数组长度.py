@@ -1,7 +1,5 @@
-from typing import List
-from collections import *
-from itertools import *
 from bisect import *
+from typing import List
 
 # 题目：# 100020. 删除数对后的最小数组长度
 # 题目链接：

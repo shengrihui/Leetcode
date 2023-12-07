@@ -1,6 +1,5 @@
-from typing import List
 from collections import *
-from itertools import *
+from typing import List
 
 
 # 题目：# 8051. 可以被 K 整除连通块的最大数目
@@ -8,12 +7,11 @@ from itertools import *
 # https://leetcode.cn/contest/biweekly-contest-114/problems/maximum-number-of-k-divisible-components/
 class Solution:
     def maxKDivisibleComponents(self, n: int, edges: List[List[int]], values: List[int], k: int) -> int:
-        g=[[]for _ in range(n)]
-        for u,v in edges:
+        g = [[] for _ in range(n)]
+        for u, v in edges:
             g[u].append(v)
             g[v].append(u)
-        q=deque(i for i in range(n) if len(g[i])==1)
-
+        q = deque(i for i in range(n) if len(g[i]) == 1)
 
 
 s = Solution()

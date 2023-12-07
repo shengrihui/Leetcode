@@ -42,8 +42,6 @@
 #  Related Topics 位运算 数组 👍 2956 👎 0
 from functools import reduce
 from typing import *
-from collections import *
-from itertools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
@@ -63,5 +61,5 @@ from itertools import *
 
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        return reduce(lambda x,y:x^y ,nums)
+        return reduce(lambda x, y: x ^ y, nums)
 # leetcode submit region end(Prohibit modification and deletion)

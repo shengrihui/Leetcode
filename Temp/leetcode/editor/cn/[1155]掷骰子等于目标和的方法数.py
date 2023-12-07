@@ -1,10 +1,4 @@
 # 1155 掷骰子等于目标和的方法数
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 class Solution:

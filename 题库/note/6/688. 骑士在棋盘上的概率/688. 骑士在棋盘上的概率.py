@@ -1,8 +1,6 @@
 # 688. 骑士在棋盘上的概率
 # https://leetcode-cn.com/problems/knight-probability-in-chessboard/
 
-from collections import deque
-
 
 # BFS
 # class Solution:

@@ -1,6 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
 
 
 # 题目：# 8038. 收集元素的最少操作次数

@@ -72,7 +72,6 @@
 #  Related Topics 深度优先搜索 广度优先搜索 图 拓扑排序 👍 164 👎 0
 
 
-from collections import *
 from typing import *
 
 
@@ -91,7 +90,8 @@ from typing import *
 
 
 class Solution:
-    def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
+    def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[
+        bool]:
         indeg = [0] * numCourses  # 入度
         f = [[False] * numCourses for _ in range(numCourses)]
         next_ = [[] for _ in range(numCourses)]  # 后继

@@ -1,8 +1,6 @@
 import math
-from typing import List
-from collections import *
-from itertools import *
 from functools import *
+from itertools import *
 
 # 题目：8028. 执行操作使两个字符串相等
 # 题目链接：
@@ -137,7 +135,6 @@ class Solution:
         for i, j in pairwise(p):
             f0, f1 = f1, min(f1 + x, f0 + 2 * (j - i))
         return f1 // 2
-
 
 
 s = Solution()

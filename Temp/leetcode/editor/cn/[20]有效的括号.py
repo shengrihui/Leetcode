@@ -1,8 +1,4 @@
 # 20 有效的括号
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,8 +1,6 @@
-from typing import List
-from collections import *
-from itertools import *
 from functools import *
 from math import *
+from typing import List
 
 
 # 题目：100133. 购买水果需要的最少金币数

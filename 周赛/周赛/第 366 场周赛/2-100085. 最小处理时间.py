@@ -1,7 +1,4 @@
-import heapq
 from typing import List
-from collections import *
-from itertools import *
 
 
 # 题目：100085. 最小处理时间

@@ -1,8 +1,6 @@
 # 137 只出现一次的数字 II
-from typing import *
 from collections import *
-from itertools import *
-from functools import *
+from typing import *
 
 
 class Solution:
@@ -14,7 +12,7 @@ class Solution:
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
-#补码
+# 补码
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         bins = [0] * 32

@@ -1,10 +1,4 @@
 # 520 检测大写字母
-from typing import List, Optional
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

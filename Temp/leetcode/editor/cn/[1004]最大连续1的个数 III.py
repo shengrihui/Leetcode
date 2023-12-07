@@ -1,10 +1,5 @@
 # 1004 最大连续1的个数 III
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # 同向双指针/滑动窗口
@@ -53,7 +48,7 @@ class Solution:
         # 区间长度为 right - left
         ans = 0
         for right in range(n, 0, -1):
-            l, r = 0, right-1
+            l, r = 0, right - 1
             while l <= r:
                 mid = (l + r) // 2
                 if pre[right] - pre[mid] <= k:

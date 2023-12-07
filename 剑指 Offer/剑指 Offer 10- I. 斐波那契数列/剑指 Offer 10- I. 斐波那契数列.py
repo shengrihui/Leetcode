@@ -7,10 +7,11 @@ Created on Mon Sep  6 17:51:48 2021
 
 # 剑指 Offer 10- I. 斐波那契数列
 
-from matplotlib import pyplot as plt
 import time
-import tqdm
 from itertools import accumulate
+
+import tqdm
+from matplotlib import pyplot as plt
 
 
 def fib1(n):

@@ -1,10 +1,6 @@
 # 1658 将 x 减到 0 的最小操作数
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
 from math import *
-import heapq
+from typing import *
 
 
 # BFS 超内存

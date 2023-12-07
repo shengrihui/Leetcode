@@ -1,9 +1,5 @@
 # 54 螺旋矩阵
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
@@ -23,7 +19,7 @@ class Solution:
                 si += 1
                 d = 1
             elif d == 1 and i == ei:
-                ej-= 1
+                ej -= 1
                 d = 2
             elif d == 2 and j == sj:
                 ei -= 1

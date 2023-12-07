@@ -5,9 +5,9 @@ Created on Mon Aug 30 11:18:58 2021
 @author: 11200
 """
 
-import random
-import itertools
 import bisect
+import itertools
+import random
 
 
 # class Solution:

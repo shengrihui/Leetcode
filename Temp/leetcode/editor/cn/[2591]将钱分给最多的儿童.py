@@ -1,8 +1,4 @@
 # 2591 将钱分给最多的儿童
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

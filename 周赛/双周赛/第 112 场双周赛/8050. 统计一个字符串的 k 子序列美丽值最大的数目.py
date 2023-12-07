@@ -1,6 +1,3 @@
-from typing import List
-
-
 # 题目：# 8050. 统计一个字符串的 k 子序列美丽值最大的数目
 # 题目链接： https://leetcode.cn/contest/biweekly-contest-112/problems/count-k-subsequences-of-a-string-with-maximum-beauty/
 class Solution:

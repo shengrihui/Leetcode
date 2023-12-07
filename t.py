@@ -76,4 +76,4 @@ def f(x, p):
 
 a = 0
 lst = [0] * 100
-f(1,lst)
+f(1, lst)

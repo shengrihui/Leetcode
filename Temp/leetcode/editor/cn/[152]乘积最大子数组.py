@@ -1,8 +1,5 @@
 # 152 乘积最大子数组
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

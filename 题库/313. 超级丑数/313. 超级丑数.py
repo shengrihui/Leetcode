@@ -5,8 +5,8 @@ Created on Mon Aug  9 16:47:23 2021
 @author: 11200
 """
 
-import time
 import heapq
+import time
 
 
 def Answer_1(n, primes):

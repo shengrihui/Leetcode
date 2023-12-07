@@ -1,8 +1,4 @@
 # 460 LFU 缓存
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
@@ -128,7 +124,7 @@ class LFUCache:
 obj = LFUCache(2)
 # method = ["put", "put", "get", "put", "get", "get", "put", "get", "get", "get"]
 # args = [[1, 1], [2, 2], [1], [3, 3], [2], [3], [4, 4], [1], [3], [4]]
-args=[[1,1],[2,2],[1],[3,3],[2],[3],[4,4],[1],[3],[4]]
+args = [[1, 1], [2, 2], [1], [3, 3], [2], [3], [4, 4], [1], [3], [4]]
 null = None
 answer = [null, null, 1, null, -1, 3, null, -1, 3, 4]
 for m, arg, ans in zip(method, args, answer):

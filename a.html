@@ -1,81 +1,97 @@
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
     <meta charset="utf-8">
     <title>CSRF 校验失败</title>
-    <meta property="og:title" content="" />
-    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover' name='viewport' />
+    <meta property="og:title" content=""/>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover'
+          name='viewport'/>
 
-    <link rel="apple-touch-icon" sizes="57x57" href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-57x57.png" />
-    <link rel="apple-touch-icon" sizes="60x60" href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-60x60.png" />
-    <link rel="apple-touch-icon" sizes="72x72" href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-72x72.png" />
-    <link rel="apple-touch-icon" sizes="76x76" href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-76x76.png" />
-    <link rel="apple-touch-icon" sizes="114x114" href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-114x114.png" />
-    <link rel="apple-touch-icon" sizes="120x120" href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-120x120.png" />
-    <link rel="apple-touch-icon" sizes="144x144" href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-144x144.png" />
-    <link rel="apple-touch-icon" sizes="152x152" href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-152x152.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-180x180.png" />
-    <link rel="icon" type="image/png" href="https://static.leetcode-cn.com/cn-assets/icons/favicon-16x16.png" sizes="16x16" />
-    <link rel="icon" type="image/png" href="https://static.leetcode-cn.com/cn-assets/icons/favicon-32x32.png" sizes="32x32" />
-    <link rel="icon" type="image/png" href="https://static.leetcode-cn.com/cn-assets/icons/favicon-96x96.png" sizes="96x96" />
-    <link rel="icon" type="image/png" href="https://static.leetcode-cn.com/cn-assets/icons/favicon-160x160.png" sizes="160x160" />
-    <link rel="icon" type="image/png" href="https://static.leetcode-cn.com/cn-assets/icons/favicon-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" sizes="57x57"
+          href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-57x57.png"/>
+    <link rel="apple-touch-icon" sizes="60x60"
+          href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-60x60.png"/>
+    <link rel="apple-touch-icon" sizes="72x72"
+          href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="76x76"
+          href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-76x76.png"/>
+    <link rel="apple-touch-icon" sizes="114x114"
+          href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-114x114.png"/>
+    <link rel="apple-touch-icon" sizes="120x120"
+          href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-120x120.png"/>
+    <link rel="apple-touch-icon" sizes="144x144"
+          href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-144x144.png"/>
+    <link rel="apple-touch-icon" sizes="152x152"
+          href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="180x180"
+          href="https://static.leetcode-cn.com/cn-assets/icons/apple-touch-icon-180x180.png"/>
+    <link rel="icon" type="image/png" href="https://static.leetcode-cn.com/cn-assets/icons/favicon-16x16.png"
+          sizes="16x16"/>
+    <link rel="icon" type="image/png" href="https://static.leetcode-cn.com/cn-assets/icons/favicon-32x32.png"
+          sizes="32x32"/>
+    <link rel="icon" type="image/png" href="https://static.leetcode-cn.com/cn-assets/icons/favicon-96x96.png"
+          sizes="96x96"/>
+    <link rel="icon" type="image/png" href="https://static.leetcode-cn.com/cn-assets/icons/favicon-160x160.png"
+          sizes="160x160"/>
+    <link rel="icon" type="image/png" href="https://static.leetcode-cn.com/cn-assets/icons/favicon-192x192.png"
+          sizes="192x192"/>
     <meta name="application-name" content="LeetCode"/>
-    <meta name="msapplication-TileColor" content="#da532c" />
-    <meta name="msapplication-TileImage" content="https://static.leetcode-cn.com/cn-assets/icons/mstile-144x144.png" />
+    <meta name="msapplication-TileColor" content="#da532c"/>
+    <meta name="msapplication-TileImage" content="https://static.leetcode-cn.com/cn-assets/icons/mstile-144x144.png"/>
 
 
     <style>
-      html, body {
-        width: 100%;
-        height: 100%;
-        margin: 0;
-      }
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+        }
 
-      body {
-        position: relative;
-        overflow: hidden;
-      }
+        body {
+            position: relative;
+            overflow: hidden;
+        }
 
-      #main {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        margin: 15% auto auto;
-        max-width: 500px;
-        height: 400px;
-      }
+        #main {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: 15% auto auto;
+            max-width: 500px;
+            height: 400px;
+        }
 
-      #main h1 {
-        line-height: 2;
-        color: #444;
-        border-bottom: 1px solid #444;
-      }
+        #main h1 {
+            line-height: 2;
+            color: #444;
+            border-bottom: 1px solid #444;
+        }
 
-      #main > p {
-        font-size: 16px;
-        line-height: 1.5;
-      }
+        #main > p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
 
-      #main li {
-        line-height: 2;
-      }
+        #main li {
+            line-height: 2;
+        }
     </style>
-  </head>
-  <body>
-    <div id="main">
-      <h1>CSRF 校验失败</h1>
-      <p>你的请求中的一些安全信息校验失败了。</p>
-      <p>
+</head>
+<body>
+<div id="main">
+    <h1>CSRF 校验失败</h1>
+    <p>你的请求中的一些安全信息校验失败了。</p>
+    <p>
         你可以尝试下列步骤来修复这个问题：
-        <ol>
-          <li>清除 <a href="https://leetcode-cn.com">https://leetcode-cn.com</a> 下的 Cookies</li>
-          <li>刷新页面</li>
-        </ol>
-      </p>
-      <p>如果你想了解更多关于 CSRF 的信息，请参考<a href="https://en.wikipedia.org/wiki/Cross-site_request_forgery">维基百科</a></p>
-    </div>
-  </body>
+    <ol>
+        <li>清除 <a href="https://leetcode-cn.com">https://leetcode-cn.com</a> 下的 Cookies</li>
+        <li>刷新页面</li>
+    </ol>
+    </p>
+    <p>如果你想了解更多关于 CSRF 的信息，请参考<a
+            href="https://en.wikipedia.org/wiki/Cross-site_request_forgery">维基百科</a></p>
+</div>
+</body>
 </html>

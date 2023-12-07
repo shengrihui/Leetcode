@@ -1,9 +1,5 @@
 # LCP 50 宝石补给
-from math import inf
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

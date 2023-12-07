@@ -1,6 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
 
 
 # 题目：100078. 最长相邻不相等子序列 I

@@ -1,10 +1,5 @@
 # 27 移除元素
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 class Solution:

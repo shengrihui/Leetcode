@@ -1,6 +1,5 @@
-from typing import List
 from collections import *
-from itertools import *
+from typing import List
 
 # 题目：# 6988. 统计距离为 k 的点对
 # 题目链接：https://leetcode.cn/problems/count-pairs-of-points-with-distance-k/

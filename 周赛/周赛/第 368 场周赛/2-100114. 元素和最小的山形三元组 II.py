@@ -1,7 +1,5 @@
-from typing import List
-from collections import *
-from itertools import *
 from math import *
+from typing import List
 
 
 # 题目：100114. 元素和最小的山形三元组 II

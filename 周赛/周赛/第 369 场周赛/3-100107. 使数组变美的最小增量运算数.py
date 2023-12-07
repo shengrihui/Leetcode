@@ -1,8 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from math import *
-from functools import *
 
 # 题目：100107. 使数组变美的最小增量运算数
 # 题目链接：

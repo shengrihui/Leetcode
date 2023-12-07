@@ -1,8 +1,4 @@
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import *
 
 
 # 题目：100145. 统计完全子字符串

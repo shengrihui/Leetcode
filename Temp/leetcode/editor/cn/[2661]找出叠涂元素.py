@@ -1,10 +1,7 @@
 # 2661 找出叠涂元素
-from typing import List, Optional
-from collections import *
-from itertools import *
 from functools import *
-from math import *
-import heapq
+from itertools import *
+from typing import List
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

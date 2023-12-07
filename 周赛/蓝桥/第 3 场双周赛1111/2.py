@@ -1,7 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-
 # 题目：# 2
 # 题目链接：
 

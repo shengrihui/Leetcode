@@ -1,8 +1,5 @@
-from typing import List
-from collections import *
-from itertools import *
-from functools import *
 from math import *
+from typing import List
 
 
 # 题目：100117. 最大化数组末位元素的最少操作次数

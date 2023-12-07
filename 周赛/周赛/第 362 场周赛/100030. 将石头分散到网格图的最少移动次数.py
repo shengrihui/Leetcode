@@ -1,8 +1,6 @@
 from itertools import permutations
 from math import inf
 from typing import List
-from collections import deque
-from copy import deepcopy
 
 
 # 题目：# 100030. 将石头分散到网格图的最少移动次数

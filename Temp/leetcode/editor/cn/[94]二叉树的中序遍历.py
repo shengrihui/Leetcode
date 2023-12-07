@@ -1,10 +1,5 @@
 # 94 二叉树的中序遍历
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # Definition for a binary tree node.

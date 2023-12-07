@@ -1,8 +1,5 @@
-from typing import List
-from collections import *
-from itertools import *
-from functools import *
 from math import *
+from typing import List
 
 # 题目：100112. 平衡子序列的最大和
 # 题目链接：
@@ -195,7 +192,6 @@ class SegTree:
 
     def _update(self, k: int) -> None:
         self._d[k] = self._op(self._d[2 * k], self._d[2 * k + 1])
-
 
 
 class Solution:

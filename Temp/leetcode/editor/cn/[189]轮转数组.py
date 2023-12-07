@@ -1,9 +1,6 @@
 # 189 轮转数组
 from math import gcd
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # 多一个数组

@@ -1,8 +1,5 @@
 # 123 买卖股票的最佳时机 III
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

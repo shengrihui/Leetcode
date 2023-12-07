@@ -1,10 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-
-
 # 题目：100127. 给小朋友们分糖果 II
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/biweekly-contest-117/problems/distribute-candies-among-children-ii/

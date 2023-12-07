@@ -1,8 +1,4 @@
 # 32 最长有效括号
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 class Solution:

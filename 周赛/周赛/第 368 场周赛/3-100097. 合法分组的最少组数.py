@@ -1,6 +1,5 @@
-from typing import List
 from collections import *
-from itertools import *
+from typing import List
 
 
 # 题目：100097. 合法分组的最少组数

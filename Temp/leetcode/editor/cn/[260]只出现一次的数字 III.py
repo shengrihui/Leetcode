@@ -1,8 +1,6 @@
 # 260 只出现一次的数字 III
-from typing import *
-from collections import *
-from itertools import *
 from functools import *
+from typing import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
@@ -11,7 +9,7 @@ class Solution:
         xorRes = reduce(lambda x, y: x ^ y, nums)
 
         # l = xorRes & (-xorRes)  # 找到最后一位出现1的位置，..xxx1000..
-        l = 1#
+        l = 1  #
         while xorRes & l == 0:
             l <<= 1
         a = b = 0  # 第l位是1的和a按位异或，这样所有第l位的数字异或完了，a就是那个只出现一次的数字之一

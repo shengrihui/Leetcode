@@ -1,6 +1,5 @@
-from typing import List
 from collections import *
-from itertools import *
+from typing import List
 
 
 # 题目：100087. 对数组执行操作使平方和最大

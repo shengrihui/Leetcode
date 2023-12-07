@@ -1,9 +1,5 @@
 # 240 搜索二维矩阵 II
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

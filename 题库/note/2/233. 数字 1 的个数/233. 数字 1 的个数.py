@@ -5,8 +5,6 @@ Created on Fri Aug 13 10:03:19 2021
 @author: 11200
 """
 
-from collections import defaultdict
-
 
 def countDigitOne(n):
     """纯暴力解法。

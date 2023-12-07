@@ -1,6 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
 
 # 题目：100049. 美丽塔 I
 # 题目链接：

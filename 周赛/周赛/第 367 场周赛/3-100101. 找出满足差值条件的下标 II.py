@@ -1,6 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
 
 
 # 题目：100101. 找出满足差值条件的下标 II

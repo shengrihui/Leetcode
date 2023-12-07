@@ -1,8 +1,5 @@
 # 337 打家劫舍 III
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

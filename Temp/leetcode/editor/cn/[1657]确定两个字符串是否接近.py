@@ -1,10 +1,5 @@
 # 1657 确定两个字符串是否接近
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

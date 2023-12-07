@@ -1,7 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from math import *
 
 
 # 题目：100102. 数组的最小相等和

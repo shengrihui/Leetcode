@@ -1,8 +1,5 @@
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import *
+from typing import List
 
 
 # 题目：100128. 高访问员工

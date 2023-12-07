@@ -1,10 +1,6 @@
 # 1465 切割后面积最大的蛋糕
-from typing import *
-from collections import *
 from itertools import *
-from functools import *
-from math import *
-import heapq
+from typing import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

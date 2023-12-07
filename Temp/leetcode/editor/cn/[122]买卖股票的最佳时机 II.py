@@ -1,8 +1,6 @@
 # 122 买卖股票的最佳时机 II
-from typing import *
-from collections import *
 from itertools import *
-from functools import *
+from typing import *
 
 
 # class Solution:

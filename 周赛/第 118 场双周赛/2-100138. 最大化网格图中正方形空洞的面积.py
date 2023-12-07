@@ -1,8 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
 
 
 # 题目：100138. 最大化网格图中正方形空洞的面积
@@ -37,7 +33,7 @@ examples = [
     (dict(n=2, m=1, hBars=[2, 3], vBars=[2]), 4),
     (dict(n=1, m=1, hBars=[2], vBars=[2]), 4),
     (dict(n=2, m=3, hBars=[2, 3], vBars=[2, 3, 4]), 9),
-    (dict(n=2, m=4, hBars=[2, 3], vBars=[2,  4]), 4),
+    (dict(n=2, m=4, hBars=[2, 3], vBars=[2, 4]), 4),
 ]
 for e, a in examples:
     print(a, e)

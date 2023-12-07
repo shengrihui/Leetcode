@@ -1,10 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-
-
 # 题目：100131. 使三个字符串相等
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-372/problems/make-three-strings-equal/

@@ -1,10 +1,5 @@
 # 1423 可获得的最大点数
-from typing import List, Optional
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
+from typing import List
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
@@ -17,7 +12,7 @@ class Solution:
         if k == n:
             return sum(cardPoints)
         ss = sum(cardPoints)
-        s = sum(cardPoints[:n - k ])
+        s = sum(cardPoints[:n - k])
         left = 0
         sk = s
         for right in range(n - k, n):

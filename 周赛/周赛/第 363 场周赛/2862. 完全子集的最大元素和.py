@@ -1,8 +1,5 @@
-import itertools
 from math import isqrt
 from typing import List
-from collections import *
-from itertools import *
 
 # 题目：# 2862. 完全子集的最大元素和
 # 题目链接：

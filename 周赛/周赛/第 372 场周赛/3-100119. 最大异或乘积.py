@@ -1,10 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-
-
 # 题目：100119. 最大异或乘积
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-372/problems/maximum-xor-product/

@@ -1,5 +1,4 @@
 # 1466 重新规划路线
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

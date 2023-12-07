@@ -1,9 +1,3 @@
-import socket
-
-import psutil
-from lxml import etree
-
-
 # def is_port_in_use(port):
 #     """
 #     检查指定端口是否已经被占用
@@ -28,12 +22,15 @@ from lxml import etree
 #         except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
 #             pass
 import psutil
+from lxml import etree
+
 
 def is_port_in_use(port):
     for conn in psutil.net_connections():
         if conn.laddr.port == port:
             return True
     return False
+
 
 def kill_process_using_port(port):
     for process in psutil.process_iter(attrs=['pid', 'name']):

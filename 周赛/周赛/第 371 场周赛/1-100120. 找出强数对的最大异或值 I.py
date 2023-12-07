@@ -1,8 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
 
 
 # 题目：100120. 找出强数对的最大异或值 I

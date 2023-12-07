@@ -1,8 +1,6 @@
 # 110 平衡二叉树
 from typing import Optional
 
-import heapq
-
 
 # leetcode submit region begin(Prohibit modification and deletion)
 # Definition for a binary tree node.

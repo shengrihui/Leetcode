@@ -1,8 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-
-
 # 题目：# 8048. 最大二进制奇数
 # 题目链接：
 class Solution:

@@ -5,9 +5,8 @@ Created on Tue May 18 18:28:29 2021
 @author: 11200
 """
 
-from functools import reduce
-from collections import Counter
 from collections import defaultdict
+from functools import reduce
 
 
 def countTriplets1(arr):

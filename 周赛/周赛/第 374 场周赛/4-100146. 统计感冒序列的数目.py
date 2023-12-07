@@ -1,7 +1,5 @@
-from typing import List
-from collections import *
 from itertools import *
-from functools import *
+from typing import List
 
 # from math import *
 

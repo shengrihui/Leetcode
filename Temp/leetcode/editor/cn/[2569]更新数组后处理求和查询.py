@@ -1,10 +1,5 @@
 # 2569 更新数组后处理求和查询
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

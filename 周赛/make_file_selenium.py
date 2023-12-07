@@ -6,7 +6,6 @@ from time import *
 import selenium
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver import DesiredCapabilities
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -139,7 +138,8 @@ if __name__ == '__main__':
             with open(file_name, "w", encoding="utf-8") as f:
                 file_content = py.format(title=problem_title, contest_link=problem_contest_link, code=code,
                                          examples=examples, function_name=f_name,
-                                         leetcode_link="https://leetcode.cn/problems/" + problem_contest_link.strip("/").split("/")[-1])
+                                         leetcode_link="https://leetcode.cn/problems/" +
+                                                       problem_contest_link.strip("/").split("/")[-1])
                 f.write(file_content)
         print(file_name)
         # bro.back()

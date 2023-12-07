@@ -1,7 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-
 # 题目：# 4健身
 # 题目链接：
 from collections import defaultdict

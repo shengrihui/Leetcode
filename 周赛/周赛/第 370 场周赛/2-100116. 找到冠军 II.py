@@ -1,8 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
 
 
 # 题目：100116. 找到冠军 II
@@ -19,6 +15,7 @@ class Solution:
         if len(ans) == 1:
             return ans[0]
         return -1
+
 
 # class Solution:
 #     def findChampion(self, n: int, edges: List[List[int]]) -> int:

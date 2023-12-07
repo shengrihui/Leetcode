@@ -1,11 +1,8 @@
 # 2736 最大和查询
-import bisect
+# leetcode submit region begin(Prohibit modification and deletion)
+import typing
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
+
 
 # class Solution:
 #     def maximumSumQueries(self, nums1: List[int], nums2: List[int], queries: List[List[int]]) -> List[int]:
@@ -37,7 +34,6 @@ import heapq
 #             if p < len(st):
 #                 ans[i] = st[p][1]
 #         return ans
-
 # class Solution:
 #     def maximumSumQueries(self, nums1: List[int], nums2: List[int], queries: List[List[int]]) -> List[int]:
 #         ans = [-1] * len(queries)
@@ -58,14 +54,10 @@ import heapq
 #             if p < len(st):
 #                 ans[i] = st[p][1]
 #         return ans
-
 # 作者：灵茶山艾府
 # 链接：https://leetcode.cn/problems/maximum-sum-queries/solutions/2305395/pai-xu-dan-diao-zhan-shang-er-fen-by-end-of9h/
 # 来源：力扣（LeetCode）
 # 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
-# leetcode submit region begin(Prohibit modification and deletion)
-import typing
 
 
 class SegTree:

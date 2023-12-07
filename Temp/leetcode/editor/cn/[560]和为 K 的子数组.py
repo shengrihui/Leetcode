@@ -1,8 +1,6 @@
 # 560 和为 K 的子数组
-from typing import *
 from collections import *
-from itertools import *
-from functools import *
+from typing import *
 
 
 # class Solution:

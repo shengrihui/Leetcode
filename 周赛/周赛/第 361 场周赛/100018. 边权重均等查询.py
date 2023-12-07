@@ -31,7 +31,7 @@ class Solution:
                     if not vis[v]:  # and mp[u][v]:
                         au_ws_copy.extend(uv_ws)
                         au_mid_copy.extend(uv_mid)
-                        q.append((v, au_mid_copy,au_ws_copy))
+                        q.append((v, au_mid_copy, au_ws_copy))
                         vis[v] = True
                         # if not mp[a][v]:
                         #     mp[a][v] = ws_copy

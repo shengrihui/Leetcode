@@ -1,6 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
 
 
 # 题目：# 8039. 使数组成为递增数组的最少右移次数

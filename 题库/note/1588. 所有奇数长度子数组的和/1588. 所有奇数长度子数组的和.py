@@ -5,8 +5,6 @@ Created on Sun Aug 29 22:23:31 2021
 @author: 11200
 """
 
-import itertools
-
 
 def sumOddLengthSubarrays(arr):
     n = len(arr)

@@ -1,8 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
 
 # 题目：100153. 需要添加的硬币的最小数量
 # 题目链接：

@@ -1,7 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from math import *
 
 
 # 题目：100111. 找出数组中的 K-or 值

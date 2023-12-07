@@ -1,6 +1,3 @@
-from typing import List
-
-
 # 题目：# 8040. 生成特殊数字的最少操作
 # 题目链接：
 class Solution:

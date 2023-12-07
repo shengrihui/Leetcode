@@ -1,10 +1,4 @@
 # 237 删除链表中的节点
-from typing import List, Optional
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

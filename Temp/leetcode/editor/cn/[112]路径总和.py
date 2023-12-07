@@ -1,10 +1,5 @@
 # 112 路径总和
-from typing import List, Optional
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
+from typing import Optional
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

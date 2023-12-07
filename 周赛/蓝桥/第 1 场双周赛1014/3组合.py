@@ -1,8 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-
-
 # 题目：# 3组合
 # 题目链接：
 

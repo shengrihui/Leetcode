@@ -1,13 +1,7 @@
 # 689 三个无重叠子数组的最大和
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
-
 # leetcode submit region begin(Prohibit modification and deletion)
 import typing
+from typing import *
 
 
 class SegTree:
@@ -139,8 +133,8 @@ class Solution:
         print(nums)
         suf = [[0, [n]]] * n
         suf[-1] = [nums[-1], [n - 1]]
-        for i in range(n-k):
-            suf[i] = suf[i+1] if suf[i][0] >= nums[i] else [nums[i], [i]]
+        for i in range(n - k):
+            suf[i] = suf[i + 1] if suf[i][0] >= nums[i] else [nums[i], [i]]
         print(suf)
         for i in range(n - k):
             suf[i][0] = nums[i] + suf[i + k][0]

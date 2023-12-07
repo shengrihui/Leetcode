@@ -1,10 +1,5 @@
 # 167 两数之和 II - 输入有序数组
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 class Solution:

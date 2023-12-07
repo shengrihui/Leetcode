@@ -1,10 +1,5 @@
 # 18 四数之和
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # 丑陋的暴力，超时了

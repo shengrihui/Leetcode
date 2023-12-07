@@ -1,9 +1,5 @@
 # 21 合并两个有序链表
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
 
 
 # Definition for singly-linked list.

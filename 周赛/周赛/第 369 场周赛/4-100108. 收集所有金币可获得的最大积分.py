@@ -1,8 +1,5 @@
 from functools import cache
 from typing import List
-from collections import *
-from itertools import *
-from math import *
 
 
 # 题目：100108. 收集所有金币可获得的最大积分

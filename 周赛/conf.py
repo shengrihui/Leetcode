@@ -21,7 +21,6 @@ for e, a in examples:
     print(s.{function_name}(**e))
 """
 
-
 test_url = [
     "https://leetcode.cn/contest/weekly-contest-366/problems/apply-operations-to-make-two-strings-equal/",
     "https://leetcode.cn/contest/weekly-contest-365/problems/minimum-size-subarray-in-infinite-array/",

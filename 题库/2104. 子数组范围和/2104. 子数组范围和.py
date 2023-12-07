@@ -9,9 +9,6 @@ Created on 17:04
 # 
 
 from typing import *
-from collections import *
-import numpy as np
-import soupsieve
 
 
 class Solution:
@@ -31,9 +28,9 @@ class Solution:
 examples = [
     [[1, 2, 3], 4],
     [[1, 3, 3], 4],
-    [[4,-2,-3,4,1],59]
+    [[4, -2, -3, 4, 1], 59]
 ]
 
 solution = Solution()
 for data, ans in examples:
-    print(data,solution.subArrayRanges(data), ans)
+    print(data, solution.subArrayRanges(data), ans)

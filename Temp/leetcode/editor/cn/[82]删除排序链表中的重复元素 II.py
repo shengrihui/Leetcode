@@ -1,10 +1,5 @@
 # 82 删除排序链表中的重复元素 II
-from typing import List, Optional
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
+from typing import Optional
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

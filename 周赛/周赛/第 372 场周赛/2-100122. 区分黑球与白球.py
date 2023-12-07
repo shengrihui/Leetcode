@@ -1,10 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-
-
 # 题目：100122. 区分黑球与白球
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-372/problems/separate-black-and-white-balls/

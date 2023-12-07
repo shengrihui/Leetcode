@@ -6,8 +6,6 @@ Modified on Wed Aug 11 20:00:00 2021
 @author: shengrihui
 """
 
-import re
-
 
 def longestPalindrome(s):
     if len(s) == 1:

@@ -1,7 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from math import *
 
 
 # 题目：100094. 子数组不同元素数目的平方和 I

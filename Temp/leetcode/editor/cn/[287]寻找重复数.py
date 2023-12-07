@@ -1,8 +1,6 @@
 # 287 寻找重复数
-from typing import *
 from collections import *
-from itertools import *
-from functools import *
+from typing import *
 
 
 # class Solution:

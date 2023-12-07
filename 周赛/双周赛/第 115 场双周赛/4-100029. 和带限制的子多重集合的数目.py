@@ -1,6 +1,5 @@
-from typing import List
 from collections import *
-from itertools import *
+from typing import List
 
 # 题目：100029. 和带限制的子多重集合的数目
 # 题目链接：

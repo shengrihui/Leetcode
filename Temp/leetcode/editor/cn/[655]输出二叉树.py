@@ -1,5 +1,4 @@
 # 655 输出二叉树
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,10 +1,6 @@
 # 162 寻找峰值
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
 from math import *
-import heapq
+from typing import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,10 +1,6 @@
 # 1334 阈值距离内邻居最少的城市
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
 from math import *
-import heapq
+from typing import *
 
 
 # class Solution:

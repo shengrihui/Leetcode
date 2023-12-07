@@ -1,11 +1,6 @@
 # 78 子集
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
 from math import *
-
-import t
+from typing import *
 
 
 class Solution:

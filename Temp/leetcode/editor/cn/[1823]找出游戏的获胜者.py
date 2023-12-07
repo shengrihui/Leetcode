@@ -1,10 +1,5 @@
 # 1823 找出游戏的获胜者
-from typing import *
 from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

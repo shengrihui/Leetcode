@@ -1,10 +1,5 @@
 # 763 划分字母区间
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 class Solution:

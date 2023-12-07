@@ -1,10 +1,5 @@
 # 2055 蜡烛之间的盘子
-from typing import List, Optional
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
+from typing import List
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

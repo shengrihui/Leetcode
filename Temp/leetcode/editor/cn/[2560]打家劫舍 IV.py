@@ -1,9 +1,5 @@
 # 2560 打家劫舍 IV
-import bisect
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 class Solution:

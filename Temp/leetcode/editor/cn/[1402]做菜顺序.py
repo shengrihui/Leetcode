@@ -1,10 +1,5 @@
 # 1402 做菜顺序
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # # [-1,-8,0,5,-9]

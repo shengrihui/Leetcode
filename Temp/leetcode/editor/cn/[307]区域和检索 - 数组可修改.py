@@ -1,13 +1,7 @@
 # 307 区域和检索 - 数组可修改
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
-
 # leetcode submit region begin(Prohibit modification and deletion)
 import typing
+from typing import *
 
 
 class SegTree:

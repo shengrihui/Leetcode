@@ -1,8 +1,5 @@
 # 41 缺失的第一个正数
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 """
 最后的结果一定是在 [1,n+1] 内

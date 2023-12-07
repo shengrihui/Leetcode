@@ -1,7 +1,4 @@
-from functools import reduce
 from typing import List
-from collections import *
-from itertools import *
 
 
 # 题目：# 100019. 将数组分割成最多数目的子数组

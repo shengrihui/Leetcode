@@ -1,8 +1,5 @@
 # 2512 奖励最顶尖的 K 名学生
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

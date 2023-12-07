@@ -1,10 +1,4 @@
 # 1670 设计前中后队列
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
@@ -122,7 +116,7 @@ class FrontMiddleBackQueue:
         self.length += 1
         if self.length == 1:
             self.mid = self.mid.prev
-        if self.length % 2 ==0:
+        if self.length % 2 == 0:
             self.mid = self.mid.next
 
     def popFront(self) -> int:

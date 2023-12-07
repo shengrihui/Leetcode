@@ -1,10 +1,4 @@
 # 3 无重复字符的最长子串
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 class Solution:

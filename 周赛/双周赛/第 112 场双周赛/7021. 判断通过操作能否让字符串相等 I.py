@@ -1,6 +1,3 @@
-from typing import List
-
-
 # 题目：# 7021. 判断通过操作能否让字符串相等 I
 # 题目链接：
 class Solution:

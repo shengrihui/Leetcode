@@ -1,17 +1,12 @@
+import typing
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
+
 
 # 题目：100110. 找到 Alice 和 Bob 可以相遇的建筑
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-372/problems/find-building-where-alice-and-bob-can-meet/
 # 题库：https://leetcode.cn/problems/find-building-where-alice-and-bob-can-meet
-
 # 线段树
-
-import typing
 
 
 class SegTree:

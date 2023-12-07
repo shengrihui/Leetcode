@@ -1,8 +1,5 @@
 # 2731 移动机器人
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

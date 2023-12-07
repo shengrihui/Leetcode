@@ -8,10 +8,6 @@ Created on 22:50
 # 258. 各位相加
 # https://leetcode-cn.com/problems/add-digits/
 
-from typing import *
-from collections import *
-import numpy as np
-
 
 class Solution:
     def addDigits(self, num: int) -> int:
@@ -23,9 +19,12 @@ class Solution:
             num = sum
         return num
 
+
 class Solution:
     def addDigits(self, num: int) -> int:
-        return (num-1)%9
+        return (num - 1) % 9
+
+
 examples = [
     [0, 0],
     [123, 6],

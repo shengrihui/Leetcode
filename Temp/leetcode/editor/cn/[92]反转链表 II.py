@@ -1,10 +1,5 @@
 # 92 反转链表 II
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
@@ -18,7 +13,7 @@ class Solution:
         dummy = ListNode(next=head)
         p0 = dummy  # 开始翻转区间的前一个
         # 让 p0 到 left 的前一个
-        for _ in range(left-1):
+        for _ in range(left - 1):
             p0 = p0.next
 
         cur = p0.next

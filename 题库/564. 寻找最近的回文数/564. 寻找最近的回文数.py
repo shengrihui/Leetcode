@@ -8,10 +8,6 @@ Created on 19:11
 # 564. 寻找最近的回文数
 # https://leetcode-cn.com/problems/find-the-closest-palindrome/
 
-from typing import *
-from collections import *
-import numpy as np
-
 
 # 评论区的某个回答
 class Solution1:
@@ -52,6 +48,7 @@ class Solution2:
                     ans = num
         return str(ans)
 
+
 class Solution:
     def nearestPalindromic(self, n: str) -> str:
         m = len(n)
@@ -74,6 +71,7 @@ class Solution:
                     ans = candidate
         return str(ans)
 
+
 # 作者：LeetCode-Solution
 # 链接：https://leetcode-cn.com/problems/find-the-closest-palindrome/solution/xun-zhao-zui-jin-de-hui-wen-shu-by-leetc-biyt/
 # 来源：力扣（LeetCode）
@@ -87,43 +85,40 @@ examples = [
     # ["4321", "4334"],
     # ['29', '33'],
     ["10", "9"],
-    ["100000010000001","ss"]
+    ["100000010000001", "ss"]
 ]
 
-solution = [Solution(),Solution1(),Solution2()]
+solution = [Solution(), Solution1(), Solution2()]
 for data, ans in examples:
     for s in solution:
         print(data, s.nearestPalindromic(data), ans)
 
-a=[1,2,3,4]
+a = [1, 2, 3, 4]
 
-print(min(a,key=lambda x:-x))
-print(min(a,key=lambda x:(abs(x-2) or 114514,x)))
+print(min(a, key=lambda x: -x))
+print(min(a, key=lambda x: (abs(x - 2) or 114514, x)))
 
-f=lambda x:(abs(x-2) or 114514,x)
+f = lambda x: (abs(x - 2) or 114514, x)
 for i in a:
-    print(i,f(i))
+    print(i, f(i))
 
 print()
-n="100000010000001"
+n = "100000010000001"
 l = len(n)
 
 s = n[: l // 2 + l % 2]
 s1 = str(int(s) - 1)
 s2 = str(int(s) + 1)
-aa=[
+aa = [
     '9' * (l - 1),
     '1' + '0' * (l - 1) + '1',
     s + s[-1 - l % 2::-1],
     s1 + s1[-1 - l % 2::-1],
     s2 + s2[-1 - l % 2::-1]
-    ]
+]
 
-
-f=lambda x: (abs(int(x) - int(n)) or 114514, int(x))
-ll=[f(i) for i in aa]
+f = lambda x: (abs(int(x) - int(n)) or 114514, int(x))
+ll = [f(i) for i in aa]
 print(sorted(ll))
 for i in aa:
     print(f(i))
-
-

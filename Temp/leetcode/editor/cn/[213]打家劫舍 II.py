@@ -1,8 +1,5 @@
 # 213 打家劫舍 II
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 class Solution:

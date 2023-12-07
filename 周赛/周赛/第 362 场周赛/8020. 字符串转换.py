@@ -1,6 +1,4 @@
 from typing import List
-from collections import *
-import re
 
 
 # 题目：# 8020. 字符串转换

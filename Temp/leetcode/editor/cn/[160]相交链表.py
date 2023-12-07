@@ -1,8 +1,5 @@
 # 160 相交链表
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # Definition for singly-linked list.

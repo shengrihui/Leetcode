@@ -1,10 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-
-
 # 题目：100132. 统计美丽子字符串 II
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-373/problems/count-beautiful-substrings-ii/

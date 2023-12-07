@@ -1,6 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
 
 
 # 题目：100049. 美丽塔 I
@@ -35,6 +33,7 @@ class Solution:
             diff = func(i)
             ans = max(ans, sum_height - sum(diff))
         return ans
+
 
 s = Solution()
 examples = [

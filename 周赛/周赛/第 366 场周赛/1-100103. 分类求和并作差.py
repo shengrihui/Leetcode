@@ -1,8 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-
-
 # 题目：100103. 分类求和并作差
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-366/problems/divisible-and-non-divisible-sums-difference/

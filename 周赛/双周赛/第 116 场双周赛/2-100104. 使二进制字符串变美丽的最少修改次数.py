@@ -1,9 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-from math import *
-
-
 # 题目：100104. 使二进制字符串变美丽的最少修改次数
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/biweekly-contest-116/problems/minimum-number-of-changes-to-make-binary-string-beautiful/

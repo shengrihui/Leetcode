@@ -1,8 +1,7 @@
 # 47 全排列 II
-from typing import *
-from collections import *
 from itertools import *
-from functools import *
+from typing import *
+
 
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:

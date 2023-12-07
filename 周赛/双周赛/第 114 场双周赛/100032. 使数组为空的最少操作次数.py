@@ -1,6 +1,5 @@
-from typing import List
 from collections import *
-from itertools import *
+from typing import List
 
 
 # 题目：# 100032. 使数组为空的最少操作次数
@@ -20,7 +19,7 @@ class Solution:
 s = Solution()
 examples = [
     (dict(nums=[2, 1, 2, 2, 3, 3]), -1),
-    (dict(nums = [2,3,3,2,2,4,2,3,4]),4),
+    (dict(nums=[2, 3, 3, 2, 2, 4, 2, 3, 4]), 4),
 ]
 for e, a in examples:
     print(a, e)

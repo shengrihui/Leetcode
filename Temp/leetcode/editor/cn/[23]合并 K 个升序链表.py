@@ -1,10 +1,6 @@
 # 23 合并 K 个升序链表
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
 import heapq
+from typing import *
 
 
 # 分治

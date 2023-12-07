@@ -1,13 +1,7 @@
 # 51 N 皇后
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
-
 # leetcode submit region begin(Prohibit modification and deletion)
 import copy
+from typing import *
 
 
 class Solution:
@@ -27,7 +21,7 @@ class Solution:
             nonlocal vis
             if i == n:
                 for idx in range(n):
-                    board[idx]="".join(board[idx])
+                    board[idx] = "".join(board[idx])
                 ans.append(board)
                 return
             for j in range(n):

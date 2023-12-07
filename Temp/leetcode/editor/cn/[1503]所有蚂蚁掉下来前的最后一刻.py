@@ -1,10 +1,5 @@
 # 1503 所有蚂蚁掉下来前的最后一刻
-from typing import List, Optional
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
+from typing import List
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

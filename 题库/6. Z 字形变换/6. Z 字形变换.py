@@ -2,10 +2,6 @@
 # 6. Z 字形变换
 # https://leetcode-cn.com/problems/zigzag-conversion/
 
-from typing import *
-from collections import *
-import numpy as np
-
 
 class Solution:
     def convert(self, s: str, numRows: int) -> str:

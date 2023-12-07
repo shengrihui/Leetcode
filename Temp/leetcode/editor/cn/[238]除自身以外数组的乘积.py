@@ -1,9 +1,5 @@
 # 238 除自身以外数组的乘积
-import itertools
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 class Solution:

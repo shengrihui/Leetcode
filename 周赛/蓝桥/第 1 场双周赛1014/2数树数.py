@@ -1,7 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-
 # 题目：# 2数树数
 # 题目链接：https://www.lanqiao.cn/problems/5128/learning/?contest_id=144
 

@@ -1,5 +1,4 @@
 # 1609 奇偶树
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

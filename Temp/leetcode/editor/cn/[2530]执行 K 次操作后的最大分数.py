@@ -1,9 +1,6 @@
 # 2530 执行 K 次操作后的最大分数
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
 import heapq
+from typing import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

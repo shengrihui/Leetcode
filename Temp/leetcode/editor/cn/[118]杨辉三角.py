@@ -1,8 +1,5 @@
 # 118 杨辉三角
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

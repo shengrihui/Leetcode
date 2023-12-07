@@ -1,11 +1,5 @@
 # 35 搜索插入位置
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
-from bisect import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

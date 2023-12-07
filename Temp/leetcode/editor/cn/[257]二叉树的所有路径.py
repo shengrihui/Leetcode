@@ -1,10 +1,6 @@
 # 257 二叉树的所有路径
-from typing import List, Optional
 from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
+from typing import List, Optional
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

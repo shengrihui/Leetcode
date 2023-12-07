@@ -1,10 +1,4 @@
 # 2520 统计能整除数字的位数
-from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

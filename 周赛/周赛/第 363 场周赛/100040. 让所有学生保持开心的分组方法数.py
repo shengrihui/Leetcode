@@ -1,7 +1,5 @@
-import bisect
-from typing import List
-from collections import *
 from itertools import *
+from typing import List
 
 
 # 题目：# 100040. 让所有学生保持开心的分组方法数

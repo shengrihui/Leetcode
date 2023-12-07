@@ -1,6 +1,5 @@
 from itertools import accumulate
 from typing import List
-from collections import *
 
 
 # 题目：# 2848. 与车相交的点

@@ -1,10 +1,5 @@
 # 108 将有序数组转换为二叉搜索树
 from typing import *
-from collections import *
-from itertools import *
-from functools import *
-from math import *
-import heapq
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

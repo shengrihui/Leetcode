@@ -1,8 +1,6 @@
 # 605 种花问题
-from typing import *
-from collections import *
 from itertools import *
-from functools import *
+from typing import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
