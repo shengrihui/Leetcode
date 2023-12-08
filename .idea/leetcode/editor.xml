@@ -344,6 +344,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1372]二叉树中的最长交错路径.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1372]二叉树中的最长交错路径.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1372" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1372]二叉树中的最长交错路径.py" />
+              <option name="titleSlug" value="longest-zigzag-path-in-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[137]只出现一次的数字 II.py">
           <value>
             <LeetcodeEditor>
@@ -825,6 +836,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2003]每棵子树内缺失的最小基因值.py" />
               <option name="titleSlug" value="smallest-missing-genetic-value-in-each-subtree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2008]出租车的最大盈利.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2008]出租车的最大盈利.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2008" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2008]出租车的最大盈利.py" />
+              <option name="titleSlug" value="maximum-earnings-from-taxi" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1367,6 +1389,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[263]丑数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[263]丑数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn263" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[263]丑数.py" />
+              <option name="titleSlug" value="ugly-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2646]最小化旅行的价格总和.py">
           <value>
             <LeetcodeEditor>
@@ -1375,6 +1408,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2646]最小化旅行的价格总和.py" />
               <option name="titleSlug" value="minimize-the-total-price-of-the-trips" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[264]丑数 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[264]丑数 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn264" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[264]丑数 II.py" />
+              <option name="titleSlug" value="ugly-number-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1672,6 +1716,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[35]搜索插入位置.py" />
               <option name="titleSlug" value="search-insert-position" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[373]查找和最小的 K 对数字.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[373]查找和最小的 K 对数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cn373" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[373]查找和最小的 K 对数字.py" />
+              <option name="titleSlug" value="find-k-pairs-with-smallest-sums" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2277,6 +2332,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCR 039]柱状图中最大的矩形.py" />
               <option name="titleSlug" value="0ynMMM" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCR 168]丑数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[LCR 168]丑数.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCR 168" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCR 168]丑数.py" />
+              <option name="titleSlug" value="chou-shu-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
