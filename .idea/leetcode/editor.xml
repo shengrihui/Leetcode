@@ -410,6 +410,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1414]和为 K 的最少斐波那契数字数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1414]和为 K 的最少斐波那契数字数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1414" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1414]和为 K 的最少斐波那契数字数目.py" />
+              <option name="titleSlug" value="find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[141]环形链表.py">
           <value>
             <LeetcodeEditor>
@@ -869,6 +880,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[203]移除链表元素.py" />
               <option name="titleSlug" value="remove-linked-list-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2048]下一个更大的数值平衡数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2048]下一个更大的数值平衡数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2048" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2048]下一个更大的数值平衡数.py" />
+              <option name="titleSlug" value="next-greater-numerically-balanced-number" />
             </LeetcodeEditor>
           </value>
         </entry>
