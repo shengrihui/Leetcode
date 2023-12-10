@@ -58,5 +58,3 @@ class Solution:
             ans = max(ans, right - l)
         return ans
 # leetcode submit region end(Prohibit modification and deletion)
-
-

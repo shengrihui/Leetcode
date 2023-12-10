@@ -29,4 +29,3 @@ class Solution:
                 q.append((node.right, depth + 1))
         return depth
     # leetcode submit region end(Prohibit modification and deletion)
-

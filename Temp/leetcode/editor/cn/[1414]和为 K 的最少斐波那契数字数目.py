@@ -7,6 +7,7 @@ fibo = [1, 1]
 while fibo[-1] <= 1_000_000_000:
     fibo.append(fibo[-1] + fibo[-2])
 
+
 class Solution:
     def findMinFibonacciNumbers(self, k: int) -> int:
         i = bisect_left(fibo, k)

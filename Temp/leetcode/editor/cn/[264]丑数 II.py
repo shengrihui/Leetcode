@@ -32,6 +32,7 @@ for _ in range(1690):
     i3 += mn == b
     i5 += mn == c
 
+
 class Solution:
     def nthUglyNumber(self, n: int) -> int:
         return uglies[n - 1]

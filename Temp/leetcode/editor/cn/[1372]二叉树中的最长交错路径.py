@@ -2,6 +2,7 @@
 # https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree/
 from imports import *
 
+
 # leetcode submit region begin(Prohibit modification and deletion)
 # Definition for a binary tree node.
 # class TreeNode:

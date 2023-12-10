@@ -32,5 +32,3 @@ class Solution:
         m2 = self.minDepth(root.right)
         return 1 + (min(m1, m2) if root.left and root.right else m1 + m2)
 # leetcode submit region end(Prohibit modification and deletion)
-
-

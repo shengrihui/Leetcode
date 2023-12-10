@@ -26,5 +26,3 @@ class Solution:
 
         return get_height(root) != -1
 # leetcode submit region end(Prohibit modification and deletion)
-
-

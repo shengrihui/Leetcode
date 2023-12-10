@@ -23,5 +23,3 @@ class Solution:
 
         return f(0, len(nums) - 1)
 # leetcode submit region end(Prohibit modification and deletion)
-
-

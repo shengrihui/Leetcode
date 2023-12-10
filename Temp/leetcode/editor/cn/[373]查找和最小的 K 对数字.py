@@ -2,6 +2,7 @@
 # https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/
 from imports import *
 
+
 # leetcode submit region begin(Prohibit modification and deletion)
 # 多路归并
 class Solution:
@@ -20,6 +21,7 @@ class Solution:
             if j + 1 < m:
                 heapq.heappush(q, (nums1[i] + nums2[j + 1], i, j + 1))
         return ans
+
 
 # 多次二分
 # 超时

@@ -2,6 +2,7 @@
 # https://leetcode.cn/problems/next-greater-numerically-balanced-number/
 from imports import *
 
+
 # leetcode submit region begin(Prohibit modification and deletion)
 
 class Solution:
@@ -16,6 +17,7 @@ class Solution:
                 else:
                     return False
             return all(i == v for i, v in cnt.items())
+
         i = n + 1
         while True:
             if check(i):

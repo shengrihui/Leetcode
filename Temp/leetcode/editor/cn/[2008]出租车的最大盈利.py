@@ -2,6 +2,7 @@
 # https://leetcode.cn/problems/maximum-earnings-from-taxi/
 from imports import *
 
+
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def maxTaxiEarnings(self, n: int, rides: List[List[int]]) -> int:

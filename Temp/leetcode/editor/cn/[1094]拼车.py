@@ -18,5 +18,3 @@ class Solution:
         return True
 
 # leetcode submit region end(Prohibit modification and deletion)
-
-

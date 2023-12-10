@@ -24,5 +24,3 @@ class Solution:
         return root
 
 # leetcode submit region end(Prohibit modification and deletion)
-
-
