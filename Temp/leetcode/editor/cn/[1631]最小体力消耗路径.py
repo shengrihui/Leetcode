@@ -68,8 +68,37 @@ class Solution:
 
 # leetcode submit region begin(Prohibit modification and deletion)
 # 并查集
+# 每个格子看作是图的一个点，相邻格子之间有边，边的权值就是高度差的绝对值
+# 将所有边按权值从小到大排序
+# 每遍历一个边都把两边节点锁在的集合合并
+# 当起点和终点合在一起了，这个遍历到的边就是答案
 class Solution:
     def minimumEffortPath(self, heights: List[List[int]]) -> int:
+        row, col = len(heights), len(heights[0])
+        edges = []
+        for i in range(row):
+            for j in range(col):
+                x = i * col + j
+                if i > 0:
+                    d = abs(heights[i][j] - heights[i - 1][j])
+                    edges.append((d, x, x - col))
+                if j > 0:
+                    d = abs(heights[i][j] - heights[i][j - 1])
+                    edges.append((d, x, x - 1))
+        edges.sort(key=lambda e: e[0])
+
+        def find(son: int) -> int:
+            nonlocal p
+            if p[son] != son:
+                p[son] = find(p[son])
+            return p[son]
+
+        p = [i for i in range(col * row)]
+        for d, x, y in edges:
+            p[find(x)] = find(y)
+            if find(0) == find(-1):  # 起点终点在一个连通块
+                return d
+        return 0  # 只有一个节点
 
 
 # leetcode submit region end(Prohibit modification and deletion)
