@@ -23,16 +23,16 @@ class Solution:
                         gg[b][i] = gg[i][b] = inf
             # 最短路
             for k in range(n):
-                # if (s >> k) & 1: continue
+                if (s >> k) & 1: continue  # 不加也能过，但会慢很多
                 for i in range(n):
-                    # if (s >> i) & 1: continue
+                    if (s >> i) & 1: continue
                     for j in range(n):
                         gg[i][j] = min(gg[i][j], gg[i][k] + gg[k][j])
             flag, i = True, 0
             for i in range(n):
-                if (s >> i) & 1:                    continue
+                if (s >> i) & 1: continue
                 for j in range(n):
-                    if (s >> j) & 1:                        continue
+                    if (s >> j) & 1: continue
                     if gg[i][j] > maxDistance:
                         flag = False
                         break
