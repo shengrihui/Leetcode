@@ -1,8 +1,5 @@
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import inf
+from typing import List
 
 # 题目：100136. 统计好分割方案的数目
 # 题目链接：
