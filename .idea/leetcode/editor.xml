@@ -113,6 +113,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[109]有序链表转换二叉搜索树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[109]有序链表转换二叉搜索树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn109" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[109]有序链表转换二叉搜索树.py" />
+              <option name="titleSlug" value="convert-sorted-list-to-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[110]平衡二叉树.py">
           <value>
             <LeetcodeEditor>
@@ -1199,6 +1210,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[241]为运算表达式设计优先级.py" />
               <option name="titleSlug" value="different-ways-to-add-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2454]下一个更大元素 IV.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2454]下一个更大元素 IV.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2454" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2454]下一个更大元素 IV.py" />
+              <option name="titleSlug" value="next-greater-element-iv" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2332,6 +2354,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[98]验证二叉搜索树.py" />
               <option name="titleSlug" value="validate-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[99]恢复二叉搜索树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[99]恢复二叉搜索树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn99" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[99]恢复二叉搜索树.py" />
+              <option name="titleSlug" value="recover-binary-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
