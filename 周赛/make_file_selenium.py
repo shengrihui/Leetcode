@@ -51,6 +51,7 @@ if __name__ == '__main__':
     coding_language = "Python3"
     remote_debugging_port = 9999
 
+
     if not is_port_in_use(remote_debugging_port):
         print("启动浏览器...")
         command = f'"{chrome_path}" --remote-debugging-port={remote_debugging_port} --user-data-dir="C:/Users/11200/AppData/Local/Google/Chrome/User Data"'
