@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[114]二叉树展开为链表.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[114]二叉树展开为链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn114" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[114]二叉树展开为链表.py" />
+              <option name="titleSlug" value="flatten-binary-tree-to-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1155]掷骰子等于目标和的方法数.py">
           <value>
             <LeetcodeEditor>
@@ -2519,6 +2530,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCR 039]柱状图中最大的矩形.py" />
               <option name="titleSlug" value="0ynMMM" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCR 151]彩灯装饰记录 III.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[LCR 151]彩灯装饰记录 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCR 151" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCR 151]彩灯装饰记录 III.py" />
+              <option name="titleSlug" value="cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
