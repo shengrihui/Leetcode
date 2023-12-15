@@ -718,6 +718,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[166]分数到小数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[166]分数到小数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn166" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[166]分数到小数.py" />
+              <option name="titleSlug" value="fraction-to-recurring-decimal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1670]设计前中后队列.py">
           <value>
             <LeetcodeEditor>
@@ -781,6 +792,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1726]同积元组.py" />
               <option name="titleSlug" value="tuple-with-same-product" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[172]阶乘后的零.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[172]阶乘后的零.md" />
+              <option name="frontendQuestionId" value="leetcode.cn172" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[172]阶乘后的零.py" />
+              <option name="titleSlug" value="factorial-trailing-zeroes" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1298,6 +1320,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[240]搜索二维矩阵 II.py" />
               <option name="titleSlug" value="search-a-2d-matrix-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2415]反转二叉树的奇数层.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2415]反转二叉树的奇数层.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2415" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2415]反转二叉树的奇数层.py" />
+              <option name="titleSlug" value="reverse-odd-levels-of-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
