@@ -1,6 +1,6 @@
 # 104 二叉树的最大深度
-from collections import *
-from typing import *
+# https://leetcode.cn/problems/maximum-depth-of-binary-tree/
+from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
@@ -28,4 +28,4 @@ class Solution:
             if node.right:
                 q.append((node.right, depth + 1))
         return depth
-    # leetcode submit region end(Prohibit modification and deletion)
+# leetcode submit region end(Prohibit modification and deletion)

@@ -17,18 +17,18 @@ class Solution:
     def connect(self, root: 'Node') -> 'Node':
         head = root  # head指向下一层第一个
         while head:
-            p = head  # p在当前层走
+            p = head  # p在当前层
             head = prev = None  # head,prev指在下一层
             while p:  # 遍历当前层
                 for cur in [p.left, p.right]:
                     if cur:
-                        if not head:  # 下一层的头还米有
+                        if not head:  # 下一层的头还没有
                             head = cur
                             prev = head
                             continue
                         prev.next = cur
                         prev = cur
-                p = p.next
+                p = p.next  # p 这个层已经是链表了
         return root
 
 # class Solution:

@@ -1,6 +1,5 @@
 # 199 二叉树的右视图
-from collections import *
-from typing import List, Optional
+from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
