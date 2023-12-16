@@ -1202,6 +1202,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2276]统计区间中的整数数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2276]统计区间中的整数数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2276" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2276]统计区间中的整数数目.py" />
+              <option name="titleSlug" value="count-integers-in-intervals" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2300]咒语和药水的成功对数.py">
           <value>
             <LeetcodeEditor>

@@ -2,23 +2,36 @@
 # https://leetcode.cn/problems/super-ugly-number/
 from imports import *
 
-
 # leetcode submit region begin(Prohibit modification and deletion)
-# class Solution:
-#     def nthSuperUglyNumber(self, n: int, primes: List[int]) -> int:
-#         if n == 1:
-#             return 1
-#         ugly = primes.copy()
-#         se = set(primes)
-#         for _ in range(n - 2):
-#             u = heapq.heappop(ugly)
-#             for p in primes:
-#                 pu = p * u
-#                 if pu not in se:
-#                     se.add(pu)
-#                     heapq.heappush(ugly, p * u)
-#         return heapq.heappop(ugly)
+# 堆1
+"""
+class Solution:
+    def nthSuperUglyNumber(self, n: int, primes: List[int]) -> int:
+        if n == 1:
+            return 1
+        ugly = primes.copy()
+        se = set(primes)
+        for _ in range(n - 2):
+            u = heapq.heappop(ugly)
+            for p in primes:
+                pu = p * u
+                if pu not in se:
+                    se.add(pu)
+                    heapq.heappush(ugly, p * u)
+        return heapq.heappop(ugly)
+"""
 
+
+# 堆2
+class Solution:
+    def nthSuperUglyNumber(self, n: int, primes: List[int]) -> int:
+        ugly = [1]
+        for _ in range(n - 1):
+            u = heapq.heappop(ugly)
+            for p in primes:
+                heapq.heappush(ugly, u * p)
+                if u % p == 0: break
+        return heapq.heappop(ugly)
 # 多路归并
 # ans[i] * p 也是丑数
 # 从 ans 中取出 anx[idx_p] * p 得到新的丑数
@@ -36,17 +49,17 @@ from imports import *
 
 # https://leetcode.cn/problems/super-ugly-number/solutions/924926/dong-tai-gui-hua-java-by-liweiwei1419-1yna/
 # 动态规划（和上面三叶的多路归并很像）
-class Solution:
-    def nthSuperUglyNumber(self, n: int, primes: List[int]) -> int:
-        dp = [inf] * n
-        dp[0] = 1
-        indies = [0] * len(primes)
-        for i in range(1, n):
-            for idx, p in zip(indies, primes):
-                dp[i] = min(dp[i], dp[idx] * p)
-            for j, (idx, p) in enumerate(zip(indies, primes)):
-                if dp[idx] * p <= dp[i]:
-                    indies[j] += 1
-        return dp[-1]
+# class Solution:
+#     def nthSuperUglyNumber(self, n: int, primes: List[int]) -> int:
+#         dp = [inf] * n
+#         dp[0] = 1
+#         indies = [0] * len(primes)
+#         for i in range(1, n):
+#             for idx, p in zip(indies, primes):
+#                 dp[i] = min(dp[i], dp[idx] * p)
+#             for j, (idx, p) in enumerate(zip(indies, primes)):
+#                 if dp[idx] * p <= dp[i]:
+#                     indies[j] += 1
+#         return dp[-1]
 
 # leetcode submit region end(Prohibit modification and deletion)
