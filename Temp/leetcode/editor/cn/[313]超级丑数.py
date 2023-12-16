@@ -21,6 +21,8 @@ class Solution:
         return heapq.heappop(ugly)
 """
 
+MX = 0x7FFFFFFF
+
 
 # 堆2
 class Solution:
@@ -29,7 +31,7 @@ class Solution:
         for _ in range(n - 1):
             u = heapq.heappop(ugly)
             for p in primes:
-                heapq.heappush(ugly, u * p)
+                if (t := u * p) <= MX: heapq.heappush(ugly, t)
                 if u % p == 0: break
         return heapq.heappop(ugly)
 
