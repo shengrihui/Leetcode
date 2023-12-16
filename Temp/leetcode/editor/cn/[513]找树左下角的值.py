@@ -12,4 +12,20 @@ from imports import *
 #         self.right = right
 class Solution:
     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
+        q = deque([root])
+        while q:
+            node = q.popleft()
+            if node.right: q.append(node.right)
+            if node.left: q.append(node.left)
+        return node.val
+
+
 # leetcode submit region end(Prohibit modification and deletion)
+
+
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
