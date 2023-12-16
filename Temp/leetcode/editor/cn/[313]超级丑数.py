@@ -32,6 +32,7 @@ class Solution:
                 heapq.heappush(ugly, u * p)
                 if u % p == 0: break
         return heapq.heappop(ugly)
+
 # 多路归并
 # ans[i] * p 也是丑数
 # 从 ans 中取出 anx[idx_p] * p 得到新的丑数
