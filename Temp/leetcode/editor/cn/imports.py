@@ -2,9 +2,10 @@ from typing import Optional, List
 from itertools import *
 from collections import *
 from functools import *
-from bisect import *
 from math import inf
 import heapq
+from bisect import *
+import bisect
 
 
 class ListNode:
