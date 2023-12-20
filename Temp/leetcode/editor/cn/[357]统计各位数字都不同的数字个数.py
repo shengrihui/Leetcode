@@ -29,23 +29,23 @@ class Solution:
         #     return ans
         # return dfs(n, 10, True)
 
-        @cache
-        def dfs(i: int, j: int, k: bool) -> int:  # i：现在是第几位，j：现在有多少个数字可以选，k：前面是否空
-            if i <= 1:
-                return j
-            return 9 * dfs(i - 1, 9, False) + dfs(i - 1, 10, True) if k else j * dfs(i - 1, j - 1, False)
+        # @cache
+        # def dfs(i: int, j: int, k: bool) -> int:  # i：现在是第几位，j：现在有多少个数字可以选，k：前面是否空
+        #     if i <= 1:
+        #         return j
+        #     return 9 * dfs(i - 1, 9, False) + dfs(i - 1, 10, True) if k else j * dfs(i - 1, j - 1, False)
+        #
+        # return dfs(n, 10, True) if n else 1
 
-        return dfs(n, 10, True) if n else 1
-
-        # 乘法原理
-        # if n <= 1:
-        #     return 10 ** n
-        # ans = 10
-        # t = 9  # 从两位数开始的最高位可以选 9 种
-        # for i in range(2, n + 1):
-        #     cur = 10 - i + 1  # 当前位可以选择
-        #     t *= cur  # i 位数的情况
-        #     ans += t  # ans +t 之前是 i—1 位的情况
-        # return ans
+        乘法原理
+        if n <= 1:
+            return 10 ** n
+        ans = 10
+        t = 9  # 从两位数开始的最高位可以选 9 种
+        for i in range(2, n + 1):
+            cur = 10 - i + 1  # 当前位可以选择
+            t *= cur  # i 位数的情况
+            ans += t  # ans +t 之前是 i—1 位的情况
+        return ans
 
 # leetcode submit region end(Prohibit modification and deletion)
