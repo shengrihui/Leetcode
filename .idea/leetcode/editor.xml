@@ -905,6 +905,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1901]寻找峰值 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1901]寻找峰值 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1901" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1901]寻找峰值 II.py" />
+              <option name="titleSlug" value="find-a-peak-element-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[198]打家劫舍.py">
           <value>
             <LeetcodeEditor>
@@ -1807,6 +1818,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2828]判别首字母缩略词.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2828]判别首字母缩略词.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2828" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2828]判别首字母缩略词.py" />
+              <option name="titleSlug" value="check-if-a-string-is-an-acronym-of-words" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[283]移动零.py">
           <value>
             <LeetcodeEditor>
@@ -1980,6 +2002,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[34]在排序数组中查找元素的第一个和最后一个位置.py" />
               <option name="titleSlug" value="find-first-and-last-position-of-element-in-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[357]统计各位数字都不同的数字个数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[357]统计各位数字都不同的数字个数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn357" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[357]统计各位数字都不同的数字个数.py" />
+              <option name="titleSlug" value="count-numbers-with-unique-digits" />
             </LeetcodeEditor>
           </value>
         </entry>
