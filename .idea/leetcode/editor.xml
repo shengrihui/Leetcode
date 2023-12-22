@@ -773,6 +773,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1671]得到山形数组的最少删除次数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1671]得到山形数组的最少删除次数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1671" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1671]得到山形数组的最少删除次数.py" />
+              <option name="titleSlug" value="minimum-number-of-removals-to-make-mountain-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.py">
           <value>
             <LeetcodeEditor>
@@ -1840,6 +1851,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2866]美丽塔 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2866]美丽塔 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2866" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2866]美丽塔 II.py" />
+              <option name="titleSlug" value="beautiful-towers-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[287]寻找重复数.py">
           <value>
             <LeetcodeEditor>
@@ -2401,6 +2423,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[662]二叉树最大宽度.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[662]二叉树最大宽度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn662" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[662]二叉树最大宽度.py" />
+              <option name="titleSlug" value="maximum-width-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[689]三个无重叠子数组的最大和.py">
           <value>
             <LeetcodeEditor>
@@ -2563,6 +2596,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[78]子集.py" />
               <option name="titleSlug" value="subsets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[814]二叉树剪枝.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[814]二叉树剪枝.md" />
+              <option name="frontendQuestionId" value="leetcode.cn814" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[814]二叉树剪枝.py" />
+              <option name="titleSlug" value="binary-tree-pruning" />
             </LeetcodeEditor>
           </value>
         </entry>
