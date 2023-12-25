@@ -3,7 +3,7 @@ from typing import List
 from collections import *
 from itertools import *
 from functools import *
-from math import *
+from math import inf , gcd
 
 # 题目：{title}
 # 题目链接：
