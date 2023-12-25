@@ -2,10 +2,11 @@ from typing import Optional, List
 from itertools import *
 from collections import *
 from functools import *
-from math import inf
+from math import inf, gcd
 import heapq
 from bisect import *
 import bisect
+
 
 class ListNode:
     def __init__(self, val=0, next=None):
