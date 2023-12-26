@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1006]笨阶乘.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1006]笨阶乘.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1006" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1006]笨阶乘.py" />
+              <option name="titleSlug" value="clumsy-factorial" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[100]相同的树.py">
           <value>
             <LeetcodeEditor>
@@ -344,6 +355,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1276]不浪费原料的汉堡制作方案.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1276]不浪费原料的汉堡制作方案.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1276" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1276]不浪费原料的汉堡制作方案.py" />
+              <option name="titleSlug" value="number-of-burgers-with-no-waste-of-ingredients" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[128]最长连续序列.py">
           <value>
             <LeetcodeEditor>
@@ -396,6 +418,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1334]阈值距离内邻居最少的城市.py" />
               <option name="titleSlug" value="find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1349]参加考试的最大学生数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1349]参加考试的最大学生数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1349" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1349]参加考试的最大学生数.py" />
+              <option name="titleSlug" value="maximum-students-taking-exam" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -550,6 +583,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1443]收集树上所有苹果的最少时间.py" />
               <option name="titleSlug" value="minimum-time-to-collect-all-apples-in-a-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1447]最简分数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1447]最简分数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1447" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1447]最简分数.py" />
+              <option name="titleSlug" value="simplified-fractions" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -924,6 +968,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1901]寻找峰值 II.py" />
               <option name="titleSlug" value="find-a-peak-element-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1954]收集足够苹果的最小花园周长.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1954]收集足够苹果的最小花园周长.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1954" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1954]收集足够苹果的最小花园周长.py" />
+              <option name="titleSlug" value="minimum-garden-perimeter-to-collect-enough-apples" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1962]移除石子使总数最小.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1962]移除石子使总数最小.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1962" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1962]移除石子使总数最小.py" />
+              <option name="titleSlug" value="remove-stones-to-minimize-the-total" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2387,6 +2453,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[62]不同路径.py" />
               <option name="titleSlug" value="unique-paths" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[649]Dota2 参议院.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[649]Dota2 参议院.md" />
+              <option name="frontendQuestionId" value="leetcode.cn649" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[649]Dota2 参议院.py" />
+              <option name="titleSlug" value="dota2-senate" />
             </LeetcodeEditor>
           </value>
         </entry>

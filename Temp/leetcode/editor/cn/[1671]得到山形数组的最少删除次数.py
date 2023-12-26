@@ -2,7 +2,44 @@
 # https://leetcode.cn/problems/minimum-number-of-removals-to-make-mountain-array/
 from imports import *
 
+
 # leetcode submit region begin(Prohibit modification and deletion)
+# 前后缀分解 + 最长递增子序列
+class Solution:
+    def minimumMountainRemovals(self, nums: List[int]) -> int:
+        n = len(nums)
+        pre = [0] * n
+        a = []
+        for i, x in enumerate(nums):
+            p = bisect.bisect_left(a, x)
+            if p == len(a):
+                a.append(x)
+            a[p] = x
+            pre[i] = p + 1
+
+        a = []
+        ans = 0
+        for i in range(n - 1, 0, -1):
+            x = nums[i]
+            p = bisect.bisect_left(a, x)
+            if len(a) == p:
+                a.append(x)
+            a[p] = x
+            if pre[i] >= 2 and p >= 1:  # 山顶两边都要有数字
+                # nums[i]左边的最长递增子序列长度pre[i]（包括nums[i]）+ nums[i]右边的最长递增子序列长度（不包括nums[i]）p
+                ans = max(ans, pre[i] + p)
+        return n - ans
+
+
+# leetcode submit region end(Prohibit modification and deletion)
+
+# 测试用例
+"""
+[9,8,1,7,6,5,4,3,2,1]
+[100,92,89,77,74,66,64,66,64]
+"""
+# 线段树
+"""
 import typing
 
 
@@ -144,10 +181,4 @@ class Solution:
             if c + 1 > 0 and left[i] > 0:
                 ans_ = max(ans_, c + 1 + left[i] + 1)
         return n - ans_
-
-
-# leetcode submit region end(Prohibit modification and deletion)
-
-"""
-[9,8,1,7,6,5,4,3,2,1]
 """
