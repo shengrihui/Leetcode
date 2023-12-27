@@ -1763,6 +1763,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2660]保龄球游戏的获胜者.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2660]保龄球游戏的获胜者.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2660" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2660]保龄球游戏的获胜者.py" />
+              <option name="titleSlug" value="determine-the-winner-of-a-bowling-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2661]找出叠涂元素.py">
           <value>
             <LeetcodeEditor>
@@ -2123,6 +2134,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[373]查找和最小的 K 对数字.py" />
               <option name="titleSlug" value="find-k-pairs-with-smallest-sums" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[375]猜数字大小 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[375]猜数字大小 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn375" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[375]猜数字大小 II.py" />
+              <option name="titleSlug" value="guess-number-higher-or-lower-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2794,6 +2816,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[96]不同的二叉搜索树.py" />
               <option name="titleSlug" value="unique-binary-search-trees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[97]交错字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[97]交错字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn97" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[97]交错字符串.py" />
+              <option name="titleSlug" value="interleaving-string" />
             </LeetcodeEditor>
           </value>
         </entry>
