@@ -1,5 +1,4 @@
-py = """
-from typing import List
+py = """from typing import List
 from collections import *
 from itertools import *
 from functools import *
