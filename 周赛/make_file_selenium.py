@@ -46,8 +46,8 @@ def get_examples_code(html):
 
 
 if __name__ == '__main__':
-    competition_page_url = "https://leetcode.cn/contest/weekly-contest-377"
-    # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-120"
+    competition_page_url = "https://leetcode.cn/contest/weekly-contest-379"
+    # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-121"
     coding_language = "Python3"
     remote_debugging_port = 9999
 

@@ -1180,6 +1180,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2085]统计出现过一次的公共字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2085]统计出现过一次的公共字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2085" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2085]统计出现过一次的公共字符串.py" />
+              <option name="titleSlug" value="count-common-words-with-one-occurrence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[208]实现 Trie (前缀树).py">
           <value>
             <LeetcodeEditor>
@@ -1807,6 +1818,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2645]构造有效字符串的最少插入数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2645]构造有效字符串的最少插入数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2645" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2645]构造有效字符串的最少插入数.py" />
+              <option name="titleSlug" value="minimum-additions-to-make-valid-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2646]最小化旅行的价格总和.py">
           <value>
             <LeetcodeEditor>
@@ -1862,6 +1884,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2696]删除子串后的字符串最小长度.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2696]删除子串后的字符串最小长度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2696" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2696]删除子串后的字符串最小长度.py" />
+              <option name="titleSlug" value="minimum-string-length-after-removing-substrings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2697]字典序最小回文串.py">
           <value>
             <LeetcodeEditor>
@@ -1892,6 +1925,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2706]购买两块巧克力.py" />
               <option name="titleSlug" value="buy-two-chocolates" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2707]字符串中的额外字符.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2707]字符串中的额外字符.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2707" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2707]字符串中的额外字符.py" />
+              <option name="titleSlug" value="extra-characters-in-a-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2365,6 +2409,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[445]两数相加 II.py" />
               <option name="titleSlug" value="add-two-numbers-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[447]回旋镖的数量.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[447]回旋镖的数量.md" />
+              <option name="frontendQuestionId" value="leetcode.cn447" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[447]回旋镖的数量.py" />
+              <option name="titleSlug" value="number-of-boomerangs" />
             </LeetcodeEditor>
           </value>
         </entry>

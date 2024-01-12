@@ -1,5 +1,5 @@
-from typing import List
 import bisect
+from typing import List
 
 # 题目：100151. 使数组成为等数数组的最小代价
 # 题目链接：

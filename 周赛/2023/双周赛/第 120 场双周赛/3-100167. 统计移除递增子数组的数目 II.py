@@ -1,9 +1,4 @@
-import bisect
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import *
 
 # 题目：100167. 统计移除递增子数组的数目 II
 # 题目链接：

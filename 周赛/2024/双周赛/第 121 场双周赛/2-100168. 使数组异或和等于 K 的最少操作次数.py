@@ -1,8 +1,5 @@
-from typing import List
-from collections import *
-from itertools import *
 from functools import *
-from math import inf, gcd
+from typing import List
 
 
 # 题目：100168. 使数组异或和等于 K 的最少操作次数
@@ -12,12 +9,14 @@ from math import inf, gcd
 
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
-        bits = [0] * 20
-        for x in nums:
-            for j in range(20):
-                bits[j] += (x >> j) & 1
-        k_bits = [(k >> j) & 1 for j in range(20)]
-        return sum(x & 1 != y for x, y in zip(bits, k_bits))
+        return (reduce(lambda x, y: x ^ y, nums) ^ k).bit_count()
+    # def minOperations(self, nums: List[int], k: int) -> int:
+    #     bits = [0] * 20
+    #     for x in nums:
+    #         for j in range(20):
+    #             bits[j] += (x >> j) & 1
+    #     k_bits = [(k >> j) & 1 for j in range(20)]
+    #     return sum(x & 1 != y for x, y in zip(bits, k_bits))
 
 
 s = Solution()

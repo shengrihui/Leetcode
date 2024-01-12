@@ -1,8 +1,5 @@
-from typing import List
-from collections import *
-from itertools import *
-from functools import *
 from math import *
+from typing import List
 
 
 # 题目：100156. 转换字符串的最小成本 I

@@ -31,12 +31,11 @@ class Solution:
         return ans
 
 
-
 s = Solution()
 examples = [
-    (dict(s = "aaaa"),2),
-    (dict(s = "abcdef"),-1),
-    (dict(s = "abcaba"),1),
+    (dict(s="aaaa"), 2),
+    (dict(s="abcdef"), -1),
+    (dict(s="abcaba"), 1),
 ]
 for e, a in examples:
     print(a, e)

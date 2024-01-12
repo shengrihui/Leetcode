@@ -1,8 +1,4 @@
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd
 
 
 # 题目：100159. 使 X 和 Y 相等的最少操作次数

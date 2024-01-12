@@ -1,8 +1,5 @@
-from typing import List
-from collections import *
 from itertools import *
-from functools import *
-from math import *
+from typing import List
 
 # 题目：100169. 移除栅栏得到的正方形田地的最大面积
 # 题目链接：

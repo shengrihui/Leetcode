@@ -1,8 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd
 
 
 # 题目：100166. 检查按位或是否存在尾随零
