@@ -65,7 +65,11 @@
 | [2602. 使数组元素全部相等的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-make-all-array-elements-equal/) |           | 第 358 场周赛 q3 1903 |
 | [2968. 执行操作使频率分数最大](https://leetcode.cn/problems/apply-operations-to-maximize-frequency-score/)                  |           | 第 376 场周赛 q4      |
 
-
 ## 状态压缩DP
 
 + [1349. 参加考试的最大学生数](https://leetcode.cn/problems/maximum-students-taking-exam/)
++ [3007. 价值和小于等于 K 的最大数字](https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/)
+
+## 数位DP
+
++ [2719. 统计整数数目](https://leetcode.cn/problems/count-of-integers/)
