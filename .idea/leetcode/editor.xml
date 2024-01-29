@@ -1290,6 +1290,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2171]拿出最少数目的魔法豆.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2171]拿出最少数目的魔法豆.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2171" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2171]拿出最少数目的魔法豆.py" />
+              <option name="titleSlug" value="removing-minimum-number-of-magic-beans" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2182]构造限制重复的字符串.py">
           <value>
             <LeetcodeEditor>
@@ -2038,6 +2049,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2765]最长交替子数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2765]最长交替子数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2765" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2765]最长交替子数组.py" />
+              <option name="titleSlug" value="longest-alternating-subarray" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2788]按分隔符拆分字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2788]按分隔符拆分字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2788" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2788]按分隔符拆分字符串.py" />
+              <option name="titleSlug" value="split-strings-by-separator" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[279]完全平方数.py">
           <value>
             <LeetcodeEditor>
@@ -2112,6 +2145,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[283]移动零.py" />
               <option name="titleSlug" value="move-zeroes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2865]美丽塔 I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2865]美丽塔 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2865" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2865]美丽塔 I.py" />
+              <option name="titleSlug" value="beautiful-towers-i" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2313,6 +2357,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[365]水壶问题.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[365]水壶问题.md" />
+              <option name="frontendQuestionId" value="leetcode.cn365" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[365]水壶问题.py" />
+              <option name="titleSlug" value="water-and-jug-problem" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[373]查找和最小的 K 对数字.py">
           <value>
             <LeetcodeEditor>
@@ -2365,6 +2420,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3]无重复字符的最长子串.py" />
               <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[410]分割数组的最大值.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[410]分割数组的最大值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn410" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[410]分割数组的最大值.py" />
+              <option name="titleSlug" value="split-array-largest-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2577,6 +2643,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[514]自由之路.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[514]自由之路.md" />
+              <option name="frontendQuestionId" value="leetcode.cn514" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[514]自由之路.py" />
+              <option name="titleSlug" value="freedom-trail" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[51]N 皇后.py">
           <value>
             <LeetcodeEditor>
@@ -2783,6 +2860,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[662]二叉树最大宽度.py" />
               <option name="titleSlug" value="maximum-width-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[670]最大交换.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[670]最大交换.md" />
+              <option name="frontendQuestionId" value="leetcode.cn670" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[670]最大交换.py" />
+              <option name="titleSlug" value="maximum-swap" />
             </LeetcodeEditor>
           </value>
         </entry>

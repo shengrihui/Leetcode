@@ -22,8 +22,8 @@ def get_examples_code(html):
     example_matches = re.findall(example_patten, html, re.DOTALL)
     examples_list = []
     for example in example_matches:
-        input_ = example[0].strip()
-        output = example[1].strip()
+        input_ = example[0].strip().replace("true", "True").replace("false", "False")
+        output = example[1].strip().replace("true", "True").replace("false", "False")
         examples_list.append(f"(dict({input_}),{output}),")
     examples = "\n    ".join(examples_list)
     print(examples_list)
@@ -46,8 +46,8 @@ def get_examples_code(html):
 
 
 if __name__ == '__main__':
-    competition_page_url = "https://leetcode.cn/contest/weekly-contest-380"
-    # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-121"
+    competition_page_url = "https://leetcode.cn/contest/weekly-contest-382"
+    # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-122"
     coding_language = "Python3"
     remote_debugging_port = 9999
 
@@ -136,7 +136,7 @@ if __name__ == '__main__':
         if not os.path.exists(file_name):
             examples, code, f_name = get_examples_code(bro.page_source)
             with open(file_name, "w", encoding="utf-8") as f:
-                file_content = py.format(title=problem_title, contest_link=problem_contest_link, code=code,
+                file_content = py.format(contest_id=f"{competition_title_text} 第 {i-1} 题",title=problem_title, contest_link=problem_contest_link, code=code,
                                          examples=examples, function_name=f_name,
                                          leetcode_link="https://leetcode.cn/problems/" +
                                                        problem_contest_link.strip("/").split("/")[-1])
