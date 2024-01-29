@@ -1,14 +1,15 @@
-py = """from typing import List
+py = """# {contest_id}
+# 题目：{title}
+# 题目链接：
+# 竞赛：{contest_link}
+# 题库：{leetcode_link}
+
+from typing import List
 from collections import *
 from itertools import *
 from functools import *
 from math import inf, gcd, sqrt, isqrt
 
-# {contest_id}
-# 题目：{title}
-# 题目链接：
-# 竞赛：{contest_link}
-# 题库：{leetcode_link}
 
 {code}
 
