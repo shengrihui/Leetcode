@@ -37,6 +37,15 @@ class TreeAncestor:
                 if node < 0: break  # 必须要，不然 pa[-1][i] ...
         return node
 
+    # 灵神
+    # 另一种写法，不断去掉 k 的最低位的 1
+    def getKthAncestor2(self, node: int, k: int) -> int:
+        while k and node != -1:  # 也可以写成 ~node
+            lb = k & -k
+            node = self.pa[node][lb.bit_length() - 1]
+            k ^= lb
+        return node
+
 
 # 我的”创新写法“
 """
