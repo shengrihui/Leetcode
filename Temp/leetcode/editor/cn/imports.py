@@ -5,6 +5,7 @@ from functools import *
 from math import inf, gcd
 import math
 import heapq
+from heapq import *
 from bisect import *
 import bisect
 
