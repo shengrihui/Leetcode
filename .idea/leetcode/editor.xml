@@ -674,6 +674,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1483]树节点的第 K 个祖先.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1483]树节点的第 K 个祖先.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1483" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1483]树节点的第 K 个祖先.py" />
+              <option name="titleSlug" value="kth-ancestor-of-a-tree-node" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1486]数组异或操作.py">
           <value>
             <LeetcodeEditor>
@@ -858,6 +869,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.py" />
               <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1686]石子游戏 VI.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1686]石子游戏 VI.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1686" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1686]石子游戏 VI.py" />
+              <option name="titleSlug" value="stone-game-vi" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1906,6 +1928,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2670]找出不同元素数目差数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2670]找出不同元素数目差数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2670" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2670]找出不同元素数目差数组.py" />
+              <option name="titleSlug" value="find-the-distinct-difference-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2696]删除子串后的字符串最小长度.py">
           <value>
             <LeetcodeEditor>
@@ -2104,6 +2137,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2808]使循环数组所有元素相等的最少秒数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2808]使循环数组所有元素相等的最少秒数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2808" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2808]使循环数组所有元素相等的最少秒数.py" />
+              <option name="titleSlug" value="minimum-seconds-to-equalize-a-circular-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2816]翻倍以链表形式表示的数字.py">
           <value>
             <LeetcodeEditor>
@@ -2145,6 +2189,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[283]移动零.py" />
               <option name="titleSlug" value="move-zeroes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2846]边权重均等查询.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2846]边权重均等查询.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2846" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2846]边权重均等查询.py" />
+              <option name="titleSlug" value="minimum-edge-weight-equilibrium-queries-in-a-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3223,6 +3278,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCP 06]拿硬币.py" />
               <option name="titleSlug" value="na-ying-bi" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCP 24]数字游戏.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[LCP 24]数字游戏.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCP 24" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCP 24]数字游戏.py" />
+              <option name="titleSlug" value="5TxKeK" />
             </LeetcodeEditor>
           </value>
         </entry>
