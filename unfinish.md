@@ -2,6 +2,7 @@
 
 ## 每日一题
 
++ 20240119 [2809. 使数组和小于等于 x 的最少时间](https://leetcode.cn/problems/minimum-time-to-make-array-sum-at-most-x/)
 
 # 周赛
 
