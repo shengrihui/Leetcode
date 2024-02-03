@@ -1,5 +1,5 @@
+from itertools import accumulate
 from typing import List
-
 
 # 题目：100213. 按距离统计房屋对数目 II
 # 题目链接：
@@ -114,8 +114,8 @@ class Solution:
         return res
 """
 
-
 # 去掉注释
+"""
 class Solution:
     def countOfPairs(self, n: int, x: int, y: int) -> List[int]:
         if x > y:
@@ -159,6 +159,39 @@ class Solution:
             acc -= 1 <= i3 - x + y + d - 1 <= n  # ③ ④ 交点
             res[d - 1] = acc * 2
         return res
+"""
+
+
+# 差分数组
+class Solution:
+    def countOfPairs(self, n: int, x: int, y: int) -> List[int]:
+        if x > y:
+            x, y = y, x
+        if y - x <= 1:
+            return [2 * (n - i) for i in range(1, n + 1)]
+        # 距离 d1 到 d2 的数量都加 1，相当于 diff[d1]+=1 diff[d2+1]-=1
+        # diff 的距离 从0到n ，最后返回 从1到n
+        diff = [0] * (n + 1)
+        for i in range(1, n + 1):  # 遍历地固定房屋 i
+            if abs(i - x) + 1 > abs(i - y):  # i 走中介到 y > i 直接到 y -> 不走中介
+                # 影响的距离为 [1,n-i]
+                # 因为我们从左往右考虑，所以距离也只考虑 i往右边房屋的距离
+                diff[1] += 1
+                diff[n - i + 1] -= 1
+            else:  # 走中介
+                # 找到分界点
+                d = abs(i - x) + 1  # i 通过中介到 y 的距离
+                sep = i + d + (y - i - d) // 2  # 在这个点，两种方式距离相同
+                # 分界点左侧是直接走，距离从 1 到 sep - i
+                diff[1] += 1
+                diff[sep - i + 1] -= 1
+                # 分界点及其右侧与 y 左侧，通过中介，距离从 d + 1 到 d + y - (sep + 1)
+                diff[d + 1] += 1
+                diff[d + y - sep] -= 1
+                # y 及其右侧，距离从 d 到 d + n - y
+                diff[d] += 1
+                diff[d + n - y + 1] -= 1
+        return [2 * x for x in list(accumulate(diff))[1:]]
 
 
 s = Solution()
