@@ -9,7 +9,8 @@ from collections import *
 from itertools import *
 from functools import *
 from math import inf, gcd, sqrt, isqrt
-
+import bisect
+from bisect import *
 
 {code}
 
