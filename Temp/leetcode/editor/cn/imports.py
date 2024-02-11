@@ -2,7 +2,7 @@ from typing import Optional, List
 from itertools import *
 from collections import *
 from functools import *
-from math import inf, gcd
+from math import inf, gcd, sqrt, isqrt
 import math
 import heapq
 from heapq import *
