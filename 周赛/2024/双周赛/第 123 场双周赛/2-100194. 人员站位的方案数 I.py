@@ -4,11 +4,9 @@
 # 竞赛：https://leetcode.cn/contest/biweekly-contest-123/problems/find-the-number-of-ways-to-place-people-i/
 # 题库：https://leetcode.cn/problems/find-the-number-of-ways-to-place-people-i
 import bisect
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
+from math import inf
+from typing import List
 
 # 三重循环，暴力直接超时
 """
@@ -32,6 +30,8 @@ class Solution:
                     ans += flag
         return ans
 """
+
+
 class Solution:
     def numberOfPairs(self, points: List[List[int]]) -> int:
         ans = 0
@@ -61,7 +61,6 @@ class Solution:
                 if ny == y and big_x == x:
                     break
         return ans
-
 
 
 s = Solution()

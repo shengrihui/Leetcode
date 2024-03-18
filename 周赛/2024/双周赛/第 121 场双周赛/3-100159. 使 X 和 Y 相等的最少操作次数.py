@@ -1,6 +1,4 @@
 from functools import cache
-from collections import deque
-
 
 # 题目：100159. 使 X 和 Y 相等的最少操作次数
 # 题目链接：
@@ -36,6 +34,7 @@ class Solution:
 
             step += 1
 """
+
 
 # 记忆化搜索
 # 时间复杂度： O((logx)^2)

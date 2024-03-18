@@ -5,12 +5,6 @@
 # 题库：https://leetcode.cn/problems/count-prefix-and-suffix-pairs-ii
 
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
-import bisect
-from bisect import *
 
 
 # 构造前后缀的 pair 列表

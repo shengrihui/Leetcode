@@ -1,8 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd
 
 
 # 题目：100165. 找出数组中的美丽下标 I

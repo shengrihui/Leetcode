@@ -1,8 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd
 
 # 题目：100179. 给定操作次数内使剩余元素的或值最小
 # 题目链接：

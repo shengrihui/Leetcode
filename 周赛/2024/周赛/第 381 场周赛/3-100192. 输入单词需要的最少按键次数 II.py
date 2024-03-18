@@ -1,8 +1,4 @@
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd
 
 
 # 题目：100192. 输入单词需要的最少按键次数 II

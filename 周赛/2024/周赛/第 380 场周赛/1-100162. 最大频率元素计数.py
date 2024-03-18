@@ -1,8 +1,5 @@
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd
+from typing import List
 
 
 # 题目：100162. 最大频率元素计数

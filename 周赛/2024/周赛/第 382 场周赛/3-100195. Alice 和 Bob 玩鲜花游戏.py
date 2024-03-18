@@ -1,10 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd
-
-
 # 题目：100195. Alice 和 Bob 玩鲜花游戏
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-382/problems/alice-and-bob-playing-flower-game/

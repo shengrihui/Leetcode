@@ -4,13 +4,9 @@
 # 竞赛：https://leetcode.cn/contest/weekly-contest-385/problems/most-frequent-prime/
 # 题库：https://leetcode.cn/problems/most-frequent-prime
 
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
-import bisect
-from bisect import *
+from math import isqrt
+from typing import List
 
 
 class Solution:

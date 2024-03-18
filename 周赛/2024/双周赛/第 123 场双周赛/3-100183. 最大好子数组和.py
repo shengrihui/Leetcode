@@ -3,12 +3,9 @@
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/biweekly-contest-123/problems/maximum-good-subarray-sum/
 # 题库：https://leetcode.cn/problems/maximum-good-subarray-sum
-import bisect
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
+from math import inf
+from typing import List
 
 # 算出前缀和，记录每种值的下标
 # 遍历数组的每一个元素作为子数组的第一个元素

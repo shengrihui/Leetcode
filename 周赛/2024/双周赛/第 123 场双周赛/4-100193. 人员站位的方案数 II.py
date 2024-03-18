@@ -4,11 +4,9 @@
 # 竞赛：https://leetcode.cn/contest/biweekly-contest-123/problems/find-the-number-of-ways-to-place-people-ii/
 # 题库：https://leetcode.cn/problems/find-the-number-of-ways-to-place-people-ii
 
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
+from math import inf
+from typing import List
 
 
 class Solution:
@@ -42,12 +40,11 @@ class Solution:
         return ans
 
 
-
 s = Solution()
 examples = [
-    (dict(points = [[1,1],[2,2],[3,3]]),0),
-    (dict(points = [[6,2],[4,4],[2,6]]),2),
-    (dict(points = [[3,1],[1,3],[1,1]]),2),
+    (dict(points=[[1, 1], [2, 2], [3, 3]]), 0),
+    (dict(points=[[6, 2], [4, 4], [2, 6]]), 2),
+    (dict(points=[[3, 1], [1, 3], [1, 1]]), 2),
 ]
 for e, a in examples:
     print(a, e)

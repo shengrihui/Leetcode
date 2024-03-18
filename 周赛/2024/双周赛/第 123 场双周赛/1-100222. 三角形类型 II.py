@@ -5,10 +5,6 @@
 # 题库：https://leetcode.cn/problems/type-of-triangle-ii
 
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
 
 
 class Solution:

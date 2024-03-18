@@ -1,8 +1,6 @@
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, isqrt, sqrt
+from math import isqrt, sqrt
+from typing import List
 
 
 # 题目：100206. 子集中元素的最大数量

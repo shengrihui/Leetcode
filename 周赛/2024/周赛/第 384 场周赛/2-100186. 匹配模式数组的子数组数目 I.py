@@ -4,13 +4,8 @@
 # 竞赛：https://leetcode.cn/contest/weekly-contest-384/problems/number-of-subarrays-that-match-a-pattern-i/
 # 题库：https://leetcode.cn/problems/number-of-subarrays-that-match-a-pattern-i
 
-from typing import List
-from collections import *
 from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
-import bisect
-from bisect import *
+from typing import List
 
 
 class Solution:

@@ -1,10 +1,3 @@
-from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd
-
-
 # 题目：100191. 输入单词需要的最少按键次数 I
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-381/problems/minimum-number-of-pushes-to-type-word-i/

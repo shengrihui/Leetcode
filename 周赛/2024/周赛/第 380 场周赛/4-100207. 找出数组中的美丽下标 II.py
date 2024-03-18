@@ -1,9 +1,4 @@
-import bisect
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd
 
 
 # 题目：100207. 找出数组中的美丽下标 II

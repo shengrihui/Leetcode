@@ -1,24 +1,11 @@
-import os
 import re
-import subprocess
-from time import *
 
-import selenium
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
-
-from conf import *
-from tools import *
 
 
 def get_examples_code(html):
     # 示例
-    example_patten = r"<(?:strong|b)>输入：</(?:strong|b)>(.*?)<(?:strong|b)>输出：</(?:strong|b)>(.*?)<"
+    example_patten = r"<p><(?:strong|b)>输入：</(?:strong|b)><span .*?>(.*?)</span></p>\s*<p><(?:strong|b)>输出：</(?:strong|b)><span .*?>(.*?)</span></p>"
     example_matches = re.findall(example_patten, html, re.DOTALL)
     examples_list = []
     for example in example_matches:
@@ -46,8 +33,8 @@ def get_examples_code(html):
 
 
 if __name__ == '__main__':
-    competition_page_url = "https://leetcode.cn/contest/weekly-contest-385"
-    # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-124"
+    competition_page_url = "https://leetcode.cn/contest/weekly-contest-389"
+    # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-125"
     coding_language = "Python3"
     remote_debugging_port = 9999
 
@@ -136,14 +123,15 @@ if __name__ == '__main__':
         if not os.path.exists(file_name):
             examples, code, f_name = get_examples_code(bro.page_source)
             with open(file_name, "w", encoding="utf-8") as f:
-                file_content = py.format(contest_id=f"{competition_title_text} 第 {i-1} 题",title=problem_title, contest_link=problem_contest_link, code=code,
+                file_content = py.format(contest_id=f"{competition_title_text} 第 {i - 1} 题", title=problem_title,
+                                         contest_link=problem_contest_link, code=code,
                                          examples=examples, function_name=f_name,
                                          leetcode_link="https://leetcode.cn/problems/" +
                                                        problem_contest_link.strip("/").split("/")[-1])
                 f.write(file_content)
         print(file_name)
         # bro.back()
-        sleep(1)
+        sleep(2)
         i -= 1
         # break
 
