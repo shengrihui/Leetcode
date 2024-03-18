@@ -4,7 +4,6 @@
 
 + 20240119 [2809. 使数组和小于等于 x 的最少时间](https://leetcode.cn/problems/minimum-time-to-make-array-sum-at-most-x/)
 + 20240213 [987. 二叉树的垂序遍历](https://leetcode.cn/problems/vertical-order-traversal-of-a-binary-tree/)
-+ 20240317 [310. 最小高度树](https://leetcode.cn/problems/minimum-height-trees/)
 + 20240309 [2386. 找出数组的第 K 大和](https://leetcode.cn/problems/find-the-k-sum-of-an-array/)
 
 # 周赛
