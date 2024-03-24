@@ -1147,6 +1147,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1969]数组元素的最小非零乘积.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1969]数组元素的最小非零乘积.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1969" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1969]数组元素的最小非零乘积.py" />
+              <option name="titleSlug" value="minimum-non-zero-product-of-the-array-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1976]到达目的地的方案数.py">
           <value>
             <LeetcodeEditor>
@@ -1884,6 +1895,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2549]统计桌面上的不同数字.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2549]统计桌面上的不同数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2549" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2549]统计桌面上的不同数字.py" />
+              <option name="titleSlug" value="count-distinct-numbers-on-board" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2558]从数量最多的堆取走礼物.py">
           <value>
             <LeetcodeEditor>
@@ -2057,6 +2079,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[260]只出现一次的数字 III.py" />
               <option name="titleSlug" value="single-number-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2617]网格图中最少访问的格子数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2617]网格图中最少访问的格子数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2617" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2617]网格图中最少访问的格子数.py" />
+              <option name="titleSlug" value="minimum-number-of-visited-cells-in-a-grid" />
             </LeetcodeEditor>
           </value>
         </entry>

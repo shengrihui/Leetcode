@@ -1,22 +1,39 @@
+import os
 import re
+import subprocess
+from time import *
 
+import selenium
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+
+from conf import *
+from tools import *
 
 
 def get_examples_code(html):
     # 示例
-    example_patten = r"<p><(?:strong|b)>输入：</(?:strong|b)><span .*?>(.*?)</span></p>\s*<p><(?:strong|b)>输出：</(?:strong|b)><span .*?>(.*?)</span></p>"
-    example_matches = re.findall(example_patten, html, re.DOTALL)
+    soup = BeautifulSoup(html, 'html.parser')
+    example_matches = soup.select('.example-io')
+    print("jjjjjjjj")
+    print(example_matches)
     examples_list = []
-    for example in example_matches:
-        input_ = example[0].strip().replace("true", "True").replace("false", "False")
-        output = example[1].strip().replace("true", "True").replace("false", "False")
+    for j in range(0, len(example_matches) // 2, 2):
+        inp = example_matches[j]
+        out = example_matches[j + 1]
+        print(inp, out)
+        input_ = inp.text[3:].strip().replace("true", "True").replace("false", "False")
+        output = out.text[3:].strip().replace("true", "True").replace("false", "False")
         examples_list.append(f"(dict({input_}),{output}),")
     examples = "\n    ".join(examples_list)
     print(examples_list)
 
     # 代码
-    soup = BeautifulSoup(html, 'html.parser')
     code_snippets = soup.select('.CodeMirror-line')
     code_list = []
     for code_snippet in code_snippets[:2]:
@@ -33,13 +50,14 @@ def get_examples_code(html):
 
 
 if __name__ == '__main__':
-    competition_page_url = "https://leetcode.cn/contest/weekly-contest-389"
+    competition_page_url = "https://leetcode.cn/contest/weekly-contest-390"
     # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-125"
     coding_language = "Python3"
     remote_debugging_port = 9999
 
     if not is_port_in_use(remote_debugging_port):
         print("启动浏览器...")
+        chrome_path = "C:\Program Files\Google\Chrome\Application\chrome.exe"
         command = f'"{chrome_path}" --remote-debugging-port={remote_debugging_port} --user-data-dir="C:/Users/11200/AppData/Local/Google/Chrome/User Data"'
         # print(command)
         chrome_process = subprocess.Popen(command, shell=True)
@@ -48,6 +66,7 @@ if __name__ == '__main__':
 
     # 浏览器选项配置
     chrome_options = Options()
+
     chrome_options.add_experimental_option("debuggerAddress", f"127.0.0.1:{remote_debugging_port}")
 
     try:
@@ -106,8 +125,8 @@ if __name__ == '__main__':
                 # bro.refresh()
                 print("刷新")
 
-        a_element.click()
-        # bro.get(test_url[i - 2])  # 测试时候用
+        # a_element.click()
+        bro.get("https://leetcode.cn/contest/weekly-contest-390/problems/longest-common-suffix-queries/")  # 测试时候用
         # 问题的题目
         problem_title_element = WebDriverWait(bro, 10).until(
             EC.presence_of_element_located((By.XPATH, '//*[@id="base_content"]/div[1]/div/div/div[1]/h3')))
