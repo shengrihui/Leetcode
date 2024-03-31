@@ -1191,6 +1191,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1997]访问完所有房间的第一天.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1997]访问完所有房间的第一天.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1997" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1997]访问完所有房间的第一天.py" />
+              <option name="titleSlug" value="first-day-where-you-have-been-in-all-the-rooms" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[199]二叉树的右视图.py">
           <value>
             <LeetcodeEditor>
@@ -1983,6 +1994,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2580]统计将重叠区间合并成组的方案数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2580]统计将重叠区间合并成组的方案数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2580" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2580]统计将重叠区间合并成组的方案数.py" />
+              <option name="titleSlug" value="count-ways-to-group-overlapping-ranges" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2581]统计可能的树根数目.py">
           <value>
             <LeetcodeEditor>
@@ -2687,6 +2709,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[331]验证二叉树的前序序列化.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[331]验证二叉树的前序序列化.md" />
+              <option name="frontendQuestionId" value="leetcode.cn331" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[331]验证二叉树的前序序列化.py" />
+              <option name="titleSlug" value="verify-preorder-serialization-of-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[337]打家劫舍 III.py">
           <value>
             <LeetcodeEditor>
@@ -3058,6 +3091,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[514]自由之路.py" />
               <option name="titleSlug" value="freedom-trail" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[518]零钱兑换 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[518]零钱兑换 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn518" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[518]零钱兑换 II.py" />
+              <option name="titleSlug" value="coin-change-ii" />
             </LeetcodeEditor>
           </value>
         </entry>

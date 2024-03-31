@@ -50,7 +50,7 @@ def get_examples_code(html):
 
 
 if __name__ == '__main__':
-    competition_page_url = "https://leetcode.cn/contest/weekly-contest-390"
+    competition_page_url = "https://leetcode.cn/contest/weekly-contest-391"
     # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-125"
     coding_language = "Python3"
     remote_debugging_port = 9999
@@ -125,8 +125,8 @@ if __name__ == '__main__':
                 # bro.refresh()
                 print("刷新")
 
-        # a_element.click()
-        bro.get("https://leetcode.cn/contest/weekly-contest-390/problems/longest-common-suffix-queries/")  # 测试时候用
+        a_element.click()
+        # bro.get("https://leetcode.cn/contest/weekly-contest-390/problems/longest-common-suffix-queries/")  # 测试时候用
         # 问题的题目
         problem_title_element = WebDriverWait(bro, 10).until(
             EC.presence_of_element_located((By.XPATH, '//*[@id="base_content"]/div[1]/div/div/div[1]/h3')))
