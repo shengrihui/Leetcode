@@ -520,6 +520,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1379]找出克隆二叉树中的相同节点.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1379]找出克隆二叉树中的相同节点.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1379" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1379]找出克隆二叉树中的相同节点.py" />
+              <option name="titleSlug" value="find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[137]只出现一次的数字 II.py">
           <value>
             <LeetcodeEditor>
@@ -2467,6 +2478,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2810]故障键盘.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2810]故障键盘.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2810" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2810]故障键盘.py" />
+              <option name="titleSlug" value="faulty-keyboard" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2816]翻倍以链表形式表示的数字.py">
           <value>
             <LeetcodeEditor>
@@ -3586,6 +3608,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[889]根据前序和后序遍历构造二叉树.py" />
               <option name="titleSlug" value="construct-binary-tree-from-preorder-and-postorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[894]所有可能的真二叉树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[894]所有可能的真二叉树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn894" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[894]所有可能的真二叉树.py" />
+              <option name="titleSlug" value="all-possible-full-binary-trees" />
             </LeetcodeEditor>
           </value>
         </entry>
