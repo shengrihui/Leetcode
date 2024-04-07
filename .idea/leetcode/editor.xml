@@ -102,6 +102,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1051]高度检查器.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1051]高度检查器.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1051" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1051]高度检查器.py" />
+              <option name="titleSlug" value="height-checker" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.py">
           <value>
             <LeetcodeEditor>
@@ -630,6 +641,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1437]是否所有 1 都至少相隔 k 个元素.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1437]是否所有 1 都至少相隔 k 个元素.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1437" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1437]是否所有 1 都至少相隔 k 个元素.py" />
+              <option name="titleSlug" value="check-if-all-1s-are-at-least-length-k-places-away" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[143]重排链表.py">
           <value>
             <LeetcodeEditor>
@@ -641,6 +663,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1441]用栈操作构建数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1441]用栈操作构建数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1441" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1441]用栈操作构建数组.py" />
+              <option name="titleSlug" value="build-an-array-with-stack-operations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1443]收集树上所有苹果的最少时间.py">
           <value>
             <LeetcodeEditor>
@@ -649,6 +682,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1443]收集树上所有苹果的最少时间.py" />
               <option name="titleSlug" value="minimum-time-to-collect-all-apples-in-a-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1446]连续字符.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1446]连续字符.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1446" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1446]连续字符.py" />
+              <option name="titleSlug" value="consecutive-characters" />
             </LeetcodeEditor>
           </value>
         </entry>

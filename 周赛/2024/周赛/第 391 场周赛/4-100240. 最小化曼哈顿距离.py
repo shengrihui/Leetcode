@@ -2,7 +2,7 @@
 # 题目：100240. 最小化曼哈顿距离
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-391/problems/minimize-manhattan-distances/
-# 题库：htt1ps://leetcode.cn/problems/minimize-manhattan-distances
+# 题库：https://leetcode.cn/problems/minimize-manhattan-distances
 
 from math import inf
 from typing import List

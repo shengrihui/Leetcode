@@ -25,9 +25,9 @@ for e, a in examples:
 
 test_url = [
     "https://leetcode.cn/contest/weekly-contest-366/problems/apply-operations-to-make-two-strings-equal/",
-    "https://leetcode.cn/contest/weekly-contest-365/problems/minimum-size-subarray-in-infinite-array/",
+    "https://leetcode.cn/contest/weekly-contest-391/problems/minimize-manhattan-distances/",
     "https://leetcode.cn/contest/weekly-contest-364/problems/beautiful-towers-ii/",
-    "https://leetcode.cn/contest/weekly-contest-364/problems/beautiful-towers-ii/",
+    "https://leetcode.cn/contest/weekly-contest-391/problems/count-alternating-subarrays/",
     "https://leetcode.cn/contest/weekly-contest-364/problems/beautiful-towers-ii/",
     "https://leetcode.cn/contest/weekly-contest-364/problems/count-valid-paths-in-a-tree/"
 ]

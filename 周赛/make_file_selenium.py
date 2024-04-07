@@ -19,19 +19,20 @@ from tools import *
 def get_examples_code(html):
     # 示例
     soup = BeautifulSoup(html, 'html.parser')
-    example_matches = soup.select('.example-io')
-    print("jjjjjjjj")
-    print(example_matches)
+    soup_text = soup.text.split("\n")
+    example_matches = [s for s in soup_text if
+                       s.startswith("输入：") or s.startswith("输出：") or s.startswith("输入:") or s.startswith("输出:")]
     examples_list = []
-    for j in range(0, len(example_matches) // 2, 2):
+    print(*example_matches, sep="\n")
+    for j in range(0, len(example_matches), 2):
         inp = example_matches[j]
         out = example_matches[j + 1]
         print(inp, out)
-        input_ = inp.text[3:].strip().replace("true", "True").replace("false", "False")
-        output = out.text[3:].strip().replace("true", "True").replace("false", "False")
+        input_ = inp[3:].strip().replace("true", "True").replace("false", "False")
+        output = out[3:].strip().replace("true", "True").replace("false", "False")
         examples_list.append(f"(dict({input_}),{output}),")
     examples = "\n    ".join(examples_list)
-    print(examples_list)
+    print(examples)
 
     # 代码
     code_snippets = soup.select('.CodeMirror-line')
@@ -50,7 +51,7 @@ def get_examples_code(html):
 
 
 if __name__ == '__main__':
-    competition_page_url = "https://leetcode.cn/contest/weekly-contest-391"
+    competition_page_url = "https://leetcode.cn/contest/weekly-contest-392"
     # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-125"
     coding_language = "Python3"
     remote_debugging_port = 9999
@@ -94,7 +95,8 @@ if __name__ == '__main__':
             break
     else:
         print("打开竞赛页面")
-        bro.execute_script(f"window.open('{competition_page_url}');")
+        # bro.execute_script(f"window.open('{competition_page_url}');")
+        bro.get(competition_page_url)
         sleep(2)
         # bro.switch_to.new_window('tab')
         bro.switch_to.window(bro.window_handles[-1])
@@ -126,7 +128,7 @@ if __name__ == '__main__':
                 print("刷新")
 
         a_element.click()
-        # bro.get("https://leetcode.cn/contest/weekly-contest-390/problems/longest-common-suffix-queries/")  # 测试时候用
+        # bro.get(test_url[i])  # 测试时候用
         # 问题的题目
         problem_title_element = WebDriverWait(bro, 10).until(
             EC.presence_of_element_located((By.XPATH, '//*[@id="base_content"]/div[1]/div/div/div[1]/h3')))
