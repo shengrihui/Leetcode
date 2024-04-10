@@ -883,6 +883,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1600]王位继承顺序.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1600]王位继承顺序.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1600" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1600]王位继承顺序.py" />
+              <option name="titleSlug" value="throne-inheritance" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1609]奇偶树.py">
           <value>
             <LeetcodeEditor>
@@ -1045,6 +1056,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[16]最接近的三数之和.py" />
               <option name="titleSlug" value="3sum-closest" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1702]修改后的最大二进制字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1702]修改后的最大二进制字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1702" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1702]修改后的最大二进制字符串.py" />
+              <option name="titleSlug" value="maximum-binary-string-after-change" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1298,6 +1320,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2008]出租车的最大盈利.py" />
               <option name="titleSlug" value="maximum-earnings-from-taxi" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2009]使数组连续的最少操作数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2009]使数组连续的最少操作数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2009" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2009]使数组连续的最少操作数.py" />
+              <option name="titleSlug" value="minimum-number-of-operations-to-make-array-continuous" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1947,6 +1980,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2525]根据规则将箱子分类.py" />
               <option name="titleSlug" value="categorize-box-according-to-criteria" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2529]正整数和负整数的最大计数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2529]正整数和负整数的最大计数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2529" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2529]正整数和负整数的最大计数.py" />
+              <option name="titleSlug" value="maximum-count-of-positive-integer-and-negative-integer" />
             </LeetcodeEditor>
           </value>
         </entry>
