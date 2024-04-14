@@ -8,7 +8,7 @@ from typing import List
 from collections import *
 from itertools import *
 from functools import *
-from math import inf, gcd, sqrt, isqrt
+from math import inf, gcd, sqrt, isqrt, lcm
 import bisect
 from bisect import *
 
