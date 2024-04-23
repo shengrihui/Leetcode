@@ -113,6 +113,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1052]爱生气的书店老板.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1052]爱生气的书店老板.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1052" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1052]爱生气的书店老板.py" />
+              <option name="titleSlug" value="grumpy-bookstore-owner" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[105]从前序与中序遍历序列构造二叉树.py">
           <value>
             <LeetcodeEditor>
@@ -1158,6 +1169,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1883]准时抵达会议现场的最小跳过休息次数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1883]准时抵达会议现场的最小跳过休息次数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1883" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1883]准时抵达会议现场的最小跳过休息次数.py" />
+              <option name="titleSlug" value="minimum-skips-to-arrive-at-meeting-on-time" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[188]买卖股票的最佳时机 IV.py">
           <value>
             <LeetcodeEditor>
@@ -1312,6 +1334,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1]两数之和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1]两数之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1]两数之和.py" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2003]每棵子树内缺失的最小基因值.py">
           <value>
             <LeetcodeEditor>
@@ -1320,6 +1353,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2003]每棵子树内缺失的最小基因值.py" />
               <option name="titleSlug" value="smallest-missing-genetic-value-in-each-subtree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2007]从双倍数组中还原原数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2007]从双倍数组中还原原数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2007" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2007]从双倍数组中还原原数组.py" />
+              <option name="titleSlug" value="find-original-array-from-doubled-array" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1540,6 +1584,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[213]打家劫舍 II.py" />
               <option name="titleSlug" value="house-robber-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[216]组合总和 III.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[216]组合总和 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn216" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[216]组合总和 III.py" />
+              <option name="titleSlug" value="combination-sum-iii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2940,6 +2995,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[377]组合总和 Ⅳ.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[377]组合总和 Ⅳ.md" />
+              <option name="frontendQuestionId" value="leetcode.cn377" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[377]组合总和 Ⅳ.py" />
+              <option name="titleSlug" value="combination-sum-iv" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[383]赎金信.py">
           <value>
             <LeetcodeEditor>
@@ -2959,6 +3025,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[389]找不同.py" />
               <option name="titleSlug" value="find-the-difference" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[39]组合总和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[39]组合总和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn39" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[39]组合总和.py" />
+              <option name="titleSlug" value="combination-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3773,6 +3850,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[907]子数组的最小值之和.py" />
               <option name="titleSlug" value="sum-of-subarray-minimums" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[924]尽量减少恶意软件的传播.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[924]尽量减少恶意软件的传播.md" />
+              <option name="frontendQuestionId" value="leetcode.cn924" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[924]尽量减少恶意软件的传播.py" />
+              <option name="titleSlug" value="minimize-malware-spread" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[928]尽量减少恶意软件的传播 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[928]尽量减少恶意软件的传播 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn928" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[928]尽量减少恶意软件的传播 II.py" />
+              <option name="titleSlug" value="minimize-malware-spread-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
