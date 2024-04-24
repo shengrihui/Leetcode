@@ -37,4 +37,10 @@ class Solution:
                         vis.add(y)
             ans += 1
         return ans - 1
+
+
+"""
+# 灵神
+Class Solution:
+"""
 # leetcode submit region end(Prohibit modification and deletion)
