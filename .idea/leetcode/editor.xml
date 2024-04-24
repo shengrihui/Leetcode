@@ -1862,6 +1862,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2385]感染二叉树需要的总时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2385]感染二叉树需要的总时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2385" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2385]感染二叉树需要的总时间.py" />
+              <option name="titleSlug" value="amount-of-time-for-binary-tree-to-be-infected" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[238]除自身以外数组的乘积.py">
           <value>
             <LeetcodeEditor>
