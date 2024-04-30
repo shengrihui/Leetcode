@@ -36,6 +36,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1017]负二进制转换.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1017]负二进制转换.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1017" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1017]负二进制转换.py" />
+              <option name="titleSlug" value="convert-to-base-2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[101]对称二叉树.py">
           <value>
             <LeetcodeEditor>
@@ -278,6 +289,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1146]快照数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1146]快照数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1146" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1146]快照数组.py" />
+              <option name="titleSlug" value="snapshot-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[114]二叉树展开为链表.py">
           <value>
             <LeetcodeEditor>
@@ -473,6 +495,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1302]层数最深叶子节点的和.py" />
               <option name="titleSlug" value="deepest-leaves-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1329]将矩阵按对角线排序.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1329]将矩阵按对角线排序.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1329" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1329]将矩阵按对角线排序.py" />
+              <option name="titleSlug" value="sort-the-matrix-diagonally" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2522,6 +2555,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2739]总行驶距离.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2739]总行驶距离.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2739" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2739]总行驶距离.py" />
+              <option name="titleSlug" value="total-distance-traveled" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2744]最大字符串配对数目.py">
           <value>
             <LeetcodeEditor>
@@ -2596,6 +2640,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2789]合并后数组中的最大元素.py" />
               <option name="titleSlug" value="largest-element-in-an-array-after-merge-operations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2798]满足目标工作时长的员工数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2798]满足目标工作时长的员工数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2798" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2798]满足目标工作时长的员工数目.py" />
+              <option name="titleSlug" value="number-of-employees-who-met-the-target" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3036,6 +3091,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[389]找不同.py" />
               <option name="titleSlug" value="find-the-difference" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[392]判断子序列.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[392]判断子序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn392" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[392]判断子序列.py" />
+              <option name="titleSlug" value="is-subsequence" />
             </LeetcodeEditor>
           </value>
         </entry>
