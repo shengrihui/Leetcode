@@ -982,6 +982,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1652]拆炸弹.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1652]拆炸弹.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1652" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1652]拆炸弹.py" />
+              <option name="titleSlug" value="defuse-the-bomb" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1657]确定两个字符串是否接近.py">
           <value>
             <LeetcodeEditor>
@@ -3883,6 +3894,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[83]删除排序链表中的重复元素.py" />
               <option name="titleSlug" value="remove-duplicates-from-sorted-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[857]雇佣 K 名工人的最低成本.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[857]雇佣 K 名工人的最低成本.md" />
+              <option name="frontendQuestionId" value="leetcode.cn857" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[857]雇佣 K 名工人的最低成本.py" />
+              <option name="titleSlug" value="minimum-cost-to-hire-k-workers" />
             </LeetcodeEditor>
           </value>
         </entry>
