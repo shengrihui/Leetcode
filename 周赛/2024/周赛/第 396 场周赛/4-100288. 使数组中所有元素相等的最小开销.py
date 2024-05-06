@@ -9,6 +9,7 @@ from typing import List
 
 
 # 看灵神视频去
+# https://www.bilibili.com/video/BV1Nf421U7em/?spm_id_from=333.1007.tianma.1-1-1.click
 class Solution:
     def minCostToEqualizeArray(self, nums: List[int], cost1: int, cost2: int) -> int:
         n = len(nums)
