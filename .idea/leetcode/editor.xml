@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1018]可被 5 整除的二进制前缀.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1018]可被 5 整除的二进制前缀.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1018" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1018]可被 5 整除的二进制前缀.py" />
+              <option name="titleSlug" value="binary-prefix-divisible-by-5" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[101]对称二叉树.py">
           <value>
             <LeetcodeEditor>
@@ -319,6 +330,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1155]掷骰子等于目标和的方法数.py" />
               <option name="titleSlug" value="number-of-dice-rolls-with-target-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1160]拼写单词.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1160]拼写单词.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1160" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1160]拼写单词.py" />
+              <option name="titleSlug" value="find-words-that-can-be-formed-by-characters" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -806,6 +828,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1463]摘樱桃 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1463]摘樱桃 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1463" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1463]摘樱桃 II.py" />
+              <option name="titleSlug" value="cherry-pickup-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1465]切割后面积最大的蛋糕.py">
           <value>
             <LeetcodeEditor>
@@ -902,6 +935,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[153]寻找旋转排序数组中的最小值.py" />
               <option name="titleSlug" value="find-minimum-in-rotated-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1553]吃掉 N 个橘子的最少天数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1553]吃掉 N 个橘子的最少天数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1553" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1553]吃掉 N 个橘子的最少天数.py" />
+              <option name="titleSlug" value="minimum-number-of-days-to-eat-n-oranges" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1510,6 +1554,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2079]给植物浇水.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2079]给植物浇水.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2079" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2079]给植物浇水.py" />
+              <option name="titleSlug" value="watering-plants" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2085]统计出现过一次的公共字符串.py">
           <value>
             <LeetcodeEditor>
@@ -1573,6 +1628,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2103]环和杆.py" />
               <option name="titleSlug" value="rings-and-rods" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2105]给植物浇水 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2105]给植物浇水 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2105" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2105]给植物浇水 II.py" />
+              <option name="titleSlug" value="watering-plants-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1683,6 +1749,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2216]美化数组的最少删除数.py" />
               <option name="titleSlug" value="minimum-deletions-to-make-array-beautiful" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2244]完成所有任务需要的最少轮数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2244]完成所有任务需要的最少轮数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2244" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2244]完成所有任务需要的最少轮数.py" />
+              <option name="titleSlug" value="minimum-rounds-to-complete-all-tasks" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1925,6 +2002,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[238]除自身以外数组的乘积.py" />
               <option name="titleSlug" value="product-of-array-except-self" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2391]收集垃圾的最少总时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2391]收集垃圾的最少总时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2391" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2391]收集垃圾的最少总时间.py" />
+              <option name="titleSlug" value="minimum-amount-of-time-to-collect-garbage" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3754,6 +3842,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[741]摘樱桃.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[741]摘樱桃.md" />
+              <option name="frontendQuestionId" value="leetcode.cn741" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[741]摘樱桃.py" />
+              <option name="titleSlug" value="cherry-pickup" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[746]使用最小花费爬楼梯.py">
           <value>
             <LeetcodeEditor>
@@ -3938,6 +4037,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[894]所有可能的真二叉树.py" />
               <option name="titleSlug" value="all-possible-full-binary-trees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[8]字符串转换整数 (atoi).py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[8]字符串转换整数 (atoi).md" />
+              <option name="frontendQuestionId" value="leetcode.cn8" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[8]字符串转换整数 (atoi).py" />
+              <option name="titleSlug" value="string-to-integer-atoi" />
             </LeetcodeEditor>
           </value>
         </entry>

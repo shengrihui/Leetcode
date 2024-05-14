@@ -7,6 +7,7 @@
     <orderEntry type="module" module-name="基础算法" />
     <orderEntry type="module" module-name="蓝桥" />
     <orderEntry type="module" module-name="课表" />
+    <orderEntry type="module" module-name="codeforces" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
