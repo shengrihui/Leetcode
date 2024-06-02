@@ -927,6 +927,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1535]找出数组游戏的赢家.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1535]找出数组游戏的赢家.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1535" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1535]找出数组游戏的赢家.py" />
+              <option name="titleSlug" value="find-the-winner-of-an-array-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[153]寻找旋转排序数组中的最小值.py">
           <value>
             <LeetcodeEditor>
@@ -1092,6 +1103,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1673]找出最具竞争力的子序列.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1673]找出最具竞争力的子序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1673" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1673]找出最具竞争力的子序列.py" />
+              <option name="titleSlug" value="find-the-most-competitive-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.py">
           <value>
             <LeetcodeEditor>
@@ -1199,6 +1221,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[172]阶乘后的零.py" />
               <option name="titleSlug" value="factorial-trailing-zeroes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1738]找出第 K 大的异或坐标值.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1738]找出第 K 大的异或坐标值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1738" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1738]找出第 K 大的异或坐标值.py" />
+              <option name="titleSlug" value="find-kth-largest-xor-coordinate-value" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1320,6 +1353,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1944]队列中可以看到的人数.py" />
               <option name="titleSlug" value="number-of-visible-people-in-a-queue" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1953]你可以工作的最大周数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1953]你可以工作的最大周数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1953" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1953]你可以工作的最大周数.py" />
+              <option name="titleSlug" value="maximum-number-of-weeks-for-which-you-can-work" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1485,6 +1529,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[200]岛屿数量.py" />
               <option name="titleSlug" value="number-of-islands" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2028]找出缺失的观测数据.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2028]找出缺失的观测数据.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2028" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2028]找出缺失的观测数据.py" />
+              <option name="titleSlug" value="find-missing-observations" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1749,6 +1804,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2216]美化数组的最少删除数.py" />
               <option name="titleSlug" value="minimum-deletions-to-make-array-beautiful" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2225]找出输掉零场或一场比赛的玩家.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2225]找出输掉零场或一场比赛的玩家.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2225" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2225]找出输掉零场或一场比赛的玩家.py" />
+              <option name="titleSlug" value="find-players-with-zero-or-one-losses" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2346,6 +2412,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2589]完成所有任务的最少时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2589]完成所有任务的最少时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2589" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2589]完成所有任务的最少时间.py" />
+              <option name="titleSlug" value="minimum-time-to-complete-all-tasks" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2591]将钱分给最多的儿童.py">
           <value>
             <LeetcodeEditor>
@@ -2464,6 +2541,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2642]设计可以求最短路径的图类.py" />
               <option name="titleSlug" value="design-graph-with-shortest-path-calculator" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2644]找出可整除性得分最大的整数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2644]找出可整除性得分最大的整数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2644" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2644]找出可整除性得分最大的整数.py" />
+              <option name="titleSlug" value="find-the-maximum-divisibility-score" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2849,6 +2937,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2828]判别首字母缩略词.py" />
               <option name="titleSlug" value="check-if-a-string-is-an-acronym-of-words" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2831]找出最长等值子数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2831]找出最长等值子数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2831" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2831]找出最长等值子数组.py" />
+              <option name="titleSlug" value="find-the-longest-equal-subarray" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3589,6 +3688,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[575]分糖果.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[575]分糖果.md" />
+              <option name="frontendQuestionId" value="leetcode.cn575" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[575]分糖果.py" />
+              <option name="titleSlug" value="distribute-candies" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[576]出界的路径数.py">
           <value>
             <LeetcodeEditor>
@@ -3960,6 +4070,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[816]模糊坐标.py" />
               <option name="titleSlug" value="ambiguous-coordinates" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[826]安排工作以达到最大收益.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[826]安排工作以达到最大收益.md" />
+              <option name="frontendQuestionId" value="leetcode.cn826" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[826]安排工作以达到最大收益.py" />
+              <option name="titleSlug" value="most-profit-assigning-work" />
             </LeetcodeEditor>
           </value>
         </entry>
