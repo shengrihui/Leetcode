@@ -5,12 +5,6 @@
 # 题库：https://leetcode.cn/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network
 
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
-import bisect
-from bisect import *
 
 # 超时
 """
@@ -63,7 +57,51 @@ class Solution:
             g[a].append((b, w))
             g[b].append((a, w))
 
+        def dfs(fa: int, x: int, w: int):
+            nonlocal c
+            c += w % signalSpeed == 0
+            for son, weight in g[x]:
+                if son == fa:
+                    continue
+                dfs(x, son, w + weight)
 
+        ans = [0] * n
+        for root in range(n):
+            cnt_s = 0
+            for son, w in g[root]:
+                c = 0
+                dfs(root, son, w)
+                ans[root] += cnt_s * c
+                cnt_s += c
+        return ans
+
+
+# 灵神
+"""
+class Solution:
+    def countPairsOfConnectableServers(self, edges: List[List[int]], signalSpeed: int) -> List[int]:
+        n = len(edges) + 1
+        g = [[] for _ in range(n)]
+        for x, y, wt in edges:
+            g[x].append((y, wt))
+            g[y].append((x, wt))
+
+        def dfs(x: int, fa: int, s: int) -> int:
+            cnt = 0 if s % signalSpeed else 1
+            for y, wt in g[x]:
+                if y != fa:
+                    cnt += dfs(y, x, s + wt)
+            return cnt
+
+        ans = [0] * n
+        for i, gi in enumerate(g):
+            s = 0
+            for y, wt in gi:
+                cnt = dfs(y, i, wt)
+                ans[i] += cnt * s
+                s += cnt
+        return ans
+"""
 
 s = Solution()
 examples = [
