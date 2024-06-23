@@ -2632,6 +2632,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2663]字典序最小的美丽字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2663]字典序最小的美丽字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2663" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2663]字典序最小的美丽字符串.py" />
+              <option name="titleSlug" value="lexicographically-smallest-beautiful-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2670]找出不同元素数目差数组.py">
           <value>
             <LeetcodeEditor>
@@ -2786,6 +2797,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2748]美丽下标对的数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2748]美丽下标对的数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2748" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2748]美丽下标对的数目.py" />
+              <option name="titleSlug" value="number-of-beautiful-pairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[274]H 指数.py">
           <value>
             <LeetcodeEditor>
@@ -2827,6 +2849,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2765]最长交替子数组.py" />
               <option name="titleSlug" value="longest-alternating-subarray" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2786]访问数组中的位置使分数最大.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2786]访问数组中的位置使分数最大.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2786" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2786]访问数组中的位置使分数最大.py" />
+              <option name="titleSlug" value="visit-array-positions-to-maximize-score" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2885,6 +2918,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2806]取整购买后的账户余额.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2806]取整购买后的账户余额.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2806" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2806]取整购买后的账户余额.py" />
+              <option name="titleSlug" value="account-balance-after-rounded-purchase" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2807]在链表中插入最大公约数.py">
           <value>
             <LeetcodeEditor>
@@ -2915,6 +2959,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2810]故障键盘.py" />
               <option name="titleSlug" value="faulty-keyboard" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2813]子序列最大优雅度.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2813]子序列最大优雅度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2813" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2813]子序列最大优雅度.py" />
+              <option name="titleSlug" value="maximum-elegance-of-a-k-length-subsequence" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3113,6 +3168,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[310]最小高度树.py" />
               <option name="titleSlug" value="minimum-height-trees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[312]戳气球.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[312]戳气球.md" />
+              <option name="frontendQuestionId" value="leetcode.cn312" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[312]戳气球.py" />
+              <option name="titleSlug" value="burst-balloons" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3388,6 +3454,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[417]太平洋大西洋水流问题.py" />
               <option name="titleSlug" value="pacific-atlantic-water-flow" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[419]甲板上的战舰.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[419]甲板上的战舰.md" />
+              <option name="frontendQuestionId" value="leetcode.cn419" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[419]甲板上的战舰.py" />
+              <option name="titleSlug" value="battleships-in-a-board" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -4433,6 +4510,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCP 55]采集果实.py" />
               <option name="titleSlug" value="PTXy4P" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCP 61]气温变化趋势.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[LCP 61]气温变化趋势.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCP 61" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCP 61]气温变化趋势.py" />
+              <option name="titleSlug" value="6CE719" />
             </LeetcodeEditor>
           </value>
         </entry>
