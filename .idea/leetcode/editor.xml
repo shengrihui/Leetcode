@@ -2753,6 +2753,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2732]找到矩阵中的好子集.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2732]找到矩阵中的好子集.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2732" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2732]找到矩阵中的好子集.py" />
+              <option name="titleSlug" value="find-a-good-subset-of-the-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2735]收集巧克力.py">
           <value>
             <LeetcodeEditor>
@@ -3641,6 +3652,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[501]二叉搜索树中的众数.py" />
               <option name="titleSlug" value="find-mode-in-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[503]下一个更大元素 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[503]下一个更大元素 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn503" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[503]下一个更大元素 II.py" />
+              <option name="titleSlug" value="next-greater-element-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
