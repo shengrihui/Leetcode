@@ -4,13 +4,8 @@
 # 竞赛：https://leetcode.cn/contest/weekly-contest-387/problems/minimum-operations-to-write-the-letter-y-on-a-grid/
 # 题库：https://leetcode.cn/problems/minimum-operations-to-write-the-letter-y-on-a-grid
 
-from typing import List
 from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
-import bisect
-from bisect import *
+from typing import List
 
 
 class Solution:
@@ -25,8 +20,8 @@ class Solution:
                 else:
                     cnt[x] += 1
         # ans = n * n
-        # ys = n + m
-        # oo = n * n - ys
+        # ys = n + m  # Y 上面一共有多少个
+        # oo = n * n - ys  # Y 之外一共有多少个
         # for y in range(3):
         #     for x in range(3):
         #         if y != x:
@@ -38,10 +33,8 @@ class Solution:
         for y in range(3):
             for x in range(3):
                 if y != x:
-                    max_not_change = min(max_not_change, cnty[y] + cnt[x])
+                    max_not_change = max(max_not_change, cnty[y] + cnt[x])
         return n * n - max_not_change
-
-        # 扩展到 [0,1e9]
 
 
 s = Solution()

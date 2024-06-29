@@ -2731,6 +2731,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2710]移除字符串中的尾随零.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2710]移除字符串中的尾随零.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2710" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2710]移除字符串中的尾随零.py" />
+              <option name="titleSlug" value="remove-trailing-zeros-from-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2719]统计整数数目.py">
           <value>
             <LeetcodeEditor>
