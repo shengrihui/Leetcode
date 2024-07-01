@@ -19,17 +19,19 @@ class Solution:
             g[v].append(u)
 
         # 树形DP
+
+        res = 0
         """
-         res = 0
         def dfs(x: int, fa: int) -> int:
             nonlocal res
-            max_len = 0
+            max_len = 0  # 在遍历 y 的时候的最大链长
             for y in g[x]:
                 if y != fa:
-                    sub_len = dfs(y, x) + 1
+                    sub_len = dfs(y, x) + 1  # y 这个子树的链长
                     res = max(res, max_len + sub_len)
                     max_len = max(max_len, sub_len)
             return max_len
+
         dfs(0, -1)
         return res
         """
