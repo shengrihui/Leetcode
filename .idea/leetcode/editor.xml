@@ -1609,6 +1609,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2065]最大化一张图中的路径价值.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2065]最大化一张图中的路径价值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2065" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2065]最大化一张图中的路径价值.py" />
+              <option name="titleSlug" value="maximum-path-quality-of-a-graph" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[206]反转链表.py">
           <value>
             <LeetcodeEditor>
@@ -3674,6 +3685,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[493]翻转对.py" />
               <option name="titleSlug" value="reverse-pairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[494]目标和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[494]目标和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn494" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[494]目标和.py" />
+              <option name="titleSlug" value="target-sum" />
             </LeetcodeEditor>
           </value>
         </entry>

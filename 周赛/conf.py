@@ -12,6 +12,7 @@ from math import inf, gcd, sqrt, isqrt, lcm, comb
 import bisect
 from bisect import *
 import heapq
+from heapq import *
 
 {code}
 

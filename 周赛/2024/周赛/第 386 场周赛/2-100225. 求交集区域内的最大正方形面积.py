@@ -9,16 +9,24 @@ from typing import List
 
 class Solution:
     def largestSquareArea(self, bottomLeft: List[List[int]], topRight: List[List[int]]) -> int:
-        t = sorted(zip(topRight, bottomLeft), key=lambda x: (x[0][0], x[0][1]))
         n = len(bottomLeft)
         ans = 0
         for i in range(n):
+            topRight_xi, topRight_yi = topRight[i]
+            bottomLeft_xi, bottomLeft_yi = bottomLeft[i]
+            # 第 i 个不可能更大了
+            if min(topRight_xi - bottomLeft_xi, topRight_yi - bottomLeft_yi) < ans:
+                continue
             for j in range(i + 1, n):
-                w = min(t[i][0][0], t[j][0][0]) - max(t[i][1][0], t[j][1][0])
-                h = min(t[i][0][1], t[j][0][1]) - max(t[i][1][1], t[j][1][1])
-                if w > 0 and h > 0:
-                    ans = max(ans, min(w, h) ** 2)
-        return ans
+                topRight_xj, topRight_yj = topRight[j]
+                bottomLeft_xj, bottomLeft_yj = bottomLeft[j]
+                w = (topRight_xj if topRight_xi > topRight_xj else topRight_xi) - (
+                    bottomLeft_xi if bottomLeft_xi > bottomLeft_xj else bottomLeft_xj)
+                h = (topRight_yi if topRight_yi < topRight_yj else topRight_yj) - (
+                    bottomLeft_yi if bottomLeft_yi > bottomLeft_yj else bottomLeft_yj)
+                if w > 0 and h > 0 and (mn := (w if w < h else h)) > ans:
+                    ans = mn
+        return ans ** 2
 
 
 s = Solution()
