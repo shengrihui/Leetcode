@@ -5,26 +5,12 @@
 # 题库：https://leetcode.cn/problems/minimum-operations-to-exceed-threshold-value-ii
 import heapq
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
-import bisect
-from bisect import *
 
 
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
         ans = 0
         heapq.heapify(nums)
-        # while len(nums) >= 2:
-        #     x = heapq.heappop(nums)
-        #     if x >= k:
-        #         break
-        #     y = heapq.heappop(nums)
-        #     heapq.heappush(nums, min(x, y) * 2 + max(x, y))
-        #     ans += 1
-        # return ans
         while nums[0] < k:
             x = heapq.heappop(nums)
             heapq.heapreplace(nums, 2 * x + nums[0])
