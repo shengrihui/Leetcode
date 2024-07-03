@@ -4,20 +4,21 @@
 # 竞赛：https://leetcode.cn/contest/weekly-contest-383/problems/minimum-time-to-revert-word-to-initial-state-ii/
 # 题库：https://leetcode.cn/problems/minimum-time-to-revert-word-to-initial-state-ii
 
-from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
-import bisect
-from bisect import *
-
 
 class Solution:
     def minimumTimeToInitialState(self, word: str, k: int) -> int:
-        for i in count(1):  # 从 1 开始死循环
-            if word.startswith(word[i * k:]):
-                return i
+        n = len(word)
+        z = [0] * n
+        left, right = 0, 0
+        for i in range(1, n):
+            if i <= right:
+                z[i] = min(right - i + 1, z[i - left])
+            while i + z[i] < n and word[i + z[i]] == word[z[i]]:
+                left, right = i, i + z[i]
+                z[i] += 1
+            if i % k == 0 and z[i] == n - i:  # i 在 xk 位，并且 z[i] = 后缀长度
+                return i // k
+        return (n - 1) // k + 1  # n/k 上取整
 
 
 s = Solution()

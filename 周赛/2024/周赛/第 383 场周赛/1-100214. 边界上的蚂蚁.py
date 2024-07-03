@@ -4,13 +4,10 @@
 # 竞赛：https://leetcode.cn/contest/weekly-contest-383/problems/ant-on-the-boundary/
 # 题库：https://leetcode.cn/problems/ant-on-the-boundary
 
-from typing import List
 from collections import *
 from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
-import bisect
-from bisect import *
+from typing import List
+
 
 class Solution:
     def returnToBoundaryCount(self, nums: List[int]) -> int:

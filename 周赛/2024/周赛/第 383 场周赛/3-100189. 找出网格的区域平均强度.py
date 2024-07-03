@@ -5,12 +5,6 @@
 # 题库：https://leetcode.cn/problems/find-the-grid-of-region-average
 
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
-import bisect
-from bisect import *
 
 
 class Solution:

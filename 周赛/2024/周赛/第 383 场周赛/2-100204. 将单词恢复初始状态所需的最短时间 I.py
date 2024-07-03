@@ -4,13 +4,7 @@
 # 竞赛：https://leetcode.cn/contest/weekly-contest-383/problems/minimum-time-to-revert-word-to-initial-state-i/
 # 题库：https://leetcode.cn/problems/minimum-time-to-revert-word-to-initial-state-i
 
-from typing import List
-from collections import *
 from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt
-import bisect
-from bisect import *
 
 
 class Solution:
@@ -22,6 +16,13 @@ class Solution:
                 return i
             i += 1
         return i
+
+
+class Solution:
+    def minimumTimeToInitialState(self, word: str, k: int) -> int:
+        for i in count(1):  # 从 1 开始死循环
+            if word.startswith(word[i * k:]):
+                return i
 
 
 s = Solution()
