@@ -1,9 +1,5 @@
 from heapq import nsmallest
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd
 
 
 # 题目：100181. 将数组分成最小总代价的子数组 I

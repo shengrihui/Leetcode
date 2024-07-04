@@ -1,8 +1,4 @@
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd
 
 
 # 题目：100199. 判断一个数组是否可以变为有序
@@ -28,7 +24,10 @@ class Solution:
             return True
 
         n = len(nums)
-        return f(nums)  # or f(nums[::-1])
+        return f(nums)
+        # 不要考虑降序
+        # https://leetcode.cn/problems/find-if-array-can-be-sorted/solutions/2613051/jiao-ni-yi-ci-xing-ba-dai-ma-xie-dui-on-j3nik/comments/2219304
+        # return f(nums) or f(nums[::-1])
 
 
 s = Solution()
