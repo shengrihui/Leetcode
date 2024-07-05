@@ -1,10 +1,9 @@
-from typing import List
-
-
 # 题目：100170. 对角线最长的矩形的面积
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-379/problems/maximum-area-of-longest-diagonal-rectangle/
 # 题库：https://leetcode.cn/problems/maximum-area-of-longest-diagonal-rectangle
+from typing import List
+
 
 class Solution:
     def areaOfMaxDiagonal(self, dimensions: List[List[int]]) -> int:
@@ -12,9 +11,17 @@ class Solution:
         for x, y in dimensions:
             r = x * x + y * y
             if r >= d:
+                # 对角线一样取面积更大的
+                # 对角线不一样直接算面积
                 ans = x * y if r > d else max(ans, x * y)
                 d = r
         return ans
+
+
+# 灵神
+class Solution:
+    def areaOfMaxDiagonal(self, dimensions: List[List[int]]) -> int:
+        return max((x * x + y * y, x * y) for x, y in dimensions)[1]
 
 
 s = Solution()
