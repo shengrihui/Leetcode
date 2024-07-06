@@ -1,11 +1,11 @@
-from itertools import *
-
-
 # 题目：100185. 找出出现至少三次的最长特殊子字符串 I
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-378/problems/find-longest-special-substring-that-occurs-thrice-i/
 # 题库：https://leetcode.cn/problems/find-longest-special-substring-that-occurs-thrice-i
+from itertools import *
 
+
+# cnt[ch][i] 以差分数组的形式记录长为 i 的 ch 字符串的出现次数
 class Solution:
     def maximumLength(self, s: str) -> int:
         n = len(s)

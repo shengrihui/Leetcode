@@ -1,16 +1,22 @@
-from typing import List
-
-
 # 题目：100166. 检查按位或是否存在尾随零
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-378/problems/check-if-bitwise-or-has-trailing-zeros/
 # 题库：https://leetcode.cn/problems/check-if-bitwise-or-has-trailing-zeros
+from typing import List
+
 
 class Solution:
     def hasTrailingZeros(self, nums: List[int]) -> bool:
-        for i in range(len(nums)):
-            for j in range(i + 1, len(nums)):
-                if (nums[i] | nums[j]) & 1 == 0:
+        # for i in range(len(nums)):
+        #     for j in range(i + 1, len(nums)):
+        #         if (nums[i] | nums[j]) & 1 == 0:
+        #             return True
+        # return False
+        cnt = 0
+        for x in nums:
+            if x & 1 == 0:
+                cnt += 1
+                if cnt == 2:
                     return True
         return False
 
