@@ -1,10 +1,9 @@
-from itertools import *
-from typing import List
-
 # 题目：100169. 移除栅栏得到的正方形田地的最大面积
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-377/problems/maximum-square-area-by-removing-fences-from-a-field/
 # 题库：https://leetcode.cn/problems/maximum-square-area-by-removing-fences-from-a-field
+from itertools import *
+from typing import List
 
 """
 class Solution:

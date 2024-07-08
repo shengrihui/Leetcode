@@ -1,10 +1,9 @@
-from typing import List
-
-
 # 题目：100148. 最小数字游戏
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-377/problems/minimum-number-game/
 # 题库：https://leetcode.cn/problems/minimum-number-game
+from typing import List
+
 
 class Solution:
     def numberGame(self, nums: List[int]) -> List[int]:
