@@ -1,10 +1,9 @@
-from typing import List
-
-
 # 题目：100139. 循环移位后的矩阵相似检查
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-373/problems/matrix-similarity-after-cyclic-shifts/
 # 题库：https://leetcode.cn/problems/matrix-similarity-after-cyclic-shifts
+from typing import List
+
 
 class Solution:
     def areSimilar(self, mat: List[List[int]], k: int) -> bool:
