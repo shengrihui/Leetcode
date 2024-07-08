@@ -3,6 +3,7 @@
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/weekly-contest-400/problems/find-subarray-with-bitwise-and-closest-to-k/
 # 题库：https://leetcode.cn/problems/find-subarray-with-bitwise-and-closest-to-k
+# 新题库： https://leetcode.cn/problems/find-subarray-with-bitwise-or-closest-to-k/description/
 
 from typing import List
 
