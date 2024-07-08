@@ -1389,6 +1389,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1958]检查操作是否合法.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1958]检查操作是否合法.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1958" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1958]检查操作是否合法.py" />
+              <option name="titleSlug" value="check-if-move-is-legal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1962]移除石子使总数最小.py">
           <value>
             <LeetcodeEditor>
@@ -1430,6 +1441,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[198]打家劫舍.py" />
               <option name="titleSlug" value="house-robber" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1991]找到数组的中间位置.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1991]找到数组的中间位置.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1991" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1991]找到数组的中间位置.py" />
+              <option name="titleSlug" value="find-the-middle-index-in-array" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -4125,6 +4147,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[715]Range 模块.py" />
               <option name="titleSlug" value="range-module" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[724]寻找数组的中心下标.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[724]寻找数组的中心下标.md" />
+              <option name="frontendQuestionId" value="leetcode.cn724" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[724]寻找数组的中心下标.py" />
+              <option name="titleSlug" value="find-pivot-index" />
             </LeetcodeEditor>
           </value>
         </entry>

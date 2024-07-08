@@ -3,6 +3,7 @@ import re
 import subprocess
 from time import *
 
+import psutil
 import selenium
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -12,8 +13,43 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-from conf import *
-from tools import *
+py = """# {contest_id}
+# 题目：{title}
+# 题目链接：
+# 竞赛：{contest_link}
+# 题库：{leetcode_link}
+
+from typing import List
+from collections import *
+from itertools import *
+from functools import *
+from math import inf, gcd, sqrt, isqrt, lcm, comb
+import bisect
+from bisect import *
+import heapq
+from heapq import *
+
+{code}
+
+s = Solution()
+examples = [
+    {examples}
+]
+for e, a in examples:
+    print(a, e)
+    print(s.{function_name}(**e))
+"""
+
+test_url = [
+    "https://leetcode.cn/contest/biweekly-contest-134/problems/alternating-groups-i/",
+    "https://leetcode.cn/contest/biweekly-contest-134/problems/maximum-points-after-enemy-battles/",
+    "https://leetcode.cn/contest/biweekly-contest-134/problems/alternating-groups-ii/",
+    "https://leetcode.cn/contest/biweekly-contest-134/problems/alternating-groups-ii/",
+    "https://leetcode.cn/contest/biweekly-contest-134/problems/alternating-groups-ii/",
+    "https://leetcode.cn/contest/biweekly-contest-134/problems/alternating-groups-ii/"
+]
+driver_dir = "E:/CS/PYTHON/08爬虫Chrome/"
+chrome_path = "C:/Program Files/Google/Chrome/Application/chrome.exe"
 
 
 def get_examples_code(html):
@@ -50,9 +86,29 @@ def get_examples_code(html):
     return examples, code, function_name_match.group(1)
 
 
+def is_port_in_use(port):
+    for conn in psutil.net_connections():
+        if conn.laddr.port == port:
+            return True
+    return False
+
+
+def kill_process_using_port(port):
+    for process in psutil.process_iter(attrs=['pid', 'name']):
+        try:
+            connections = process.connections()
+            for connection in connections:
+                if connection.laddr.port == port:
+                    print(f"Killing process with PID: {process.info['pid']} and port: {port}")
+                    psutil.Process(process.info['pid']).terminate()
+                    break
+        except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
+            pass
+
+
 if __name__ == '__main__':
-    competition_page_url = "https://leetcode.cn/contest/weekly-contest-404"
-    # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-125"
+    # competition_page_url = "https://leetcode.cn/contest/weekly-contest-405"
+    competition_page_url = "https://leetcode.cn/contest/biweekly-contest-134"
     coding_language = "Python3"
     remote_debugging_port = 9999
 
@@ -97,7 +153,7 @@ if __name__ == '__main__':
         print("打开竞赛页面")
         # bro.execute_script(f"window.open('{competition_page_url}');")
         bro.get(competition_page_url)
-        sleep(2)
+        sleep(1)
         # bro.switch_to.new_window('tab')
         bro.switch_to.window(bro.window_handles[-1])
 
@@ -112,9 +168,12 @@ if __name__ == '__main__':
     while i >= 2:
         # 如果不是这一场竞赛的页面，就新开一个，这样每一道题都是一页
         if not re.search(r"第(.*?)周赛", bro.title):
-            bro.execute_script(f"window.open('{competition_page_url}');")
+            print(re.search(r"第(.*?)周赛", bro.title))
+            bro.execute_script("window.open('','_blank');")
+            print("新开标签页")
             sleep(1)
             bro.switch_to.window(bro.window_handles[-1])
+            bro.get(competition_page_url)
         while True:
             # 用while-try的形式，主要是为了还没到时间，问题列表还没刷新出来，用这样的方式刷新出来
             try:
@@ -127,9 +186,11 @@ if __name__ == '__main__':
                 # bro.refresh()
                 print("刷新")
 
-        a_element.click()
-        # bro.get(test_url[i])  # 测试时候用
+        # a_element.click()
+        bro.get(test_url[i])  # 测试时候用
         # 问题的题目
+        # problem_title_element = WebDriverWait(bro, 10).until(
+        #     EC.presence_of_element_located((By.XPATH, '//*[@id="base_content"]/div[1]/div/div/div[1]/h3')))
         problem_title_element = WebDriverWait(bro, 10).until(
             EC.presence_of_element_located((By.XPATH, '//*[@id="base_content"]/div[1]/div/div/div[1]/h3')))
         # 语言的选择
@@ -152,7 +213,7 @@ if __name__ == '__main__':
                 f.write(file_content)
         print(file_name)
         # bro.back()
-        sleep(2)
+        sleep(5)
         i -= 1
         # break
 
