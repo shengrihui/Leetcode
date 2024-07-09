@@ -1,6 +1,5 @@
 # 1671 得到山形数组的最少删除次数
 # https://leetcode.cn/problems/minimum-number-of-removals-to-make-mountain-array/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 373 查找和最小的 K 对数字
 # https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

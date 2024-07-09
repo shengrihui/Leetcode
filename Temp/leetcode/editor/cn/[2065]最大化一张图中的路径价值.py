@@ -1,6 +1,5 @@
 # 2065 最大化一张图中的路径价值
 # https://leetcode.cn/problems/maximum-path-quality-of-a-graph/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 2462 雇佣 K 位工人的总代价
 # https://leetcode.cn/problems/total-cost-to-hire-k-workers/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 

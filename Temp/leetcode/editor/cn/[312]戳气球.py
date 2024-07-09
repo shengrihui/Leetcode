@@ -1,6 +1,5 @@
 # 312 戳气球
 # https://leetcode.cn/problems/burst-balloons/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

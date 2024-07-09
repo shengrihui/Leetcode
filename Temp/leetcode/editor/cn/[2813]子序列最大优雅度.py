@@ -1,6 +1,5 @@
 # 2813 子序列最大优雅度
 # https://leetcode.cn/problems/maximum-elegance-of-a-k-length-subsequence/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

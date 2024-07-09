@@ -1,6 +1,5 @@
 # 1954 收集足够苹果的最小花园周长
 # https://leetcode.cn/problems/minimum-garden-perimeter-to-collect-enough-apples/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

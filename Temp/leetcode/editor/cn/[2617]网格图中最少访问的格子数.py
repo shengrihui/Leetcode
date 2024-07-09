@@ -1,8 +1,6 @@
 # 2617 网格图中最少访问的格子数
 # https://leetcode.cn/problems/minimum-number-of-visited-cells-in-a-grid/
 
-from imports import *
-
 
 # leetcode submit region begin(Prohibit modification and deletion)
 

@@ -1,6 +1,5 @@
 # 826 安排工作以达到最大收益
 # https://leetcode.cn/problems/most-profit-assigning-work/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

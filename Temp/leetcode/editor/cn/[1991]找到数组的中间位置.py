@@ -1,6 +1,5 @@
 # 1991 找到数组的中间位置
 # https://leetcode.cn/problems/find-the-middle-index-in-array/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

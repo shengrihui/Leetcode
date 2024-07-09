@@ -1,6 +1,5 @@
 # 2786 访问数组中的位置使分数最大
 # https://leetcode.cn/problems/visit-array-positions-to-maximize-score/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 # dfs(i,j) 在 [i,n-1] 中选一个子序列且要求第一个元素的奇偶性为 j

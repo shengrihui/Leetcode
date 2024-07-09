@@ -1,6 +1,5 @@
 # 2454 下一个更大元素 IV
 # https://leetcode.cn/problems/next-greater-element-iv/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

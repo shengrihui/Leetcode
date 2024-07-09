@@ -1,6 +1,5 @@
 # 2765 最长交替子数组
 # https://leetcode.cn/problems/longest-alternating-subarray/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # LCP 61 气温变化趋势
 # https://leetcode.cn/problems/6CE719/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

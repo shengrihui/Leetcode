@@ -1,6 +1,5 @@
 # 1944 队列中可以看到的人数
 # https://leetcode.cn/problems/number-of-visible-people-in-a-queue/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

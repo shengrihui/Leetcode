@@ -1,6 +1,5 @@
 # 2182 构造限制重复的字符串
 # https://leetcode.cn/problems/construct-string-with-repeat-limit/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 429 N 叉树的层序遍历
 # https://leetcode.cn/problems/n-ary-tree-level-order-traversal/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 """

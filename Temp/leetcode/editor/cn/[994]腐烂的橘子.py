@@ -1,6 +1,5 @@
 # 994 腐烂的橘子
 # https://leetcode.cn/problems/rotting-oranges/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

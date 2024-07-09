@@ -1,6 +1,5 @@
 # 1738 找出第 K 大的异或坐标值
 # https://leetcode.cn/problems/find-kth-largest-xor-coordinate-value/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

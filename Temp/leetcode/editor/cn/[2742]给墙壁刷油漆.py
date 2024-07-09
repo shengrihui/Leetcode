@@ -1,6 +1,5 @@
 # 2742 给墙壁刷油漆
 # https://leetcode.cn/problems/painting-the-walls/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 """

@@ -1,6 +1,5 @@
 # 2707 字符串中的额外字符
 # https://leetcode.cn/problems/extra-characters-in-a-string/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

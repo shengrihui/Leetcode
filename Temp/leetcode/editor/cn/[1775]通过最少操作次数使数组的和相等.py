@@ -1,6 +1,5 @@
 # 1775 通过最少操作次数使数组的和相等
 # https://leetcode.cn/problems/equal-sum-arrays-with-minimum-number-of-operations/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

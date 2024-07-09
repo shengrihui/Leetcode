@@ -1,6 +1,5 @@
 # 1103 分糖果 II
 # https://leetcode.cn/problems/distribute-candies-to-people/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

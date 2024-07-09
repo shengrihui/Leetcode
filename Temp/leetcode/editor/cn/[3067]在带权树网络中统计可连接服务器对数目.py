@@ -1,6 +1,5 @@
 # 3067 在带权树网络中统计可连接服务器对数目
 # https://leetcode.cn/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

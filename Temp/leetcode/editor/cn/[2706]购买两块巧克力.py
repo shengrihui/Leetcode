@@ -1,6 +1,5 @@
 # 2706 购买两块巧克力
 # https://leetcode.cn/problems/buy-two-chocolates/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

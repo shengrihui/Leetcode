@@ -1,6 +1,5 @@
 # 96 不同的二叉搜索树
 # https://leetcode.cn/problems/unique-binary-search-trees/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 # class Solution:

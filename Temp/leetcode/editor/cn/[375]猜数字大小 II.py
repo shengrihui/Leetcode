@@ -1,6 +1,5 @@
 # 375 猜数字大小 II
 # https://leetcode.cn/problems/guess-number-higher-or-lower-ii/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

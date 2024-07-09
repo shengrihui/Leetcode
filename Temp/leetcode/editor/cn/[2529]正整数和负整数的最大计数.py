@@ -1,6 +1,5 @@
 # 2529 正整数和负整数的最大计数
 # https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

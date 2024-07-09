@@ -1,6 +1,5 @@
 # 2059 转化数字的最小运算数
 # https://leetcode.cn/problems/minimum-operations-to-convert-number/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

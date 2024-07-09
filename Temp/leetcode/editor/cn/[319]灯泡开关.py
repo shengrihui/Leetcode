@@ -2,8 +2,6 @@
 # https://leetcode.cn/problems/bulb-switcher/
 import math
 
-from imports import *
-
 
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:

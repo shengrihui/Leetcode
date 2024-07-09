@@ -1,6 +1,5 @@
 # 2369 检查数组是否存在有效划分
 # https://leetcode.cn/problems/check-if-there-is-a-valid-partition-for-the-array/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

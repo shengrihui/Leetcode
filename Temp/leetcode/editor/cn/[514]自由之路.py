@@ -1,6 +1,5 @@
 # 514 自由之路
 # https://leetcode.cn/problems/freedom-trail/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

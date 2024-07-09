@@ -1,6 +1,5 @@
 # 1652 拆炸弹
 # https://leetcode.cn/problems/defuse-the-bomb/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 2644 找出可整除性得分最大的整数
 # https://leetcode.cn/problems/find-the-maximum-divisibility-score/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

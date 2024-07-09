@@ -1,6 +1,5 @@
 # 2581 统计可能的树根数目
 # https://leetcode.cn/problems/count-number-of-possible-root-nodes/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

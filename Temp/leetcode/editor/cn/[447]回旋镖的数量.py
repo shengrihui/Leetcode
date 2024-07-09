@@ -1,6 +1,5 @@
 # 447 回旋镖的数量
 # https://leetcode.cn/problems/number-of-boomerangs/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

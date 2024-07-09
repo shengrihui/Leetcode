@@ -1,6 +1,5 @@
 # 2741 特别的排列
 # https://leetcode.cn/problems/special-permutations/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 """

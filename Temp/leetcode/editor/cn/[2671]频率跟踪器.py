@@ -1,6 +1,5 @@
 # 2671 频率跟踪器
 # https://leetcode.cn/problems/frequency-tracker/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

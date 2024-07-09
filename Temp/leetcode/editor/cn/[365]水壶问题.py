@@ -1,6 +1,5 @@
 # 365 水壶问题
 # https://leetcode.cn/problems/water-and-jug-problem/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

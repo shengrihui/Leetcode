@@ -1,6 +1,5 @@
 # 670 最大交换
 # https://leetcode.cn/problems/maximum-swap/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

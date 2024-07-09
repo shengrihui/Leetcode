@@ -1,6 +1,5 @@
 # 1600 王位继承顺序
 # https://leetcode.cn/problems/throne-inheritance/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

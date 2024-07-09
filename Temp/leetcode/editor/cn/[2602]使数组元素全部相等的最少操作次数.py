@@ -1,6 +1,5 @@
 # 2602 使数组元素全部相等的最少操作次数
 # https://leetcode.cn/problems/minimum-operations-to-make-all-array-elements-equal/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

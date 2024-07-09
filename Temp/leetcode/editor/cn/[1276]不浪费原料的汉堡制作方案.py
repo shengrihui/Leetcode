@@ -1,6 +1,5 @@
 # 1276 不浪费原料的汉堡制作方案
 # https://leetcode.cn/problems/number-of-burgers-with-no-waste-of-ingredients/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

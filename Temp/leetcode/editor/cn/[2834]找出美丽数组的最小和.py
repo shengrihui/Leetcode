@@ -1,6 +1,5 @@
 # 2834 找出美丽数组的最小和
 # https://leetcode.cn/problems/find-the-minimum-possible-sum-of-a-beautiful-array/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

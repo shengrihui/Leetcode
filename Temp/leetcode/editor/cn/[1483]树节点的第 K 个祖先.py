@@ -1,6 +1,5 @@
 # 1483 树节点的第 K 个祖先
 # https://leetcode.cn/problems/kth-ancestor-of-a-tree-node/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

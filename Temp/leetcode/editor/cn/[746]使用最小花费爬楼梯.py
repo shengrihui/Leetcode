@@ -1,6 +1,5 @@
 # 746 使用最小花费爬楼梯
 # https://leetcode.cn/problems/min-cost-climbing-stairs/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

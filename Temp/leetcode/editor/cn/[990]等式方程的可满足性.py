@@ -1,6 +1,5 @@
 # 990 等式方程的可满足性
 # https://leetcode.cn/problems/satisfiability-of-equality-equations/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

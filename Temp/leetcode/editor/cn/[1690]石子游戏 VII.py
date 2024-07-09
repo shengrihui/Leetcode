@@ -1,6 +1,5 @@
 # 1690 石子游戏 VII
 # https://leetcode.cn/problems/stone-game-vii/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 

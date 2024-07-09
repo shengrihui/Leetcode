@@ -1,6 +1,5 @@
 # 1901 寻找峰值 II
 # https://leetcode.cn/problems/find-a-peak-element-ii/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 1553 吃掉 N 个橘子的最少天数
 # https://leetcode.cn/problems/minimum-number-of-days-to-eat-n-oranges/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 """

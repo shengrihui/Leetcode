@@ -1,6 +1,5 @@
 # 2670 找出不同元素数目差数组
 # https://leetcode.cn/problems/find-the-distinct-difference-array/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

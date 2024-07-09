@@ -1,6 +1,5 @@
 # 232 用栈实现队列
 # https://leetcode.cn/problems/implement-queue-using-stacks/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

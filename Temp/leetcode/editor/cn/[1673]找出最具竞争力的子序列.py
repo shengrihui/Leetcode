@@ -1,6 +1,5 @@
 # 1673 找出最具竞争力的子序列
 # https://leetcode.cn/problems/find-the-most-competitive-subsequence/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

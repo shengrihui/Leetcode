@@ -1,6 +1,5 @@
 # 2660 保龄球游戏的获胜者
 # https://leetcode.cn/problems/determine-the-winner-of-a-bowling-game/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

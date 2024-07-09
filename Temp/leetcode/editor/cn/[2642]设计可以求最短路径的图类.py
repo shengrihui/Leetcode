@@ -1,6 +1,5 @@
 # 2642 设计可以求最短路径的图类
 # https://leetcode.cn/problems/design-graph-with-shortest-path-calculator/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 589 N 叉树的前序遍历
 # https://leetcode.cn/problems/n-ary-tree-preorder-traversal/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 """

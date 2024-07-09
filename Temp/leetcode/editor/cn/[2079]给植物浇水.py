@@ -1,6 +1,5 @@
 # 2079 给植物浇水
 # https://leetcode.cn/problems/watering-plants/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

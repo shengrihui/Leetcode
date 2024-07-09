@@ -1,6 +1,5 @@
 # 494 目标和
 # https://leetcode.cn/problems/target-sum/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

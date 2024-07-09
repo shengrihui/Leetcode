@@ -1,6 +1,5 @@
 # 1052 爱生气的书店老板
 # https://leetcode.cn/problems/grumpy-bookstore-owner/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

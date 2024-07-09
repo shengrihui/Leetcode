@@ -1,6 +1,5 @@
 # 649 Dota2 参议院
 # https://leetcode.cn/problems/dota2-senate/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 # 入队时加入轮次信息

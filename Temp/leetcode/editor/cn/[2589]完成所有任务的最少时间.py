@@ -1,6 +1,5 @@
 # 2589 完成所有任务的最少时间
 # https://leetcode.cn/problems/minimum-time-to-complete-all-tasks/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 """

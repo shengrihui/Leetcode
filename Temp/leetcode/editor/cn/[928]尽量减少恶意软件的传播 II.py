@@ -1,6 +1,5 @@
 # 928 尽量减少恶意软件的传播 II
 # https://leetcode.cn/problems/minimize-malware-spread-ii/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

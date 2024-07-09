@@ -1,6 +1,5 @@
 # 2009 使数组连续的最少操作数
 # https://leetcode.cn/problems/minimum-number-of-operations-to-make-array-continuous/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

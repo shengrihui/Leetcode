@@ -1,6 +1,5 @@
 # 2788 按分隔符拆分字符串
 # https://leetcode.cn/problems/split-strings-by-separator/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

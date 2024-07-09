@@ -1,6 +1,5 @@
 # 2684 矩阵中移动的最大次数
 # https://leetcode.cn/problems/maximum-number-of-moves-in-a-grid/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 2808 使循环数组所有元素相等的最少秒数
 # https://leetcode.cn/problems/minimum-seconds-to-equalize-a-circular-array/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

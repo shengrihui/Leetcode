@@ -1,6 +1,5 @@
 # 2007 从双倍数组中还原原数组
 # https://leetcode.cn/problems/find-original-array-from-doubled-array/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

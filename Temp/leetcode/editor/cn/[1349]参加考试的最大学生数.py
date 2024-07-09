@@ -1,6 +1,5 @@
 # 1349 参加考试的最大学生数
 # https://leetcode.cn/problems/maximum-students-taking-exam/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 """

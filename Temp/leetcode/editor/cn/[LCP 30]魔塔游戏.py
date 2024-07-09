@@ -1,6 +1,5 @@
 # LCP 30 魔塔游戏
 # https://leetcode.cn/problems/p0NxJO/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

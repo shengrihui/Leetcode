@@ -1,6 +1,5 @@
 # 2735 收集巧克力
 # https://leetcode.cn/problems/collecting-chocolates/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

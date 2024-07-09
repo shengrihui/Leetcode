@@ -1,6 +1,5 @@
 # 383 赎金信
 # https://leetcode.cn/problems/ransom-note/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

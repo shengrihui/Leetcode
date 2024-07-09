@@ -1,6 +1,5 @@
 # 1686 石子游戏 VI
 # https://leetcode.cn/problems/stone-game-vi/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

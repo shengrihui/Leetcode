@@ -1,6 +1,5 @@
 # 313 超级丑数
 # https://leetcode.cn/problems/super-ugly-number/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 # 堆1

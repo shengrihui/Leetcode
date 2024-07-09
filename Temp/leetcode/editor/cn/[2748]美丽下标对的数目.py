@@ -1,6 +1,5 @@
 # 2748 美丽下标对的数目
 # https://leetcode.cn/problems/number-of-beautiful-pairs/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

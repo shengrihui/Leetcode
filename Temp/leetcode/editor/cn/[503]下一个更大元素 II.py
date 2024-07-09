@@ -1,6 +1,5 @@
 # 503 下一个更大元素 II
 # https://leetcode.cn/problems/next-greater-element-ii/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

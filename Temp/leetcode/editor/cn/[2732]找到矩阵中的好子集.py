@@ -1,6 +1,5 @@
 # 2732 找到矩阵中的好子集
 # https://leetcode.cn/problems/find-a-good-subset-of-the-matrix/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

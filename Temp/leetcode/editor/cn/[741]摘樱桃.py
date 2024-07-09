@@ -1,6 +1,5 @@
 # 741 摘樱桃
 # https://leetcode.cn/problems/cherry-pickup/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

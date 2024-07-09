@@ -1,6 +1,5 @@
 # LCP 24 数字游戏
 # https://leetcode.cn/problems/5TxKeK/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

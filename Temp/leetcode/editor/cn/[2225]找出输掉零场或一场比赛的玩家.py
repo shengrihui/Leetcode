@@ -1,6 +1,5 @@
 # 2225 找出输掉零场或一场比赛的玩家
 # https://leetcode.cn/problems/find-players-with-zero-or-one-losses/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

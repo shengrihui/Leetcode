@@ -1,6 +1,5 @@
 # 724 寻找数组的中心下标
 # https://leetcode.cn/problems/find-pivot-index/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

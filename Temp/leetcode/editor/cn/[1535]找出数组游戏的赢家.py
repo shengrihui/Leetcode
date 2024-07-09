@@ -1,6 +1,5 @@
 # 1535 找出数组游戏的赢家
 # https://leetcode.cn/problems/find-the-winner-of-an-array-game/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

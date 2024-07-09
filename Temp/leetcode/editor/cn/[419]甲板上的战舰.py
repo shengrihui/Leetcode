@@ -1,6 +1,5 @@
 # 419 甲板上的战舰
 # https://leetcode.cn/problems/battleships-in-a-board/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

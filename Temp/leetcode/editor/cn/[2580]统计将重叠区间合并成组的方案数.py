@@ -1,6 +1,5 @@
 # 2580 统计将重叠区间合并成组的方案数
 # https://leetcode.cn/problems/count-ways-to-group-overlapping-ranges/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

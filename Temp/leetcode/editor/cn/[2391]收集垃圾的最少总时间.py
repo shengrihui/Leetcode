@@ -1,6 +1,5 @@
 # 2391 收集垃圾的最少总时间
 # https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 3033 修改矩阵
 # https://leetcode.cn/problems/modify-the-matrix/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

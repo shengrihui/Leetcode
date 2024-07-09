@@ -1,6 +1,5 @@
 # 1631 最小体力消耗路径
 # https://leetcode.cn/problems/path-with-minimum-effort/
-from imports import *
 
 
 # 二分+ dfs

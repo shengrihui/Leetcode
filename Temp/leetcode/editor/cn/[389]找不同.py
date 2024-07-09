@@ -1,6 +1,5 @@
 # 389 找不同
 # https://leetcode.cn/problems/find-the-difference/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

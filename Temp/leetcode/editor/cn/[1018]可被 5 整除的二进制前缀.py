@@ -1,6 +1,5 @@
 # 1018 可被 5 整除的二进制前缀
 # https://leetcode.cn/problems/binary-prefix-divisible-by-5/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

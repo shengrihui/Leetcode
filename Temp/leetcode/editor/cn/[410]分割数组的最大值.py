@@ -1,6 +1,5 @@
 # 410 分割数组的最大值
 # https://leetcode.cn/problems/split-array-largest-sum/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

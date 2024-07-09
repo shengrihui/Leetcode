@@ -1,6 +1,5 @@
 # 1146 快照数组
 # https://leetcode.cn/problems/snapshot-array/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

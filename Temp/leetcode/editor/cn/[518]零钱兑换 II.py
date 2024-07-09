@@ -1,6 +1,5 @@
 # 518 零钱兑换 II
 # https://leetcode.cn/problems/coin-change-ii/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

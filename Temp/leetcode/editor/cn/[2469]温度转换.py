@@ -1,6 +1,5 @@
 # 2469 温度转换
 # https://leetcode.cn/problems/convert-the-temperature/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

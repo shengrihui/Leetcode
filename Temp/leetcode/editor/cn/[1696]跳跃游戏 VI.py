@@ -1,6 +1,5 @@
 # 1696 跳跃游戏 VI
 # https://leetcode.cn/problems/jump-game-vi/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 2810 故障键盘
 # https://leetcode.cn/problems/faulty-keyboard/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

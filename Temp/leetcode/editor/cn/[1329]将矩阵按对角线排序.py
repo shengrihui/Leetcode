@@ -1,6 +1,5 @@
 # 1329 将矩阵按对角线排序
 # https://leetcode.cn/problems/sort-the-matrix-diagonally/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

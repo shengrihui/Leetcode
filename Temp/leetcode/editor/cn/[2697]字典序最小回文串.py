@@ -1,6 +1,5 @@
 # 2697 字典序最小回文串
 # https://leetcode.cn/problems/lexicographically-smallest-palindrome/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

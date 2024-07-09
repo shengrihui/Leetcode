@@ -1,6 +1,5 @@
 # 1976 到达目的地的方案数
 # https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

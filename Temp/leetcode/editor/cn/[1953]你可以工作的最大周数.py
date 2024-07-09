@@ -1,6 +1,5 @@
 # 1953 你可以工作的最大周数
 # https://leetcode.cn/problems/maximum-number-of-weeks-for-which-you-can-work/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

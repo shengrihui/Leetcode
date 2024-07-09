@@ -1,6 +1,5 @@
 # 2132 用邮票贴满网格图
 # https://leetcode.cn/problems/stamping-the-grid/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

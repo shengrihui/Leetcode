@@ -1,6 +1,5 @@
 # 996 正方形数组的数目
 # https://leetcode.cn/problems/number-of-squareful-arrays/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

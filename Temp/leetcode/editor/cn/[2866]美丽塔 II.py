@@ -1,6 +1,5 @@
 # 2866 美丽塔 II
 # https://leetcode.cn/problems/beautiful-towers-ii/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

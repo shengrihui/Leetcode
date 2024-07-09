@@ -1,6 +1,5 @@
 # 200 岛屿数量
 # https://leetcode.cn/problems/number-of-islands/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

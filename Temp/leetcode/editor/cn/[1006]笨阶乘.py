@@ -1,6 +1,5 @@
 # 1006 笨阶乘
 # https://leetcode.cn/problems/clumsy-factorial/
-from math import gcd
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 2129 将标题首字母大写
 # https://leetcode.cn/problems/capitalize-the-title/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

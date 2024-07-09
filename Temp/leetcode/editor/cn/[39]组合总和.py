@@ -1,6 +1,5 @@
 # 39 组合总和
 # https://leetcode.cn/problems/combination-sum/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

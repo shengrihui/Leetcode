@@ -1,6 +1,5 @@
 # 357 统计各位数字都不同的数字个数
 # https://leetcode.cn/problems/count-numbers-with-unique-digits/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 216 组合总和 III
 # https://leetcode.cn/problems/combination-sum-iii/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

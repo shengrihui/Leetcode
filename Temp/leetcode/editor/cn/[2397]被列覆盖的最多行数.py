@@ -1,6 +1,5 @@
 # 2397 被列覆盖的最多行数
 # https://leetcode.cn/problems/maximum-rows-covered-by-columns/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 1447 最简分数
 # https://leetcode.cn/problems/simplified-fractions/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

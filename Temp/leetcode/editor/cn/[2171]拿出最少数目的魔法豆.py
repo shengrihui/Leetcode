@@ -1,6 +1,5 @@
 # 2171 拿出最少数目的魔法豆
 # https://leetcode.cn/problems/removing-minimum-number-of-magic-beans/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

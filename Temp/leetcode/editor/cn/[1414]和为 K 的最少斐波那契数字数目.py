@@ -1,6 +1,5 @@
 # 1414 和为 K 的最少斐波那契数字数目
 # https://leetcode.cn/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 fibo = [1, 1]

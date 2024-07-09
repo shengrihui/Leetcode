@@ -1,6 +1,5 @@
 # 1437 是否所有 1 都至少相隔 k 个元素
 # https://leetcode.cn/problems/check-if-all-1s-are-at-least-length-k-places-away/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

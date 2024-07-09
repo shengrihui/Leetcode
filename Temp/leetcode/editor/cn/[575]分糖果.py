@@ -1,6 +1,5 @@
 # 575 分糖果
 # https://leetcode.cn/problems/distribute-candies/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

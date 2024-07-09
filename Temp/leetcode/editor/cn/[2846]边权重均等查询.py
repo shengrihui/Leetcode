@@ -1,6 +1,5 @@
 # 2846 边权重均等查询
 # https://leetcode.cn/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

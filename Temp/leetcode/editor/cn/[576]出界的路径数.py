@@ -1,6 +1,5 @@
 # 576 出界的路径数
 # https://leetcode.cn/problems/out-of-boundary-paths/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

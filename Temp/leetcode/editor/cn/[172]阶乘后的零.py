@@ -1,6 +1,5 @@
 # 172 阶乘后的零
 # https://leetcode.cn/problems/factorial-trailing-zeroes/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

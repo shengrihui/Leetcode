@@ -1,6 +1,5 @@
 # 377 组合总和 Ⅳ
 # https://leetcode.cn/problems/combination-sum-iv/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

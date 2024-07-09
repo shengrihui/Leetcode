@@ -1,6 +1,5 @@
 # 1958 检查操作是否合法
 # https://leetcode.cn/problems/check-if-move-is-legal/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

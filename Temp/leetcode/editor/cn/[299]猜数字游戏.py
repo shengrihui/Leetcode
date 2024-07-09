@@ -1,6 +1,5 @@
 # 299 猜数字游戏
 # https://leetcode.cn/problems/bulls-and-cows/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 2312 卖木头块
 # https://leetcode.cn/problems/selling-pieces-of-wood/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 # 超时记忆化搜索

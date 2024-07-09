@@ -1,6 +1,5 @@
 # 2192 有向无环图中一个节点的所有祖先
 # https://leetcode.cn/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

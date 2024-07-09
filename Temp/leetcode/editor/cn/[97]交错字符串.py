@@ -1,6 +1,5 @@
 # 97 交错字符串
 # https://leetcode.cn/problems/interleaving-string/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

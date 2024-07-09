@@ -1,6 +1,5 @@
 # 924 尽量减少恶意软件的传播
 # https://leetcode.cn/problems/minimize-malware-spread/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

@@ -1,6 +1,5 @@
 # 816 模糊坐标
 # https://leetcode.cn/problems/ambiguous-coordinates/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

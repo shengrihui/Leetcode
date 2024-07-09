@@ -1,6 +1,5 @@
 # 1997 访问完所有房间的第一天
 # https://leetcode.cn/problems/first-day-where-you-have-been-in-all-the-rooms/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

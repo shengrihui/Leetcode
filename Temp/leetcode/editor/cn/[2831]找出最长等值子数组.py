@@ -1,6 +1,5 @@
 # 2831 找出最长等值子数组
 # https://leetcode.cn/problems/find-the-longest-equal-subarray/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

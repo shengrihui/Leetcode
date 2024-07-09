@@ -1,6 +1,5 @@
 # 1160 拼写单词
 # https://leetcode.cn/problems/find-words-that-can-be-formed-by-characters/
-from imports import *
 
 # leetcode submit region begin(Prohibit modification and deletion)
 """

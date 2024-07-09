@@ -1,6 +1,5 @@
 # 2028 找出缺失的观测数据
 # https://leetcode.cn/problems/find-missing-observations/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)

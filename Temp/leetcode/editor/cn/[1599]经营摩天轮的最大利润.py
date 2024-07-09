@@ -1,6 +1,5 @@
 # 1599 经营摩天轮的最大利润
 # https://leetcode.cn/problems/maximum-profit-of-operating-a-centennial-wheel/
-from imports import *
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
