@@ -916,6 +916,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[148]排序链表.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[148]排序链表.md" />
+              <option name="frontendQuestionId" value="leetcode.cn148" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[148]排序链表.py" />
+              <option name="titleSlug" value="sort-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1503]所有蚂蚁掉下来前的最后一刻.py">
           <value>
             <LeetcodeEditor>
@@ -3619,6 +3630,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[42]接雨水.py" />
               <option name="titleSlug" value="trapping-rain-water" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[437]路径总和 III.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[437]路径总和 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn437" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[437]路径总和 III.py" />
+              <option name="titleSlug" value="path-sum-iii" />
             </LeetcodeEditor>
           </value>
         </entry>
