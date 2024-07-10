@@ -1,9 +1,8 @@
-from typing import List
-
 # 题目：100167. 统计移除递增子数组的数目 II
 # 题目链接：
 # 竞赛：https://leetcode.cn/contest/biweekly-contest-120/problems/count-the-number-of-incremovable-subarrays-ii/
 # 题库：https://leetcode.cn/problems/count-the-number-of-incremovable-subarrays-ii
+from typing import List
 
 # 二分
 """
@@ -45,14 +44,12 @@ class Solution:
         ans = i + 1  # 保留的数组部分的长度是 0，1，2 ... i 一共 i+1
         j = n - 1
         # 不需要 j>0 是因为整个数组递增的情况前面特判了，
-        # 那么一定有 nums[j] >= nums[j + 1] 会退出循
+        # 那么一定有 nums[j] >= nums[j + 1] 会退出循环
         while j == n - 1 or nums[j] < nums[j + 1]:
             while i > 0 and nums[i - 1] >= nums[j]:  # 当 nums[i-1] 比 nums[j] 小了退出 while
                 i -= 1
             j -= 1
             ans += i + 1
-        return ans
-
         return ans
 
 
