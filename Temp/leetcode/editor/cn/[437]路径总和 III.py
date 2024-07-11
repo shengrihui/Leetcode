@@ -10,27 +10,27 @@ from imports import *
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+# 用前缀和 + 哈希表的方法
+# 节点 i 到节点 j 的路径
+# v = 根到 j 的和
+# ans += v - targetSum 的数量
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
-        def dfs(node: Optional[TreeNode], s: int) -> None:
+        def dfs(node: Optional[TreeNode], pre_sum: int) -> None:
             if not node:
                 return
-            v = s + node.val
-            if v == targetSum:
-                nonlocal ans
-                print(s, node.val, node)
-                ans += 1
-            # print(node.val, "left", v)
-            # dfs(node.left, v)
-            # print(node.val, "left", 0)
-            # dfs(node.left, 0)
-            print(node.val, "r", v)
+            nonlocal ans
+            v = pre_sum + node.val
+            ans += cnt[v - targetSum]
+            cnt[v] += 1
+            dfs(node.left, v)
             dfs(node.right, v)
-            print(node.val, "r", 0)
-            dfs(node.right, 0)
+            cnt[v] -= 1
 
+        cnt = defaultdict(int)
+        cnt[0] = 1
         ans = 0
         dfs(root, 0)
-        print()
         return ans
 # leetcode submit region end(Prohibit modification and deletion)
