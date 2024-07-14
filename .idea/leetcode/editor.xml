@@ -4403,6 +4403,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[807]保持城市天际线.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[807]保持城市天际线.md" />
+              <option name="frontendQuestionId" value="leetcode.cn807" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[807]保持城市天际线.py" />
+              <option name="titleSlug" value="max-increase-to-keep-city-skyline" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[814]二叉树剪枝.py">
           <value>
             <LeetcodeEditor>
