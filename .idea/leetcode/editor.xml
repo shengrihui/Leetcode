@@ -949,6 +949,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1521]找到最接近目标值的函数值.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1521]找到最接近目标值的函数值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1521" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1521]找到最接近目标值的函数值.py" />
+              <option name="titleSlug" value="find-a-value-of-a-mysterious-function-closest-to-target" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[152]乘积最大子数组.py">
           <value>
             <LeetcodeEditor>
@@ -3333,6 +3344,50 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[307]区域和检索 - 数组可修改.py" />
               <option name="titleSlug" value="range-sum-query-mutable" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3095]或值至少 K 的最短子数组 I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3095]或值至少 K 的最短子数组 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3095" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3095]或值至少 K 的最短子数组 I.py" />
+              <option name="titleSlug" value="shortest-subarray-with-or-at-least-k-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3096]得到更多分数的最少关卡数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3096]得到更多分数的最少关卡数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3096" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3096]得到更多分数的最少关卡数目.py" />
+              <option name="titleSlug" value="minimum-levels-to-gain-more-points" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3097]或值至少为 K 的最短子数组 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3097]或值至少为 K 的最短子数组 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3097" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3097]或值至少为 K 的最短子数组 II.py" />
+              <option name="titleSlug" value="shortest-subarray-with-or-at-least-k-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3098]求出所有子序列的能量和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3098]求出所有子序列的能量和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3098" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3098]求出所有子序列的能量和.py" />
+              <option name="titleSlug" value="find-the-sum-of-subsequence-powers" />
             </LeetcodeEditor>
           </value>
         </entry>
