@@ -388,6 +388,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1186]删除一次得到子数组最大和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1186]删除一次得到子数组最大和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1186" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1186]删除一次得到子数组最大和.py" />
+              <option name="titleSlug" value="maximum-subarray-sum-with-one-deletion" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[118]杨辉三角.py">
           <value>
             <LeetcodeEditor>
@@ -1782,6 +1793,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[20]有效的括号.py" />
               <option name="titleSlug" value="valid-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2101]引爆最多的炸弹.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2101]引爆最多的炸弹.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2101" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2101]引爆最多的炸弹.py" />
+              <option name="titleSlug" value="detonate-the-maximum-bombs" />
             </LeetcodeEditor>
           </value>
         </entry>
