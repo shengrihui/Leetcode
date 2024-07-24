@@ -1,4 +1,4 @@
-# 996 正方形数组的数目
+# 996 平方数组的数目
 # https://leetcode.cn/problems/number-of-squareful-arrays/
 from imports import *
 
@@ -64,7 +64,7 @@ class Solution:
                         ans += dfs(n, state | (1 << i))
                         s.add(n)
             return ans
-
+             
         return dfs(None, 0)
 """
 # leetcode submit region end(Prohibit modification and deletion)

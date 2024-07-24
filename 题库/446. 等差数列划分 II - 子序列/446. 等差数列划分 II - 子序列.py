@@ -6,79 +6,42 @@ Created on Wed Aug 11 14:48:34 2021
 """
 
 from collections import defaultdict
+from functools import cache
 
 
+# dfs(j,d) 以 nums[j] 结尾每两个相邻元素差为 d 的子序列的个数
+# g[i][d] = [j1,j2,j3...] nums[i] - nums[j] = d
+# dfs 中为什么是 1 + dfs(j,d)
+# 那个 1 是 [nums[k],nums[j]]
+# 而 dfs(k,d) 是 [...,nums[k],nums[j]] 的个数
+# 因子子序最少 3 个元素，所以 i 和 j 循环那儿是 ans += dfs(j,d)
 def numberOfArithmeticSlices(nums):
-    print(nums)
+    @cache
+    def dfs(i: int, d: int) -> int:
+        res = 0
+        for j in g[i][d]:
+            res += 1 + dfs(j, d)
+        return res
+
     n = len(nums)
-    d_head_seq_dict = defaultdict(dict)
-    for i in range(n - 1):  # i算到倒数第二个
-        print(d_head_seq_dict)
-        for j in range(i + 1, n):  # j从idx_1的下一个开始一直到最后一个
-            d = nums[j] - nums[i]  # 计算nums[j]和nums[i]的差
-            if d not in d_head_seq_dict:  # 如果这个差d不在d_dict里，
-                d_head_seq_dict[d][i] = [i, j]  # 就新增它，并初始值为{i:[i,j]}
-            else:  # 如果这个差d再d_dict里，
-                for k in d_head_seq_dict[d]:  # 且已经有i在里面，
-                    if d == 0:
-                        if j not in d_head_seq_dict[d][k]:
-                            if nums[d_head_seq_dict[d][k][-1]] == nums[j]:
-                                d_head_seq_dict[d][k].append(j)
-                        break
-                    if i == d_head_seq_dict[d][k][-1]:  # 就将就j街道d_dict[d][i]后
-                        d_head_seq_dict[d][k].append(j)
-                        break
-                else:  # 不然就新增d_dict[d][i]，并初始为[i,j]
-                    d_head_seq_dict[d][i] = [i, j]
-    else:
-        d = nums[n - 1] - nums[n - 2]
-        # print(d)
-        # print(n-2)
-        if d in d_head_seq_dict:
-            for k in d_head_seq_dict[d]:
-                if n - 2 == d_head_seq_dict[d][k][-1]:
-                    d_head_seq_dict[d][k].append(n - 1)
-
-    print(d_head_seq_dict)
-    total = 0
-
-    acc = {}
-
-    def accumulate(x):
-        ret = int((x - 2) * (x - 2 + 1) / 2)
-        # d=2
-        # nd=(x-1)//d
-        # while nd>=2:
-        #     m=nd*d
-        #     ret+=(x-m)
-        #     d+=1
-        #     nd=(x-1)//d
-        return ret
-
-    for d, head_seq in d_head_seq_dict.items():
-        for head, seq in head_seq.items():
-            m = len(seq)
-            if m < 3:
-                continue
-            if d == 0:
-                # 计算C m取3，C m取4 ，一直到C m取l
-                # 也就是2的m次方-C m取1-C m取2
-                t = 2 ** m - 1 - m - m * (m - 1) / 2
-                total += int(t)
-            else:
-                if m not in acc:
-                    acc[m] = accumulate(m)
-                total += acc[m]
-    # print(acc)
-    # print(total)
-    return total
+    if n < 3:
+        return 0
+    g = [defaultdict(list) for _ in range(n)]
+    for i, x in enumerate(nums):
+        for j in range(i + 1, n):
+            g[j][nums[j] - x].append(i)
+    ans = 0
+    for i in range(n - 1, -1, -1):
+        for j in range(i - 1, 0, -1):
+            ans += dfs(j, nums[i] - nums[j])
+    return ans
 
 
-print(7 == numberOfArithmeticSlices(nums=[2, 4, 6, 8, 10]))
-print(16 == numberOfArithmeticSlices(nums=[7, 7, 7, 7, 7]))
-print(3 == numberOfArithmeticSlices(nums=[3, -1, -5, -9]))
-print(2 == numberOfArithmeticSlices(nums=[2, 2, 3, 4]))
-print(4 == numberOfArithmeticSlices(nums=[0, 1, 2, 2, 2, ]))
+print(7, numberOfArithmeticSlices(nums=[2, 4, 6, 8, 10]))
+print(16, numberOfArithmeticSlices(nums=[7, 7, 7, 7, 7]))
+print(3, numberOfArithmeticSlices(nums=[3, -1, -5, -9]))
+print(2, numberOfArithmeticSlices(nums=[2, 2, 3, 4]))
+print(4, numberOfArithmeticSlices(nums=[0, 1, 2, 2, 2, ]))
 
 """
 446. 等差数列划分 II - 子序列
