@@ -2973,6 +2973,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2740]找出分区值.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2740]找出分区值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2740" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2740]找出分区值.py" />
+              <option name="titleSlug" value="find-the-value-of-the-partition" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2741]特别的排列.py">
           <value>
             <LeetcodeEditor>
@@ -4290,6 +4301,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[689]三个无重叠子数组的最大和.py" />
               <option name="titleSlug" value="maximum-sum-of-3-non-overlapping-subarrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[699]掉落的方块.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[699]掉落的方块.md" />
+              <option name="frontendQuestionId" value="leetcode.cn699" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[699]掉落的方块.py" />
+              <option name="titleSlug" value="falling-squares" />
             </LeetcodeEditor>
           </value>
         </entry>
