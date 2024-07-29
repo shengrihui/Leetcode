@@ -3325,6 +3325,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2961]双模幂运算.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2961]双模幂运算.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2961" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2961]双模幂运算.py" />
+              <option name="titleSlug" value="double-modular-exponentiation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[299]猜数字游戏.py">
           <value>
             <LeetcodeEditor>
