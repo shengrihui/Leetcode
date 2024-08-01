@@ -3468,6 +3468,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3111]覆盖所有点的最少矩形数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3111]覆盖所有点的最少矩形数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3111" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3111]覆盖所有点的最少矩形数目.py" />
+              <option name="titleSlug" value="minimum-rectangles-to-cover-points" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3112]访问消失节点的最少时间.py">
           <value>
             <LeetcodeEditor>
@@ -4950,6 +4961,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCP 30]魔塔游戏.py" />
               <option name="titleSlug" value="p0NxJO" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCP 40]心算挑战.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[LCP 40]心算挑战.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCP 40" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCP 40]心算挑战.py" />
+              <option name="titleSlug" value="uOAnQW" />
             </LeetcodeEditor>
           </value>
         </entry>
