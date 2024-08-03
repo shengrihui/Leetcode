@@ -3523,6 +3523,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3143]正方形中的最多点数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3143]正方形中的最多点数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3143" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3143]正方形中的最多点数.py" />
+              <option name="titleSlug" value="maximum-points-inside-the-square" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[318]最大单词长度乘积.py">
           <value>
             <LeetcodeEditor>
