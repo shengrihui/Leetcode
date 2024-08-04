@@ -41,13 +41,8 @@ for e, a in examples:
 """
 
 test_url = [
-    "https://leetcode.cn/contest/biweekly-contest-134/problems/alternating-groups-i/",
-    "https://leetcode.cn/contest/biweekly-contest-134/problems/maximum-points-after-enemy-battles/",
-    "https://leetcode.cn/contest/biweekly-contest-134/problems/alternating-groups-ii/",
-    "https://leetcode.cn/contest/biweekly-contest-134/problems/alternating-groups-ii/",
-    "https://leetcode.cn/contest/biweekly-contest-134/problems/alternating-groups-ii/",
-    "https://leetcode.cn/contest/biweekly-contest-134/problems/alternating-groups-ii/"
-]
+               "https://leetcode.cn/contest/biweekly-contest-136/problems/time-taken-to-mark-all-nodes/",
+           ] * 10
 driver_dir = "E:/CS/PYTHON/08爬虫Chrome/"
 chrome_path = "C:/Program Files/Google/Chrome/Application/chrome.exe"
 
@@ -107,8 +102,8 @@ def kill_process_using_port(port):
 
 
 if __name__ == '__main__':
-    competition_page_url = "https://leetcode.cn/contest/weekly-contest-408"
-    # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-135"
+    competition_page_url = "https://leetcode.cn/contest/weekly-contest-409"
+    # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-136"
     coding_language = "Python3"
     remote_debugging_port = 9999
 
