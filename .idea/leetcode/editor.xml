@@ -36,6 +36,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1012]至少有 1 位重复的数字.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1012]至少有 1 位重复的数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1012" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1012]至少有 1 位重复的数字.py" />
+              <option name="titleSlug" value="numbers-with-repeated-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1017]负二进制转换.py">
           <value>
             <LeetcodeEditor>
@@ -2192,6 +2203,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2376]统计特殊整数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2376]统计特殊整数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2376" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2376]统计特殊整数.py" />
+              <option name="titleSlug" value="count-special-integers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[237]删除链表中的节点.py">
           <value>
             <LeetcodeEditor>
@@ -3146,6 +3168,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[27]移除元素.py" />
               <option name="titleSlug" value="remove-element" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2801]统计范围内的步进数字数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2801]统计范围内的步进数字数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2801" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2801]统计范围内的步进数字数目.py" />
+              <option name="titleSlug" value="count-stepping-numbers-in-range" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -4249,6 +4282,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[600]不含连续1的非负整数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[600]不含连续1的非负整数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn600" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[600]不含连续1的非负整数.py" />
+              <option name="titleSlug" value="non-negative-integers-without-consecutive-ones" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[605]种花问题.py">
           <value>
             <LeetcodeEditor>
@@ -4590,6 +4634,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[788]旋转数字.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[788]旋转数字.md" />
+              <option name="frontendQuestionId" value="leetcode.cn788" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[788]旋转数字.py" />
+              <option name="titleSlug" value="rotated-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[78]子集.py">
           <value>
             <LeetcodeEditor>
@@ -4785,6 +4840,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[901]股票价格跨度.py" />
               <option name="titleSlug" value="online-stock-span" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[902]最大为 N 的数字组合.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[902]最大为 N 的数字组合.md" />
+              <option name="frontendQuestionId" value="leetcode.cn902" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[902]最大为 N 的数字组合.py" />
+              <option name="titleSlug" value="numbers-at-most-n-given-digit-set" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -5082,6 +5148,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[LCR 168]丑数.py" />
               <option name="titleSlug" value="chou-shu-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[面试题 17.06]2出现的次数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[面试题 17.06]2出现的次数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 17.06" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[面试题 17.06]2出现的次数.py" />
+              <option name="titleSlug" value="number-of-2s-in-range-lcci" />
             </LeetcodeEditor>
           </value>
         </entry>
