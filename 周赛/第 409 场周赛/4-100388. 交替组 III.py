@@ -8,27 +8,8 @@ from typing import List
 
 
 class Solution:
-    def f(self, colors: List[int], k: int) -> int:
-        n = len(colors)
-        ans = cnt = 0
-        for i in range(2 * n):
-            if i > 0 and colors[i % n] == colors[(i - 1) % n]:
-                cnt = 0
-            cnt += 1
-            # 从 >= n 开始计数就可以避免前面重复
-            if i >= n and cnt >= k:
-                ans += 1
-        return ans
-
     def numberOfAlternatingGroups(self, colors: List[int], queries: List[List[int]]) -> List[int]:
-        ans = []
-        for q in queries:
-            if q[0] == 1:
-                ans.append(self.f(colors, q[1]))
-            else:
-                colors[q[1]] = q[2]
-        return ans
-
+        pass
 
 s = Solution()
 examples = [
