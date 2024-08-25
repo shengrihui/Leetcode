@@ -4480,6 +4480,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[698]划分为k个相等的子集.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[698]划分为k个相等的子集.md" />
+              <option name="frontendQuestionId" value="leetcode.cn698" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[698]划分为k个相等的子集.py" />
+              <option name="titleSlug" value="partition-to-k-equal-sum-subsets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[699]掉落的方块.py">
           <value>
             <LeetcodeEditor>

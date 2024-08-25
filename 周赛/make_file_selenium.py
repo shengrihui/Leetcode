@@ -25,7 +25,6 @@ from itertools import *
 from functools import *
 from math import inf, gcd, sqrt, isqrt, lcm, comb
 import bisect
-from bisect import *
 import heapq
 from heapq import *
 
@@ -41,8 +40,13 @@ for e, a in examples:
 """
 
 test_url = [
-               "https://leetcode.cn/contest/biweekly-contest-136/problems/time-taken-to-mark-all-nodes/",
-           ] * 10
+    "https://leetcode.cn/contest/biweekly-contest-136/problems/time-taken-to-mark-all-nodes/",
+    "https://leetcode.cn/contest/biweekly-contest-136/problems/time-taken-to-mark-all-nodes/",
+    "https://leetcode.cn/contest/weekly-contest-412/problems/final-array-state-after-k-multiplication-operations-ii/",
+    "https://leetcode.cn/contest/weekly-contest-412/problems/count-almost-equal-pairs-i/",
+    "https://leetcode.cn/contest/weekly-contest-412/problems/final-array-state-after-k-multiplication-operations-i/",
+    "https://leetcode.cn/contest/weekly-contest-412/problems/count-almost-equal-pairs-ii/",
+]
 driver_dir = "E:/CS/PYTHON/08爬虫Chrome/"
 chrome_path = "C:/Program Files/Google/Chrome/Application/chrome.exe"
 
@@ -102,7 +106,7 @@ def kill_process_using_port(port):
 
 
 if __name__ == '__main__':
-    competition_page_url = "https://leetcode.cn/contest/weekly-contest-411"
+    competition_page_url = "https://leetcode.cn/contest/weekly-contest-412"
     # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-137"
     coding_language = "Python3"
     remote_debugging_port = 9999
@@ -159,7 +163,7 @@ if __name__ == '__main__':
     if not os.path.exists(competition_title_text):
         os.mkdir(competition_title_text)
 
-    i = 4  # 题目a标签所在的li标签的xpath序号从2开始
+    i = 5  # 题目a标签所在的li标签的xpath序号从2开始
     while i >= 2:
         # 如果不是这一场竞赛的页面，就新开一个，这样每一道题都是一页
         if not re.search(r"第(.*?)周赛", bro.title):
@@ -181,8 +185,8 @@ if __name__ == '__main__':
                 # bro.refresh()
                 print("刷新")
 
-        a_element.click()
-        # bro.get(test_url[i])  # 测试时候用
+        # a_element.click()
+        bro.get(test_url[i])  # 测试时候用
         # 问题的题目
         # problem_title_element = WebDriverWait(bro, 10).until(
         #     EC.presence_of_element_located((By.XPATH, '//*[@id="base_content"]/div[1]/div/div/div[1]/h3')))
