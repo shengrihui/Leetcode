@@ -3600,6 +3600,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3144]分割字符频率相等的最少子字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3144]分割字符频率相等的最少子字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3144" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3144]分割字符频率相等的最少子字符串.py" />
+              <option name="titleSlug" value="minimum-substring-partition-of-equal-character-frequency" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3145]大数组元素的乘积.c">
           <value>
             <LeetcodeEditor>
