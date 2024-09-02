@@ -4,5 +4,6 @@
 
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
-    def convertTemperature(self, celsius: float) -> List[float]:
+    def convertTemperature(self, 摄氏度: float) -> List[float]:
+        return [摄氏度 + 273.15, 摄氏度 * 1.80 + 32.00]
 # leetcode submit region end(Prohibit modification and deletion)
