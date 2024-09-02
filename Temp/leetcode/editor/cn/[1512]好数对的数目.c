@@ -1,6 +1,5 @@
-# 1512 好数对的数目
-# https://leetcode.cn/problems/number-of-good-pairs/
-from imports import *
+// 1512 好数对的数目
+// https://leetcode.cn/problems/number-of-good-pairs/
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
