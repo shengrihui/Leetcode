@@ -20,13 +20,14 @@ py = """# {contest_id}
 # 题库：{leetcode_link}
 
 from typing import List
-from collections import *
-from itertools import *
-from functools import *
-from math import inf, gcd, sqrt, isqrt, lcm, comb
-import bisect
 import heapq
+from bisect import *
+from collections import Counter, defaultdict, deque
+from functools import *
 from heapq import *
+from itertools import *
+from math import comb, gcd, inf, isqrt, lcm, sqrt
+from typing import List, Optional
 
 {code}
 
