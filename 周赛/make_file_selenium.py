@@ -106,7 +106,7 @@ def kill_process_using_port(port):
 
 
 if __name__ == '__main__':
-    competition_page_url = "https://leetcode.cn/contest/weekly-contest-413"
+    competition_page_url = "https://leetcode.cn/contest/weekly-contest-414"
     # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-138"
     coding_language = "Python3"
     remote_debugging_port = 9999
