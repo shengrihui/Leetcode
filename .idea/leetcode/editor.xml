@@ -4909,6 +4909,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[661]图片平滑器.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[661]图片平滑器.md" />
+              <option name="frontendQuestionId" value="leetcode.cn661" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[661]图片平滑器.py" />
+              <option name="titleSlug" value="image-smoother" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[662]二叉树最大宽度.py">
           <value>
             <LeetcodeEditor>
@@ -4928,6 +4939,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[670]最大交换.py" />
               <option name="titleSlug" value="maximum-swap" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[671]二叉树中第二小的节点.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[671]二叉树中第二小的节点.md" />
+              <option name="frontendQuestionId" value="leetcode.cn671" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[671]二叉树中第二小的节点.c" />
+              <option name="titleSlug" value="second-minimum-node-in-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[671]二叉树中第二小的节点.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[671]二叉树中第二小的节点.md" />
+              <option name="frontendQuestionId" value="leetcode.cn671" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[671]二叉树中第二小的节点.c" />
+              <option name="titleSlug" value="second-minimum-node-in-a-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
