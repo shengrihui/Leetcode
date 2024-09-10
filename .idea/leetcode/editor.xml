@@ -2775,6 +2775,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2552]统计上升四元组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2552]统计上升四元组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2552" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2552]统计上升四元组.py" />
+              <option name="titleSlug" value="count-increasing-quadruplets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2558]从数量最多的堆取走礼物.py">
           <value>
             <LeetcodeEditor>
