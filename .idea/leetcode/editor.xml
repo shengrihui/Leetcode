@@ -2786,6 +2786,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2555]两个线段获得的最多奖品.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2555]两个线段获得的最多奖品.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2555" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2555]两个线段获得的最多奖品.py" />
+              <option name="titleSlug" value="maximize-win-from-two-segments" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2558]从数量最多的堆取走礼物.py">
           <value>
             <LeetcodeEditor>
