@@ -2852,6 +2852,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2576]求出最多标记下标.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2576]求出最多标记下标.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2576" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2576]求出最多标记下标.py" />
+              <option name="titleSlug" value="find-the-maximum-number-of-marked-indices" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2577]在网格图中访问一个格子的最少时间.py">
           <value>
             <LeetcodeEditor>
