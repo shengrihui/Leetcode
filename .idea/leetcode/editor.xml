@@ -2423,6 +2423,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2332]坐上公交的最晚时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2332]坐上公交的最晚时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2332" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2332]坐上公交的最晚时间.py" />
+              <option name="titleSlug" value="the-latest-time-to-catch-a-bus" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2336]无限集中的最小数字.py">
           <value>
             <LeetcodeEditor>
@@ -5434,6 +5445,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[814]二叉树剪枝.py" />
               <option name="titleSlug" value="binary-tree-pruning" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[815]公交路线.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[815]公交路线.md" />
+              <option name="frontendQuestionId" value="leetcode.cn815" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[815]公交路线.py" />
+              <option name="titleSlug" value="bus-routes" />
             </LeetcodeEditor>
           </value>
         </entry>
