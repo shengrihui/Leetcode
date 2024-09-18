@@ -2665,6 +2665,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2414]最长的字母序连续子字符串的长度.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2414]最长的字母序连续子字符串的长度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2414" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2414]最长的字母序连续子字符串的长度.c" />
+              <option name="titleSlug" value="length-of-the-longest-alphabetical-continuous-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2414]最长的字母序连续子字符串的长度.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2414]最长的字母序连续子字符串的长度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2414" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2414]最长的字母序连续子字符串的长度.c" />
+              <option name="titleSlug" value="length-of-the-longest-alphabetical-continuous-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2415]反转二叉树的奇数层.py">
           <value>
             <LeetcodeEditor>
