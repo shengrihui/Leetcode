@@ -2390,6 +2390,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2306]公司命名.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2306]公司命名.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2306" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2306]公司命名.py" />
+              <option name="titleSlug" value="naming-a-company" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[230]二叉搜索树中第K小的元素.py">
           <value>
             <LeetcodeEditor>
