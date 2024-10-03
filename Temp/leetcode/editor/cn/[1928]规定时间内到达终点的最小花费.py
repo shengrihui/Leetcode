@@ -19,6 +19,7 @@ class Solution:
         return ans if ans != inf else -1
 
 
+# 有错
 """
 class Solution:
     def minCost(self, maxTime: int, edges: List[List[int]], passingFees: List[int]) -> int:
