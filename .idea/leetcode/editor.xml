@@ -498,6 +498,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1227]飞机座位分配概率.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1227]飞机座位分配概率.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1227" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1227]飞机座位分配概率.py" />
+              <option name="titleSlug" value="airplane-seat-assignment-probability" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[122]买卖股票的最佳时机 II.py">
           <value>
             <LeetcodeEditor>
@@ -1576,6 +1587,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1845]座位预约管理系统.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1845]座位预约管理系统.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1845" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1845]座位预约管理系统.py" />
+              <option name="titleSlug" value="seat-reservation-manager" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1870]准时到达的列车最小时速.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1870]准时到达的列车最小时速.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1870" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1870]准时到达的列车最小时速.py" />
+              <option name="titleSlug" value="minimum-speed-to-arrive-on-time" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[187]重复的DNA序列.py">
           <value>
             <LeetcodeEditor>
@@ -1639,6 +1672,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1901]寻找峰值 II.py" />
               <option name="titleSlug" value="find-a-peak-element-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1928]规定时间内到达终点的最小花费.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1928]规定时间内到达终点的最小花费.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1928" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1928]规定时间内到达终点的最小花费.py" />
+              <option name="titleSlug" value="minimum-cost-to-reach-destination-in-time" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1958,6 +2002,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[206]反转链表.py" />
               <option name="titleSlug" value="reverse-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2073]买票需要的时间.c">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2073]买票需要的时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2073" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2073]买票需要的时间.py" />
+              <option name="titleSlug" value="time-needed-to-buy-tickets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2073]买票需要的时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2073]买票需要的时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2073" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2073]买票需要的时间.py" />
+              <option name="titleSlug" value="time-needed-to-buy-tickets" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -5896,6 +5962,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[97]交错字符串.py" />
               <option name="titleSlug" value="interleaving-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[983]最低票价.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[983]最低票价.md" />
+              <option name="frontendQuestionId" value="leetcode.cn983" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[983]最低票价.py" />
+              <option name="titleSlug" value="minimum-cost-for-tickets" />
             </LeetcodeEditor>
           </value>
         </entry>
