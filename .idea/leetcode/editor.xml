@@ -2258,6 +2258,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2187]完成旅途的最少时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2187]完成旅途的最少时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2187" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2187]完成旅途的最少时间.py" />
+              <option name="titleSlug" value="minimum-time-to-complete-trips" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[21]合并两个有序链表.py">
           <value>
             <LeetcodeEditor>
