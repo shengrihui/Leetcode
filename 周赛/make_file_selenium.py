@@ -107,7 +107,7 @@ def kill_process_using_port(port):
 
 
 if __name__ == '__main__':
-    competition_page_url = "https://leetcode.cn/contest/weekly-contest-417"
+    competition_page_url = "https://leetcode.cn/contest/weekly-contest-418"
     # competition_page_url = "https://leetcode.cn/contest/biweekly-contest-140"
     coding_language = "Python3"
     remote_debugging_port = 9999
@@ -164,7 +164,7 @@ if __name__ == '__main__':
     if not os.path.exists(competition_title_text):
         os.mkdir(competition_title_text)
 
-    i = 3  # 题目a标签所在的li标签的xpath序号从2开始
+    i = 5  # 题目a标签所在的li标签的xpath序号从2开始
     while i >= 2:
         # 如果不是这一场竞赛的页面，就新开一个，这样每一道题都是一页
         if not re.search(r"第(.*?)周赛", bro.title):
