@@ -24,7 +24,7 @@ class Solution:
         for right, x in enumerate(nums):
             s = update(x, 1)  # 往 bits 里加
             ans = min(ans, abs(k - s))
-            # 越或越大，移动左端点是得 s 越小
+            # 越或越大，移动左端点 s 越小
             # 当 s >= k 移动 left （题目是 与 的话就 k >=s )
             while left < right and k <= s:
                 s = update(nums[left], -1)  # 往 bits 里减少
