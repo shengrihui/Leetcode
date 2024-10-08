@@ -4359,6 +4359,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3171]找到按位或最接近 K 的子数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3171]找到按位或最接近 K 的子数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3171" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3171]找到按位或最接近 K 的子数组.py" />
+              <option name="titleSlug" value="find-subarray-with-bitwise-or-closest-to-k" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3174]清除数字.c">
           <value>
             <LeetcodeEditor>
