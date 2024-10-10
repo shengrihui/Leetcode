@@ -4359,6 +4359,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3162]优质数对的总数 I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3162]优质数对的总数 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3162" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3162]优质数对的总数 I.py" />
+              <option name="titleSlug" value="find-the-number-of-good-pairs-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3164]优质数对的总数 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3164]优质数对的总数 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3164" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3164]优质数对的总数 II.py" />
+              <option name="titleSlug" value="find-the-number-of-good-pairs-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3171]找到按位或最接近 K 的子数组.py">
           <value>
             <LeetcodeEditor>
