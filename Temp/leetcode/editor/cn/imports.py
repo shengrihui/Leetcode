@@ -4,7 +4,7 @@ from collections import Counter, defaultdict, deque
 from functools import *
 from heapq import *
 from itertools import *
-from math import comb, gcd, inf, isqrt, lcm, sqrt
+from math import ceil, comb, gcd, inf, isqrt, lcm, sqrt
 from typing import List, Optional
 
 
@@ -42,3 +42,4 @@ if __name__ == '__main__':
     a = lcm(2, 3)
     a = sqrt(9)
     a = isqrt(9)
+    a = ceil(6.5)
