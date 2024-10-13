@@ -5,6 +5,7 @@
 + 20240309 [2386. 找出数组的第 K 大和](https://leetcode.cn/problems/find-the-k-sum-of-an-array/)
 + 20240928
 + 20241003 1928
++ 20241014 [887. 鸡蛋掉落](https://leetcode.cn/problems/super-egg-drop/)
 
 # 周赛
 
