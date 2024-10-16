@@ -6,6 +6,7 @@
 + 20240928
 + 20241003 1928
 + 20241014 [887. 鸡蛋掉落](https://leetcode.cn/problems/super-egg-drop/)
++ 20241017 [3193. 统计逆序对的数目](https://leetcode.cn/problems/count-the-number-of-inversions/)
 
 # 周赛
 
