@@ -4469,6 +4469,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3193]统计逆序对的数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3193]统计逆序对的数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3193" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3193]统计逆序对的数目.py" />
+              <option name="titleSlug" value="count-the-number-of-inversions" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[319]灯泡开关.py">
           <value>
             <LeetcodeEditor>
