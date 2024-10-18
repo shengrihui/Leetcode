@@ -4469,6 +4469,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3191]使二进制数组全部等于 1 的最少操作次数 I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3191]使二进制数组全部等于 1 的最少操作次数 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3191" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3191]使二进制数组全部等于 1 的最少操作次数 I.py" />
+              <option name="titleSlug" value="minimum-operations-to-make-binary-array-elements-equal-to-one-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3192]使二进制数组全部等于 1 的最少操作次数 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3192]使二进制数组全部等于 1 的最少操作次数 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3192" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3192]使二进制数组全部等于 1 的最少操作次数 II.py" />
+              <option name="titleSlug" value="minimum-operations-to-make-binary-array-elements-equal-to-one-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3193]统计逆序对的数目.py">
           <value>
             <LeetcodeEditor>
