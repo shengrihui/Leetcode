@@ -5987,6 +5987,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[908]最小差值 I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[908]最小差值 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn908" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[908]最小差值 I.py" />
+              <option name="titleSlug" value="smallest-range-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[910]最小差值 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[910]最小差值 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn910" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[910]最小差值 II.py" />
+              <option name="titleSlug" value="smallest-range-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[924]尽量减少恶意软件的传播.py">
           <value>
             <LeetcodeEditor>
