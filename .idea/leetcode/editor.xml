@@ -5404,6 +5404,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[684]冗余连接.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[684]冗余连接.md" />
+              <option name="frontendQuestionId" value="leetcode.cn684" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[684]冗余连接.py" />
+              <option name="titleSlug" value="redundant-connection" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[689]三个无重叠子数组的最大和.py">
           <value>
             <LeetcodeEditor>
