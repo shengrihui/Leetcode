@@ -1,5 +1,3 @@
-from collections import defaultdict
-
 # 题目：# 8040. 生成特殊数字的最少操作
 # 题目链接：https://leetcode.cn/problems/minimum-operations-to-make-a-special-number/description/
 # 第 361 场周赛
