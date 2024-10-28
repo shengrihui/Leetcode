@@ -6,16 +6,13 @@ from imports import *
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
-        mx = 0
-        for a, b in edges:
-            mx = max(mx, a, b)
-        p = list(range(mx + 1))
-
         def find(x):
             if x != p[x]:
                 p[x] = find(p[x])
             return p[x]
 
+        n = len(edges)
+        p = list(range(n + 1))
         for a, b in edges:
             pa, pb = find(a), find(b)
             if pa == pb:
