@@ -4403,6 +4403,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3165]不包含相邻元素的子序列的最大和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3165]不包含相邻元素的子序列的最大和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3165" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3165]不包含相邻元素的子序列的最大和.py" />
+              <option name="titleSlug" value="maximum-sum-of-subsequence-with-non-adjacent-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3171]找到按位或最接近 K 的子数组.py">
           <value>
             <LeetcodeEditor>
