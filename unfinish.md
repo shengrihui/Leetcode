@@ -9,6 +9,9 @@
 + 20241017 [3193. [统计逆序对的数目](https://leetcode.cn/problems/count-the-number-of-inversions/)
 + 20241031 [3165. [不包含相邻元素的子序列的最大和](https://leetcode.cn/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/description/?envType=daily-question&envId=2024-10-31)
 + 20241108 3235. [判断矩形的两个角落是否可达](https://leetcode.cn/problems/check-if-the-rectangle-corner-is-reachable/description/?envType=daily-question&envId=2024-11-08)
++
+20241125 [632. 最小区间](https://leetcode.cn/problems/smallest-range-covering-elements-from-k-lists/description/?envType=daily-question&envId=2024-11-24)
++
 
 # 周赛
 
