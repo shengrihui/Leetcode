@@ -11,7 +11,7 @@
 + 20241108 3235. [判断矩形的两个角落是否可达](https://leetcode.cn/problems/check-if-the-rectangle-corner-is-reachable/description/?envType=daily-question&envId=2024-11-08)
 +
 20241125 [632. 最小区间](https://leetcode.cn/problems/smallest-range-covering-elements-from-k-lists/description/?envType=daily-question&envId=2024-11-24)
-+
++ 20241204
 
 # 周赛
 
