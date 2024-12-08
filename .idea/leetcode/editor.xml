@@ -1587,6 +1587,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1812]判断国际象棋棋盘中一个格子的颜色.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1812]判断国际象棋棋盘中一个格子的颜色.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1812" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1812]判断国际象棋棋盘中一个格子的颜色.py" />
+              <option name="titleSlug" value="determine-color-of-a-chessboard-square" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1823]找出游戏的获胜者.py">
           <value>
             <LeetcodeEditor>
