@@ -3633,6 +3633,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2717]半有序排列.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2717]半有序排列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2717" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2717]半有序排列.py" />
+              <option name="titleSlug" value="semi-ordered-permutation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2719]统计整数数目.py">
           <value>
             <LeetcodeEditor>
