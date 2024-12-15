@@ -674,6 +674,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1338]数组大小减半.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1338]数组大小减半.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1338" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1338]数组大小减半.py" />
+              <option name="titleSlug" value="reduce-array-size-to-the-half" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1349]参加考试的最大学生数.py">
           <value>
             <LeetcodeEditor>
