@@ -4436,6 +4436,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3159]查询数组中元素的出现位置.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[3159]查询数组中元素的出现位置.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3159" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3159]查询数组中元素的出现位置.py" />
+              <option name="titleSlug" value="find-occurrences-of-an-element-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[3162]优质数对的总数 I.py">
           <value>
             <LeetcodeEditor>
