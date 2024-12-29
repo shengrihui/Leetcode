@@ -707,6 +707,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1366]通过投票对团队排名.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[1366]通过投票对团队排名.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1366" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[1366]通过投票对团队排名.py" />
+              <option name="titleSlug" value="rank-teams-by-votes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[136]只出现一次的数字.py">
           <value>
             <LeetcodeEditor>
