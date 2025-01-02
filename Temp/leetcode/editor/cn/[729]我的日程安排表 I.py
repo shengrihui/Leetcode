@@ -10,6 +10,7 @@ class MyCalendar:
 
     def book(self, startTime: int, endTime: int) -> bool:
         for l, r in self.a:
+            # if startTime <= l < endTime or startTime < r <= endTime or l <= startTime < endTime <= r:
             if l < endTime and startTime < r:
                 return False
         self.a.append([startTime, endTime])
