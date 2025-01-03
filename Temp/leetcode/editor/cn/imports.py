@@ -7,6 +7,8 @@ from itertools import *
 from math import ceil, comb, gcd, inf, isqrt, lcm, sqrt
 from typing import List, Optional
 
+from sortedcontainers import SortedDict
+
 
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -43,3 +45,5 @@ if __name__ == '__main__':
     a = sqrt(9)
     a = isqrt(9)
     a = ceil(6.5)
+
+    a = SortedDict()
