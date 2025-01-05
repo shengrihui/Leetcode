@@ -2522,6 +2522,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2274]不含特殊楼层的最大连续楼层数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/[2274]不含特殊楼层的最大连续楼层数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2274" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2274]不含特殊楼层的最大连续楼层数.py" />
+              <option name="titleSlug" value="maximum-consecutive-floors-without-special-floors" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/[2276]统计区间中的整数数目.py">
           <value>
             <LeetcodeEditor>
