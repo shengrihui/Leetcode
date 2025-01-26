@@ -8,6 +8,7 @@ class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
         def dfs(i: int, rest: int) -> None:
             nonlocal t
+            # 两个 if 不能换！！
             if rest == 0:  # 找到一种
                 ans.append(t[:])
                 return
